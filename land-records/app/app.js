@@ -13,6 +13,23 @@
     ["有官印", Math.round(o.gov_share * 100), "%"],
   ].map(([k, v, u]) => `<div><dt>${k}</dt><dd>${v}<small>${u}</small></dd></div>`).join("");
 
+  /* ---------- findings: period seal shares, same-surname share ---------- */
+  const shareOf = (p) => {
+    const n = (p.Government || 0) + (p.Personal || 0) + (p.Other || 0);
+    return n ? Math.round(((p.Government || 0) / n) * 100) : 0;
+  };
+  const periodMap = Object.fromEntries(o.by_period.map((p) => [p.period, p]));
+  document.querySelectorAll("[data-share]").forEach((el) => {
+    const p = periodMap[el.dataset.share];
+    if (p) el.textContent = shareOf(p) + "%";
+  });
+  const ss = o.same_surname;
+  $("#same-share").textContent = `${Math.round((ss.same / ss.pairs) * 100)}%（${ss.same}／${ss.pairs} 件）`;
+  $("#seal-trend").innerHTML = o.by_period.filter((p) => p.period !== "明").map((p) => {
+    const n = (p.Government || 0) + (p.Personal || 0) + (p.Other || 0);
+    return `<div class="col"><div class="stack"><div class="fill" style="height:${shareOf(p)}%">${shareOf(p)}%</div></div><div class="lab">${p.period}</div><div class="n">${n} 件</div></div>`;
+  }).join("") + `<div class="col"><div class="stack" style="background:none"></div><div class="lab" style="font-size:12px;color:var(--ink-3)">有官印比例</div><div class="n">明代僅 1 件</div></div>`;
+
   /* ---------- quarter-century chart (vanilla SVG) ---------- */
   (function quarterChart() {
     const have = new Map(o.by_quarter_century.map((r) => [r.start, r]));
@@ -82,7 +99,7 @@
 
   /* ---------- households ---------- */
   const tagFor = (t) => ({ 原文: "tag-stated", 推測: "tag-inferred", 推算: "tag-calc" }[t] || "tag-limit");
-  const statusLabel = { done: "已核", partial: "部分", unchecked: "待核" };
+  const statusLabel = { done: "已核", partial: "部分", unchecked: "待核", inferred: "推測" };
   function relClass(rel) {
     if (!rel) return "";
     if (/推測|推定/.test(rel)) return "inferred";
@@ -109,7 +126,7 @@
     $("#hh-panel").innerHTML = `
       <div class="hh-head">
         <h3>${esc(h.title)}</h3>
-        <div class="span">${esc(h.span)}　<span class="tag ${h.status === "done" ? "tag-stated" : "tag-limit"}">${statusLabel[h.status] || ""}</span></div>
+        <div class="span">${esc(h.span)}　<span class="tag ${h.status === "done" ? "tag-stated" : h.status === "inferred" ? "tag-inferred" : "tag-limit"}">${statusLabel[h.status] || ""}</span></div>
         <p class="lede">${esc(h.lede)}</p>
         <ul class="points">${pts}</ul>
       </div>
