@@ -1,0 +1,307 @@
+{
+  "id": "31735066266150",
+  "image": "31735066266150_001.jpg",
+  "width": 2240,
+  "height": 2500,
+  "source_url": "https://digital.library.pitt.edu/islandora/object/pitt%3A31735066266150",
+  "title": {
+    "zh": "民國三十六年林森縣發給王鐘鈞土地管業執照",
+    "en": "Land ownership certificate issued by Linsen County to Wang Zhongjun, 1947"
+  },
+  "date": {
+    "original": "中華民國三十六年四月　日",
+    "western": "1947",
+    "zh": "中华民国三十六年四月",
+    "en": "4th month, 36th year of the Republic of China (April 1947)"
+  },
+  "type": {
+    "zh": "土地管業執照（官發地權憑證）",
+    "en": "Government-issued land ownership certificate"
+  },
+  "place": {
+    "zh": "福建省林森縣（今福州市閩侯縣）",
+    "en": "Linsen County (present-day Minhou, Fuzhou), Fujian"
+  },
+  "summary": {
+    "zh": "这是1947年福建省林森县（即闽侯县）政府根据“土地陈报”发给业主王钟钧的土地管业执照，登记了一块约0.07亩的宅基地及其每年0.08元的田赋。与清代买卖双方自立的私契不同，它是国民政府地籍登记和田赋征收体系的一部分：产权由政府审核确认，以后买卖、典当、继承都必须到田赋机关过户换照。",
+    "en": "A 1947 land ownership certificate issued by the government of Linsen County (Minhou, near Fuzhou) to Wang Zhongjun after the county's land self-reporting survey, recording a 0.07-mu house plot and its annual land tax of 0.08 yuan. Unlike Qing-era private deeds written between seller and buyer, this is a state document from the Nationalist cadastral and land-tax system: the government confirms title, and any later sale, mortgage or inheritance must be re-registered at the land-tax office."
+  },
+  "flow": [
+    "verify",
+    "tax",
+    "keep"
+  ],
+  "regions": [
+    {
+      "id": "r1",
+      "category": "title",
+      "label": {
+        "zh": "执照名称与发照机关",
+        "en": "Title and issuing county"
+      },
+      "bbox": [
+        0.184,
+        0.127,
+        0.636,
+        0.098
+      ],
+      "original": "福建省林森縣 / 土地管業執照",
+      "modern_zh": "福建省林森县 土地管业执照。这是县政府发给业主、证明其对这块土地拥有管业（所有、经营）权的官方执照。",
+      "english": "Fujian Province, Linsen County — Land Ownership Certificate (tudi guanye zhizhao), an official certificate confirming the holder's right to own and manage the plot.",
+      "confidence": "high",
+      "note": "林森縣即閩侯縣（福州附近）在抗战后期至1949年前后使用的县名，为纪念国民政府主席林森（闽侯人，1943年卒）而改名；待核：改名与复名的确切年份（约1944年改名，1949/1950年前后复称閩侯）。"
+    },
+    {
+      "id": "r2",
+      "category": "other",
+      "label": {
+        "zh": "执照编号",
+        "en": "Serial number"
+      },
+      "bbox": [
+        0.22,
+        0.08,
+        0.29,
+        0.035
+      ],
+      "original": "西字第005599號",
+      "modern_zh": "西字第005599号。“西”是编号所用的字头（与地号“西字第…段”一致），后面是印刷的流水号。",
+      "english": "Serial no. Xi-zi 005599. 'Xi' (West) is the series character, matching the 'Xi' cadastral section in the plot number; the number is machine-printed.",
+      "confidence": "high",
+      "note": "第三位“5”印得较淡，待核：数字是否確為005599。"
+    },
+    {
+      "id": "r3",
+      "category": "official",
+      "label": {
+        "zh": "县政府印刷告示文字",
+        "en": "Printed official statement"
+      },
+      "bbox": [
+        0.773,
+        0.24,
+        0.148,
+        0.56
+      ],
+      "original": "林森縣政府為發給土地管業執照事 / 查本縣奉　令舉辦土地陳報右記業主地畝業經審核無訛合行填發管業執照以憑管業 / 嗣後如有買賣典當繼承分割合併贈與交換或其他產權移轉時務須持照遵章向本縣田賦 / 機關聲請推收過戶換領新照倘有私擅塗改或偽造者按律治罪須至執照者",
+      "modern_zh": "林森县政府为发给土地管业执照的事：本县奉上级命令办理“土地陈报”（业主自报田地），右边所记业主的田亩已经审核无误，所以填发管业执照，作为管业的凭证。以后如有买卖、典当、继承、分割、合并、赠与、交换或其他产权转移，必须拿着本执照按章程到本县田赋机关申请“推收过户”（把赋税户名从旧业主转到新业主），换领新照。如有私自涂改或伪造的，依法治罪。特发此执照。",
+      "english": "Linsen County Government, concerning the issue of land ownership certificates: By order, this county has carried out a land self-reporting survey (tudi chenbao). The owner's land recorded at right has been checked and found correct, so this certificate is issued as proof of ownership. Hereafter, upon any sale, mortgage (dian), inheritance, partition, merger, gift, exchange or other transfer of title, the holder must bring this certificate to the county land-tax office, apply to transfer the tax registration (tuishou guohu) and obtain a new certificate. Anyone altering or forging it will be punished by law. This certificate is hereby issued.",
+      "confidence": "high",
+      "note": "“奉”後空一格（抬頭，表示敬意）。與清代私契不同：这里不是卖主和买主之间的契约，而是政府根据地籍登记（土地陈报）直接向业主发放的产权凭证，产权转移必须到田赋机关办理过户。"
+    },
+    {
+      "id": "r4",
+      "category": "buyer",
+      "label": {
+        "zh": "业主姓名",
+        "en": "Owner"
+      },
+      "bbox": [
+        0.712,
+        0.24,
+        0.058,
+        0.24
+      ],
+      "original": "業主姓名　王鐘鈞",
+      "modern_zh": "业主（土地所有人）姓名：王钟钧。",
+      "english": "Name of owner: Wang Zhongjun.",
+      "confidence": "high",
+      "note": "“代表人姓名”一栏空白。“鐘”字手写，亦可能作“鍾”，待核。"
+    },
+    {
+      "id": "r5",
+      "category": "buyer",
+      "label": {
+        "zh": "业主住址",
+        "en": "Owner's address"
+      },
+      "bbox": [
+        0.678,
+        0.48,
+        0.087,
+        0.25
+      ],
+      "original": "住址　林森縣尚[?]干[?]鄉　保　甲　馬[?]井[?]村　戶　/　林森縣　鄉　保　甲　村　戶　記",
+      "modern_zh": "住址：林森县□□乡（可能是尚干乡）马井村（?）。保、甲、户等栏未填。",
+      "english": "Address: X-X township (possibly Shanggan), Majing(?) village, Linsen County. The bao-jia (household registration) and household-number blanks are left empty.",
+      "confidence": "low",
+      "note": "待核：乡名两字为草书，初读“尚干”（闽侯尚干镇），但也可能读作别的字；村名初读“馬井”，第二字不确定，“村”字被手写遮住。左侧第二行印刷“林森縣…鄉…保…甲…村…戶”及“記”為空白。"
+    },
+    {
+      "id": "r6",
+      "category": "property",
+      "label": {
+        "zh": "土地坐落",
+        "en": "Location of the land"
+      },
+      "bbox": [
+        0.636,
+        0.26,
+        0.042,
+        0.43
+      ],
+      "original": "土地坐落　尚[?]干[?]鄉(鎮)土名馬坑[?]",
+      "modern_zh": "土地坐落：□□乡（镇），土名（当地俗称地名）马坑。",
+      "english": "Location: X-X township (possibly Shanggan), local place-name Makeng(?).",
+      "confidence": "medium",
+      "note": "待核：乡名同住址栏，草书难辨；“坑”字较可信，“馬”字可能是其他字。"
+    },
+    {
+      "id": "r7",
+      "category": "property",
+      "label": {
+        "zh": "段别地号与地目等则",
+        "en": "Cadastral section/plot no. and land category/grade"
+      },
+      "bbox": [
+        0.547,
+        0.26,
+        0.089,
+        0.435
+      ],
+      "original": "段別地號　西字第□段第32[?]號 / 地目等則　基地壹[?]等下則",
+      "modern_zh": "段别地号：西字第□段第32号（地籍图上的编号）。地目等则：基地（建房用地、宅基地），壹等下则（用于定赋的土地等级）。",
+      "english": "Cadastral section and plot: 'Xi' series, section □, plot no. 32(?). Land category and grade: building land (jidi, house site), class one(?), lower grade.",
+      "confidence": "low",
+      "note": "待核：段号为一个草写字（像“今”或“六”或数码），未能确认；地号似为阿拉伯数字“32”；“等”前一字像草书“壹”，亦可能为“叁”。"
+    },
+    {
+      "id": "r8",
+      "category": "property",
+      "label": {
+        "zh": "面积",
+        "en": "Area"
+      },
+      "bbox": [
+        0.5,
+        0.26,
+        0.047,
+        0.435
+      ],
+      "original": "面積　零畝零分柒厘",
+      "modern_zh": "面积：0亩0分7厘，即0.07亩，约47平方米，是很小的一块宅基地。",
+      "english": "Area: 0 mu 0 fen 7 li, i.e. 0.07 mu (about 47 m²) — a small house plot.",
+      "confidence": "medium",
+      "note": "表格印有“畝／分／厘”三格，未见“毫”。“柒”為草书。待核：换算按1市亩≈666.7平方米，当地旧亩可能不同。"
+    },
+    {
+      "id": "r9",
+      "category": "tax",
+      "label": {
+        "zh": "赋额（田赋）",
+        "en": "Land tax assessment"
+      },
+      "bbox": [
+        0.455,
+        0.26,
+        0.045,
+        0.435
+      ],
+      "original": "賦額　零元零角捌[?]分",
+      "modern_zh": "赋额：0元0角8分，即每年应缴田赋0.08元（法币）。旁边的“收益”（元／斤）和“地价”（元）两栏空白。",
+      "english": "Tax assessment: 0 yuan 0 jiao 8 fen — an annual land tax of 0.08 yuan. The adjoining columns for yield (in yuan or jin) and land value (yuan) are blank.",
+      "confidence": "medium",
+      "note": "待核：“分”上的草字像“捌”，也可能是“細”形的其他数字。民国时期田赋自1941年起改征实物（田赋征实），由田赋粮食管理处管理，故有“元（斤）”两种单位。"
+    },
+    {
+      "id": "r10",
+      "category": "boundary",
+      "label": {
+        "zh": "图略（四至示意图）",
+        "en": "Sketch map (north/east/south/west)"
+      },
+      "bbox": [
+        0.366,
+        0.7,
+        0.309,
+        0.205
+      ],
+      "original": "圖略　北　東　南　西",
+      "modern_zh": "图略：应画出地块形状和四邻的示意图，方位标北、东、南、西。此处基本空白，只有中间一个小方框。",
+      "english": "Sketch map with compass points north, east, south and west, meant to show the plot's shape and neighbours. It is essentially blank except for a small rectangle drawn in the centre.",
+      "confidence": "high",
+      "note": "与清代私契写明“東至…西至…”四至文字不同，这里用官方的地籍图号和示意图代替。"
+    },
+    {
+      "id": "r11",
+      "category": "date",
+      "label": {
+        "zh": "发照日期",
+        "en": "Date of issue"
+      },
+      "bbox": [
+        0.254,
+        0.24,
+        0.034,
+        0.62
+      ],
+      "original": "中華民國三十六年四月　日",
+      "modern_zh": "中华民国三十六年四月（1947年4月），日期未填。",
+      "english": "Fourth month of the 36th year of the Republic of China (April 1947); the day is left blank.",
+      "confidence": "medium",
+      "note": "“六”为手写草字，形近“六”，待核；“四”亦为手写。"
+    },
+    {
+      "id": "r12",
+      "category": "buyer",
+      "label": {
+        "zh": "执照收执人",
+        "en": "Recipient line"
+      },
+      "bbox": [
+        0.31,
+        0.385,
+        0.042,
+        0.405
+      ],
+      "original": "右給王鐘鈞收執",
+      "modern_zh": "以上执照发给王钟钧收存保管。",
+      "english": "The above is issued to Wang Zhongjun to keep.",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r13",
+      "category": "official",
+      "label": {
+        "zh": "县长与田赋粮食管理处处长署名",
+        "en": "Signatures of the county magistrate and land-tax director"
+      },
+      "bbox": [
+        0.1,
+        0.37,
+        0.125,
+        0.49
+      ],
+      "original": "縣長　（紫色名章）　/　林森田賦糧食管理處處長　（紫色名章）",
+      "modern_zh": "县长和“林森田赋粮食管理处处长”两位官员署名，各盖一枚紫色印泥的签名章。",
+      "english": "Signed by the County Magistrate and by the Director of the Linsen Land-Tax and Grain Administration Office, each with a purple-ink name stamp.",
+      "confidence": "high",
+      "note": "名章人名不作识读。"
+    },
+    {
+      "id": "r14",
+      "category": "seal",
+      "label": {
+        "zh": "县政府大印",
+        "en": "County government seal"
+      },
+      "bbox": [
+        0.137,
+        0.362,
+        0.29,
+        0.236
+      ],
+      "original": "□□□□□□（篆文方印，朱色）",
+      "modern_zh": "朱红色方形官印，篆书，大概是“林森县政府印”之类的县政府印信，盖在日期上（骑年月）。",
+      "english": "Large square red official seal in seal script, presumably the Linsen County Government seal, stamped over the date as is customary.",
+      "confidence": "low",
+      "note": "待核：印文未能识读，“林森縣政府印”只是推测。另外右边缘有一枚被裁切的红色半印，盖在与存根相连的骑缝编号“西字第…號”上（可见“字”“第”“伍[?]”“段”“號”等残字），用于与存根比对防伪。"
+    }
+  ],
+  "full_text": "西字第005599號 / 福建省林森縣 / 土地管業執照 / 林森縣政府為發給土地管業執照事 / 查本縣奉　令舉辦土地陳報右記業主地畝業經審核無訛合行填發管業執照以憑管業 / 嗣後如有買賣典當繼承分割合併贈與交換或其他產權移轉時務須持照遵章向本縣田賦 / 機關聲請推收過戶換領新照倘有私擅塗改或偽造者按律治罪須至執照者 / 業主姓名　王鐘鈞　住址　林森縣尚[?]干[?]鄉　保　甲　馬[?]井[?]村　戶 / 代表人姓名　住址　林森縣　鄉　保　甲　村　戶　記 / 土地標示 / 土地坐落　尚[?]干[?]鄉(鎮)土名馬坑[?] / 段別地號　西字第□段第32[?]號 / 地目等則　基地壹[?]等下則 / 面積　零畝零分柒厘 / 賦額　零元零角捌[?]分 / 收益　元(斤) / 地價　元 / 圖略　北　東　南　西 / 右給王鐘鈞收執 / 中華民國三十六年四月　日 / 縣長　□□□ / 林森田賦糧食管理處處長　□□□",
+  "review": {
+    "status": "ai-draft",
+    "notes": "AI初稿。最不确定：乡名/村名（草书）、段号与地号、地目等级首字、大红印印文。"
+  }
+}

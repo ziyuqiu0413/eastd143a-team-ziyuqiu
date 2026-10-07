@@ -1,0 +1,27 @@
+{
+  "deeds": [
+    "31735064607843",
+    "31735064607413",
+    "31735064607470",
+    "31735064607884",
+    "31735068223373",
+    "31735066266150"
+  ],
+  "stories": [
+    {
+      "id": "majing-field",
+      "deeds": [
+        "31735064607843",
+        "31735064607884"
+      ],
+      "title": {
+        "zh": "一块田的一百零八年",
+        "en": "One field, 108 years"
+      },
+      "text": {
+        "zh": "嘉庆十年（1805）五月，赵守藻把侯官县草市都马坑的一块田面转典给林家，价银十四两，佃户每年交租谷一百七十斤，中见人杨海武。一百零八年后的民国二年（1913），林有柱把这笔旧交易拿到福建国税厅筹备处验契，领到一张印刷的「典按契单」：上面写着他「於清嘉慶拾年伍月」从赵守藻手里典受的田面租谷一百七十斤，原价银十四两折合二十元，证人仍是杨海武。",
+        "en": "In the 5th month of 1805, Zhao Shouzao re-pledged the topsoil rights to a field at Makeng, Houguan County, to the Lin family for 14 taels of silver; the tenant paid 170 jin of grain a year, and Yang Haiwu witnessed. In 1913, 108 years later, Lin Youzhu had that old transaction verified by the Fujian tax office and received a printed registration form. It records the same field, the same 170 jin of rent, the original price of 14 taels converted to 20 yuan, and the same witness, Yang Haiwu."
+      }
+    }
+  ]
+}

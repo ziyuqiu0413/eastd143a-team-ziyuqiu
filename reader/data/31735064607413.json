@@ -1,0 +1,288 @@
+{
+  "id": "31735064607413",
+  "image": "31735064607413_001.jpg",
+  "width": 1744,
+  "height": 2500,
+  "source_url": "https://digital.library.pitt.edu/islandora/object/pitt%3A31735064607413",
+  "title": {
+    "zh": "光緒十二年福建布政使司給福清縣業戶高恭地契尾",
+    "en": "Official deed-tax receipt (qiwei) issued by the Fujian Provincial Administration Commission to Gao Gongdi of Fuqing County, 1886"
+  },
+  "date": {
+    "original": "光緒拾貳年捌月　日",
+    "western": "1886",
+    "zh": "光绪十二年八月（日期空白未填）",
+    "en": "8th month, 12th year of Guangxu (1886); the day is left blank"
+  },
+  "type": {
+    "zh": "契尾（官頒納稅憑證，粘於紅契之後）",
+    "en": "Deed-tax receipt (qiwei), the official tail sheet attached to a tax-registered 'red deed'"
+  },
+  "place": {
+    "zh": "福清縣高山市街",
+    "en": "Gaoshan market street, Fuqing County, Fujian"
+  },
+  "summary": {
+    "zh": "这是一张木版印刷、由福建布政使司颁发的契尾。光绪十二年（1886）福清县业户高恭地买下石玉莲店屋一间（坐落高山市街），契价约银六十三两八钱九分，按每两三分的税率缴纳契税约一两九钱一分六厘七毫，官府在此契尾上填写编号、业户、产业、价银和税银，盖上布政使司大印，粘在原契后面，使私契成为受官方承认的“红契”。",
+    "en": "A woodblock-printed deed-tax receipt issued by the Fujian Provincial Administration Commission. In 1886 Gao Gongdi of Fuqing County bought one shop-house (from/named Shi Yulian) on Gaoshan market street for about 63.89 taels and paid about 1.9167 taels of deed tax (3 percent). Clerks filled in the serial number, buyer, property, price and tax, stamped the provincial seal, and the sheet was pasted to the private deed, turning it into an officially recognised 'red deed'."
+  },
+  "flow": [
+    "payment",
+    "tax",
+    "keep"
+  ],
+  "regions": [
+    {
+      "id": "r1",
+      "category": "title",
+      "label": {
+        "zh": "契名：契尾",
+        "en": "Title: Qiwei (deed tail / tax receipt)"
+      },
+      "bbox": [
+        0.0,
+        0.165,
+        0.64,
+        0.09
+      ],
+      "original": "契尾",
+      "modern_zh": "大字“契尾”，意思是“契约的尾巴”。买卖田房后，买主到县衙缴纳契税（税契），官府发给这张印好的契尾，粘接在原契之后作为完税凭证。贴有契尾、盖有官印的契叫“红契”；没有投税的私契叫“白契”。",
+      "english": "The large characters read 'Qiwei', literally 'tail of the deed'. After a land or house sale the buyer paid deed tax at the county office, which issued this printed sheet to be pasted to the end of the deed as proof of payment. A deed with a qiwei and official seals is a 'red deed' (hongqi); an untaxed private deed is a 'white deed' (baiqi).",
+      "confidence": "high",
+      "note": "“尾”字在左，“契”字在右，按从右到左读作“契尾”。"
+    },
+    {
+      "id": "r2",
+      "category": "tax",
+      "label": {
+        "zh": "布字编号（钤印处）",
+        "en": "Serial number in the 'Bu' series (under a seal)"
+      },
+      "bbox": [
+        0.244,
+        0.122,
+        0.1,
+        0.118
+      ],
+      "original": "布 九千三百四十四[?]",
+      "modern_zh": "“布”字号第九千三百四十四号（“布”指布政使司发出的契尾序列）。数字为手写，压在红色官印之上。",
+      "english": "Serial number 9344 [uncertain] of the 'Bu' series ('Bu' = issued by the Provincial Administration Commission, buzhengshi si). Handwritten over a red official seal.",
+      "confidence": "medium",
+      "note": "待核：末尾两字写得很紧，读作“四十四”（与正文字号“玖千叁百肆拾肆”相合），但也可能是别的写法。下方印刷的“號”字部分可见。"
+    },
+    {
+      "id": "r3",
+      "category": "official",
+      "label": {
+        "zh": "印刷章程（户部奏准契尾格式）",
+        "en": "Printed regulations (Board of Revenue rules on qiwei)"
+      },
+      "bbox": [
+        0.39,
+        0.26,
+        0.45,
+        0.46
+      ],
+      "original": "福建□□布政使司□□□□ / □□乾隆□十四[?]年十二月二十□日□奉准戶部咨□□ / 印給貯中[?]□府州縣□□□□□內一摺于本年十二月十□日□奉 / 旨依議欽此相應抄錄原奏□□□□行文福建□□ / 奏稱部議□□□□契尾以後□□民人□□ / 官□□□□□□□請□□□州縣□□□□ / 行即將應給業戶之契尾并□縣備案之照根□□ / 州□收稅契□□州縣申送府州之例□送□□ / 從未議將□□收執串□與□□□ / 尾與照根并送□□□□□□嚴□□ / …… / 于……空白處預鈐司印…… / 收執後幅同季冊彙送布政司…… / 止以……",
+      "modern_zh": "这一大段印刷文字是契尾的“官样文章”：开头由福建布政使司转述乾隆年间户部奏准的契尾办法（奉旨“依议”）。大意是：买卖田房要投税，由布政司统一印发契尾，分前后两幅；官府在骑缝处用大字填写契价、税银并预盖司印，当面从骑缝处截开，前幅交业户收执，后幅随季度册籍汇送布政司查核，以防胥吏侵吞税银、伪造契尾。只能部分辨认，以上转录多处缺字。",
+      "english": "The long printed text is the standard regulation: the Fujian Provincial Administration Commission quotes a Qianlong-era memorial of the Board of Revenue (approved by imperial rescript, 'yiyi qinci'). In outline: deed tax must be paid on sales of land and houses; the Commission prints the qiwei in two halves; price and tax are written in large characters across the seam and pre-stamped with the Commission's seal; the sheet is cut apart in front of the owner, the front half given to the owner and the rear half sent with the quarterly register to the Commission for audit, to prevent clerks embezzling tax or forging receipts. Only partly legible.",
+      "confidence": "low",
+      "note": "待核：前几列墨色过重，年份读作“乾隆十四年”（1749年户部定契尾新式，与文意相符），但字迹不清。“每兩納稅三分”的税率在本图上未能直接读出，仅由本契价银与税银之比（3%）推知，切勿当作原文引用。其余各列只摘录了能辨认的片段。"
+    },
+    {
+      "id": "r4",
+      "category": "tax",
+      "label": {
+        "zh": "字号与给发对象",
+        "en": "Number and issuing formula"
+      },
+      "bbox": [
+        0.226,
+        0.345,
+        0.072,
+        0.338
+      ],
+      "original": "字玖千叁百肆拾肆號給福清縣業戶高恭地准此",
+      "modern_zh": "（布）字第九千三百四十四号，发给福清县业户高恭地，准此（照此执行）。大字为印刷，数字、县名和人名为手写填入。",
+      "english": "(Bu) series no. 9344, issued to Gao Gongdi, property owner of Fuqing County. 'Zhunci' = 'let this be acted upon'. The large characters are printed; the number, county and name are filled in by hand.",
+      "confidence": "high",
+      "note": "印刷大字“字…號給…縣業戶…准此”部分被墨晕遮盖。编号与顶部布字号一致。"
+    },
+    {
+      "id": "r5",
+      "category": "buyer",
+      "label": {
+        "zh": "业户（买主）",
+        "en": "Owner / buyer"
+      },
+      "bbox": [
+        0.356,
+        0.378,
+        0.038,
+        0.044
+      ],
+      "original": "高恭地",
+      "modern_zh": "业户（买主、纳税人）是高恭地。",
+      "english": "The owner (buyer and taxpayer) is Gao Gongdi.",
+      "confidence": "high",
+      "note": "此列上方印刷字可能为“計開”“業戶”，被墨晕遮盖，待核。"
+    },
+    {
+      "id": "r6",
+      "category": "property",
+      "label": {
+        "zh": "标的及坐落",
+        "en": "Property and location"
+      },
+      "bbox": [
+        0.356,
+        0.422,
+        0.038,
+        0.128
+      ],
+      "original": "石玉蓮店一間　坐落　高山市街",
+      "modern_zh": "买的是石玉莲（的）店屋一间，坐落在高山市街。“坐落”二字为印刷。",
+      "english": "One shop-house of Shi Yulian, located on Gaoshan market street. 'Zuoluo' (located at) is printed.",
+      "confidence": "medium",
+      "note": "待核：“石玉蓮”可能是卖主姓名，也可能是店号；“買”字未在图上明确见到。高山为福清县东部集镇。"
+    },
+    {
+      "id": "r7",
+      "category": "price",
+      "label": {
+        "zh": "契价（价银）",
+        "en": "Sale price"
+      },
+      "bbox": [
+        0.356,
+        0.556,
+        0.038,
+        0.096
+      ],
+      "original": "陸拾叁兩捌錢玖分",
+      "modern_zh": "契价银六十三两八钱九分。上方印刷小字可能是“用價銀”。",
+      "english": "Price: 63 taels 8 qian 9 fen of silver (63.89 taels).",
+      "confidence": "high",
+      "note": "已校对：价银为陸拾叁兩捌錢玖分（63.89 两）。按每两税银三分计，63.89 × 3% = 1.9167 两，与税银壹兩玖錢壹分陸厘柒毛相合。"
+    },
+    {
+      "id": "r8",
+      "category": "tax",
+      "label": {
+        "zh": "税银",
+        "en": "Deed tax paid"
+      },
+      "bbox": [
+        0.356,
+        0.676,
+        0.038,
+        0.092
+      ],
+      "original": "壹兩玖錢壹分陸厘[?]柒毛",
+      "modern_zh": "缴纳契税银一两九钱一分六厘七毫，正好是契价的百分之三（清代契税每两三分）。",
+      "english": "Tax: 1 tael 9 qian 1 fen 6 li 7 hao (1.9167 taels), exactly 3 percent of the price, the standard Qing deed-tax rate.",
+      "confidence": "medium",
+      "note": "待核：“厘”字写法像“重”，按数值推定为“厘”；“毛”即“毫”。"
+    },
+    {
+      "id": "r9",
+      "category": "date",
+      "label": {
+        "zh": "颁发日期",
+        "en": "Date of issue"
+      },
+      "bbox": [
+        0.105,
+        0.29,
+        0.075,
+        0.27
+      ],
+      "original": "光緒拾貳年捌月　日",
+      "modern_zh": "光绪十二年八月（1886年），“日”前留空未填。“光绪”“年”“月”“日”为印刷，“拾贰”“捌”为手写。",
+      "english": "8th month of the 12th year of Guangxu (1886); the day is left blank. 'Guangxu', 'year', 'month', 'day' are printed; the numerals are handwritten.",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r10",
+      "category": "seal",
+      "label": {
+        "zh": "日期上的布政使司大印",
+        "en": "Provincial seal over the date"
+      },
+      "bbox": [
+        0.03,
+        0.385,
+        0.19,
+        0.235
+      ],
+      "original": "（满汉合璧篆文方印，疑為「福建等處承宣布政使司之印」[?]）",
+      "modern_zh": "盖在年月上的大方红印，按惯例应是福建布政使司的官印，满文、汉文篆书各占一半。盖印于日期上表示官府确认颁发。",
+      "english": "Large square red seal stamped over the date; by convention the seal of the Fujian Provincial Administration Commission, with Manchu and Chinese seal script side by side. Stamping on the date certifies issue.",
+      "confidence": "low",
+      "note": "待核：印文只隐约见“福”等字形，全文未能识读，印文为按清代惯例推测。"
+    },
+    {
+      "id": "r11",
+      "category": "seal",
+      "label": {
+        "zh": "价银、税银上的官印",
+        "en": "Seals over the price and tax"
+      },
+      "bbox": [
+        0.29,
+        0.62,
+        0.18,
+        0.205
+      ],
+      "original": "（两方红色方印，篆文，右半可见「福」等字形[?]）",
+      "modern_zh": "在价银和税银数字上各盖一方官印，防止事后涂改数字。另外右侧花边处还有一方斜盖的红印（约在图右下方边框内侧），可能是粘连契纸时所盖的骑缝印。",
+      "english": "Two square seals stamped over the price and tax figures so the amounts cannot be altered later. A further seal stamped diagonally near the right border (lower right) may be a seam seal from when the receipt was joined to the deed.",
+      "confidence": "low",
+      "note": "待核：印文未能识读；斜印的作用为推测。"
+    },
+    {
+      "id": "r12",
+      "category": "tax",
+      "label": {
+        "zh": "骑缝半字（左缘截开处）",
+        "en": "Half-characters along the cut seam (left edge)"
+      },
+      "bbox": [
+        0.015,
+        0.28,
+        0.045,
+        0.495
+      ],
+      "original": "福[?]清[?]□高[?]恭[?]地[?]□□□□□□□□（只剩右半）",
+      "modern_zh": "左边缘一列大字只剩右半边。这是“骑缝”：官府在契尾前后两幅之间的缝上用大字写业户、价银、税银等并盖印，然后从中间截开，前幅（这张）给业户，后幅作存根交布政司。日后两半能对上字迹和印文，才证明是真契尾，以此防伪。",
+      "english": "Large characters on the left edge survive only as right halves. This is the qifeng ('riding the seam'): officials wrote the owner, price and tax in large characters across the line between the two halves, stamped them, and cut the sheet apart; this front half went to the owner, the rear stub went to the provincial office. Matching the halves later proves authenticity and deters forgery.",
+      "confidence": "low",
+      "note": "待核：只能辨出疑似“福清”“高恭地”的半字，下半段疑为价银、税银数字的半字，未能读出。"
+    },
+    {
+      "id": "r13",
+      "category": "other",
+      "label": {
+        "zh": "龙纹花边",
+        "en": "Decorative dragon border"
+      },
+      "bbox": [
+        0.01,
+        0.07,
+        0.98,
+        0.88
+      ],
+      "original": "（木刻边框：上下有双龙戏日纹，右侧为龙身）",
+      "modern_zh": "木版印出的龙纹边框，上方双龙对着一轮太阳（或火珠），下方也有太阳纹。龙纹表示官方、朝廷的权威，也增加伪造难度。",
+      "english": "Woodblock-printed border of dragons: two dragons facing a sun (or flaming pearl) at top, a sun motif at the bottom, a dragon body down the right side. The imagery signals imperial authority and makes forgery harder.",
+      "confidence": "high",
+      "note": "边框大致沿全纸，左侧已被截去。"
+    }
+  ],
+  "full_text": "福建□□布政使司□□ / □□乾隆□十四[?]年十二月二十□日□奉准戶部咨□□ / 印給貯中[?]□府州縣□□內一摺于本年十二月十□日□奉 / 旨依議欽此相應抄錄原奏□□行文福建□□ / 奏稱部議□□契尾以後□□民人□□ / …… / 行即將應給業戶之契尾并□縣備案之照根□□ / 州□收稅契□□州縣申送府州之例□送□□ / 從未議將□□收執串□ / 尾與照根并送□□ / …… / 于……空白處預鈐司印…… / 收執後幅同季冊彙送布政司…… / 止以…… / 計開[?]　高恭地　石玉蓮店一間　坐落　高山市街　用價銀[?]　陸拾叁兩捌錢玖分　□□　壹兩玖錢壹分陸厘[?]柒毛 / 布字玖千叁百肆拾肆號給福清縣業戶高恭地准此 / 布　九千三百四十四[?]　號 / 契尾 / 光緒拾貳年捌月　日 / （左緣騎縫半字）福[?]清[?]□高[?]恭[?]地[?]……",
+  "review": {
+    "status": "ai-draft",
+    "notes": "AI 初稿。印刷章程只读出片段；印文按惯例推测；左缘骑缝半字大多未识。价银“玖分”与税银“陸厘”靠 3% 税率互相印证。"
+  }
+}
