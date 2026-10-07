@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>契紙流年</title>
+<meta name="description" content="匹茲堡大學中國土地文書（1584–1978）的識讀與歸戶：從紅契到土改證。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC:wght@400;700&family=Noto+Serif+TC:wght@400;600;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+
+<nav class="topnav" aria-label="章節">
+  <a class="brand" href="#top"><span class="seal-mini">契</span>契紙流年</a>
+  <a href="#overview">館藏</a>
+  <a href="#genealogy">譜系</a>
+  <a href="#households">歸戶</a>
+  <a href="#parcels">九坵</a>
+  <a href="#findings">結論</a>
+  <a href="#reader">對讀</a>
+</nav>
+
+<header class="hero" id="top">
+  <div class="hero-text">
+    <p class="kicker">匹茲堡大學 · Chinese Land Records · EAL.2011.01</p>
+    <h1 class="sr-only">契紙流年：從紅契到土改證</h1>
+    <p class="hero-lede">兩百三十四件土地文書，跨越明萬曆到一九七八年。我們把它們逐件讀出來，<br>看一塊地如何在親族之間轉手，看國家如何一次次重寫產權的憑證。</p>
+    <dl class="stats" id="stats"></dl>
+    <ol class="takeaways" aria-label="三個結論">
+      <li><b>國家越管越深。</b>有官印的文書，清代佔 <span data-share="清"></span>，民國 <span data-share="民國"></span>，1949 年後 <span data-share="1949後"></span>；契稅從契尾的 3% 升到 1947 年的 6%。</li>
+      <li><b>官府紙上看不到傳承。</b>收據上的戶名只是繳稅標籤，會在兄弟之間換來換去；執照只登記當下的業主。</li>
+      <li><b>傳承寫在民間契約裡。</b>1891 年林萬開三兄弟的鬮書寫明「承父遺物業」「長子長孫份」；把它和 1947 年的執照對讀，能接上一條 72 年的代際鏈（推測）。同姓交易佔 <span id="same-share"></span>。</li>
+    </ol>
+  </div>
+  <div class="hero-title" aria-hidden="true">
+    <span class="v-title">從紅契到土改證</span>
+    <span class="hero-seal"><span>契紙<br>流年</span></span>
+  </div>
+</header>
+
+<main>
+  <section class="chapter" id="overview">
+    <h2 class="chapter-title"><span class="num">壹</span>館藏概覽</h2>
+    <div class="chapter-body">
+      <p class="lead">朱色是有官印的文書（館方標作 Government，大致相當紅契與官發執照），墨色是無官印的民間白契。時代越晚，官印越多。</p>
+      <figure class="chart-wrap">
+        <div id="chart-quarter" class="chart"></div>
+        <figcaption>按每二十五年統計的件數（以文書最早年份計；10 件無日期未計入）</figcaption>
+      </figure>
+      <div class="two-col">
+        <div>
+          <h3 class="sub">四個時期</h3>
+          <div id="periods" class="periods"></div>
+        </div>
+        <div>
+          <h3 class="sub">地域</h3>
+          <div id="places" class="places"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="chapter" id="genealogy">
+    <h2 class="chapter-title"><span class="num">貳</span>憑證譜系</h2>
+    <div class="chapter-body">
+      <p class="lead">同一個問題——「這塊地是誰的」——在三百多年裡換過八種紙。每一張都取自館藏原件，點擊可放大。</p>
+      <div class="strip" id="strip" tabindex="0" aria-label="憑證譜系，可橫向捲動"></div>
+    </div>
+  </section>
+
+  <section class="chapter" id="households">
+    <h2 class="chapter-title"><span class="num">參</span>家戶歸戶</h2>
+    <div class="chapter-body">
+      <p class="lead">把散落的單件重新歸到各戶，追蹤產業如何一代代轉移。<span class="tag tag-stated">原文</span>是文書上寫明的，<span class="tag tag-inferred">推測</span>是我們的判斷，兩者嚴格分開。</p>
+      <div class="tabs" role="tablist" id="hh-tabs"></div>
+      <div id="hh-panel" class="hh-panel" role="tabpanel"></div>
+    </div>
+  </section>
+
+  <section class="chapter" id="parcels">
+    <h2 class="chapter-title"><span class="num">肆</span>林修枝的九坵地</h2>
+    <div class="chapter-body">
+      <p class="lead">民國三十六年四月，林森縣政府一口氣發給林修枝九張《土地管業執照》，一坵一照。以下是每張執照上手繪的「圖略」，按執照號排列；各圖比例不同，只示形狀。</p>
+      <div class="land-mix" id="land-mix"></div>
+      <div class="parcel-grid" id="parcel-grid"></div>
+      <aside class="note-card">
+        <h3>從賦額反推的稅率</h3>
+        <table class="rates">
+          <thead><tr><th>地目・等則</th><th>每畝賦額</th><th>依據</th></tr></thead>
+          <tbody>
+            <tr><td>田・壹等中則</td><td>0.65 元</td><td>黃生官 5.20 畝 → 3.38 元</td></tr>
+            <tr><td>田・壹等下則</td><td>0.60 元</td><td>林修枝三坵</td></tr>
+            <tr><td>田／農地・貳等上則</td><td>0.50 元</td><td>林修枝、王鐘鈞</td></tr>
+          </tbody>
+        </table>
+        <p>用這張表回頭核對，「白龍厝前」那一坵等則寫「下則」，賦額 1.27 元卻正好是 1.95 畝 × 0.65，按「中則」計——矛盾出在原件本身。</p>
+      </aside>
+    </div>
+  </section>
+
+  <section class="chapter" id="findings">
+    <h2 class="chapter-title"><span class="num">伍</span>分析與結論</h2>
+    <div class="chapter-body">
+      <p class="lead">兩個研究問題：產權憑證如何隨政權更替而變化？一個家戶的產業如何一代代轉移？以下結論都標明依據；推測與原文分開。</p>
+
+      <article class="rq">
+        <header><span class="rq-no">問題一</span><h3>產權憑證如何隨政權更替而變化</h3></header>
+        <div class="rq-body">
+          <div class="rq-text">
+            <p><b>答：國家介入產權登記的程度一路加深，而憑證從「民間立契、官府蓋印」轉向「官府造冊、發給業主」。</b></p>
+            <ol>
+              <li><b>官印比例上升。</b>清代 <span data-share="清"></span> 的文書有官印，民國 <span data-share="民國"></span>，1949 年後 <span data-share="1949後"></span>（見壹・館藏概覽）。</li>
+              <li><b>主體換了。</b>清代紅契是民間寫好、送縣衙蓋印納稅，再黏上布政使司的契尾；民國後期的管業執照、官印賣契本契，表格本身就是官府印發的，業主只是填空。</li>
+              <li><b>稅負與管理加重。</b>建陽劉氏三件契尾按價銀 3% 收稅；1947 年林森縣官印賣契的契稅是 6%，賣價貳拾伍萬元、契稅壹萬伍仟元，分毫不差。</li>
+              <li><b>登記走向一坵一號。</b>1947 年土地陳報後，每一坵地都有段號、地號、等則、賦額和圖略。用多張執照反推出的賦率（每畝壹等中則 0.65、壹等下則 0.60、貳等上則 0.50 元）說明賦額是按表計算的。</li>
+              <li><b>戰時財政滲入。</b>1945–46 年的田賦改徵稻穀，還「征借」糧食、約定 1950 年代抵賦。這些承諾隨 1949 年政權更替大概從未兌現（推測）。</li>
+            </ol>
+          </div>
+          <figure class="seal-trend" id="seal-trend" aria-label="各時期有官印比例"></figure>
+        </div>
+      </article>
+
+      <article class="rq">
+        <header><span class="rq-no">問題二</span><h3>產業如何一代代轉移</h3></header>
+        <div class="rq-body single">
+          <p><b>答：在這批材料裡，代際轉移幾乎只在民間契約裡看得見；官府的收據和執照記的是「誰在繳稅」「誰是當下業主」，不記「從誰傳來」。</b>所以要追蹤傳承，得先分清每一種紙能回答什麼。</p>
+          <div class="matrix-wrap">
+            <table class="matrix">
+              <caption>證據矩陣：每種文書能回答哪些問題（依本項目已讀的文書歸納）</caption>
+              <thead><tr><th scope="col">文書類型</th><th scope="col">業主</th><th scope="col">地塊</th><th scope="col">價格</th><th scope="col">交易對象</th><th scope="col">親屬關係</th><th scope="col">產權來源・代際</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">民間契約（紅契・白契）</th><td class="y">●</td><td class="y">●<small>土名・四至</small></td><td class="y">●</td><td class="y">●</td><td class="y">●<small>本族・堂孫・堂兄</small></td><td class="y">●<small>祖遺・分定</small></td></tr>
+                <tr><th scope="row">鬮書（分家書）</th><td class="y">●</td><td class="y">●<small>土名・面積</small></td><td class="n">○</td><td class="n">—</td><td class="y">●<small>兄弟・長子長孫</small></td><td class="y">●<small>承父遺・手置</small></td></tr>
+                <tr><th scope="row">民國驗契契單</th><td class="y">●</td><td class="y">●</td><td class="y">●<small>原契價</small></td><td class="y">●</td><td class="n">○</td><td class="h">◐<small>呈驗舊契</small></td></tr>
+                <tr><th scope="row">契尾</th><td class="y">●</td><td class="h">◐<small>常空白</small></td><td class="y">●</td><td class="y">●</td><td class="n">○</td><td class="n">○</td></tr>
+                <tr><th scope="row">納戶・糧戶執照（收據）</th><td class="h">◐<small>戶名≠業主</small></td><td class="n">○</td><td class="n">○</td><td class="n">○</td><td class="n">○</td><td class="n">○</td></tr>
+                <tr><th scope="row">田賦征實收據</th><td class="h">◐<small>業戶</small></td><td class="h">◐<small>畝分</small></td><td class="n">○</td><td class="n">○</td><td class="h">◐<small>代理人</small></td><td class="n">○</td></tr>
+                <tr><th scope="row">土地管業執照</th><td class="y">●</td><td class="y">●<small>段號・圖略</small></td><td class="n">○</td><td class="n">○</td><td class="n">○</td><td class="n">○<small>無來歷欄</small></td></tr>
+                <tr><th scope="row">官印賣契本契</th><td class="y">●</td><td class="y">●</td><td class="y">●</td><td class="y">●</td><td class="n">○</td><td class="h">◐<small>原契字號欄</small></td></tr>
+                <tr><th scope="row">土地房產所有證</th><td class="y">●</td><td class="y">●</td><td class="n">○</td><td class="n">○</td><td class="h">◐<small>同戶成員</small></td><td class="h">◐<small>土改確權</small></td></tr>
+              </tbody>
+            </table>
+            <p class="fine">● 能回答　◐ 部分或間接　○ 不能。</p>
+          </div>
+          <div class="chain-feature">
+            <h4>一條接起來的鏈：林萬開 → 林修枝（1875–1947，推測）</h4>
+            <ol class="chain">
+              <li><span class="cy">1875</span><b>族兄林應香賣斷</b>馬路下・井嘴田給林萬開<small>民間契約・原文「族兄」</small></li>
+              <li><span class="cy">1891</span><b>三兄弟拈鬮分家</b>，長子長孫份得「馬路下 1 畝 2 分」「坑裡 1 畝」<small>鬮書・原文</small></li>
+              <li><span class="cy">1913</span><b>民國驗契</b>，業戶仍寫林萬開<small>驗契契單</small></li>
+              <li><span class="cy">1947</span><b>林修枝領執照</b>：馬路下 1.20 畝、坑裡 1.10 畝<small>管業執照・同土名同面積</small></li>
+            </ol>
+            <p class="fine">兩組文書在館藏中分屬 Box 2 和 Box 4，館方沒有把它們連在一起；原文也沒有寫兩人的關係。連結依據是土名、面積和地點（侯官→閩侯→林森縣）。</p>
+          </div>
+          <div class="cases">
+            <div class="case"><h4>閩侯林萬開</h4><p>唯一有分家鬮書的一組：父遺產業加上萬開自置的田，先撥長子長孫份，再按福祿壽三房均分；萬開早年買進的田也一起被分，可見家長置產屬於全家。</p></div>
+            <div class="case"><h4>建陽劉氏</h4><p>只有民間契約寫出了關係：1798 年賣給「本族」，1910 年賣給「本村堂孫」，1935 年四個曾孫共守曾祖的祀田。族產不分割、在族內流轉。</p></div>
+            <div class="case"><h4>永泰黃氏</h4><p>57 頁全是收據。同一筆「伍分伍釐柒毫」的稅在黃同華、黃同義名下來回換；八個戶名由一人同批代繳。收據看得到「一家人共同負擔」，看不到「誰傳給誰」。</p></div>
+            <div class="case"><h4>林森林修枝</h4><p>九張執照把一戶小農的產業一坵坵列清楚（6.83 畝，水田 76%），鄰戶王鐘鈞的田地號緊挨著；但表格沒有來歷欄，傳承一片空白。</p></div>
+          </div>
+          <p class="so-what"><b>推論：</b>國家登記越精細，越著眼於「當下誰負擔、誰管業」，反而把家族內部的傳承抹平了。單看 1947 年的執照，林修枝的地來歷一片空白；把它和 1891 年的鬮書對讀，馬路下、坑裡兩坵就接上了。研究代際轉移，必須把官府文書與民間契約、分關書配對閱讀——而館藏散件化、按單件著錄，恰恰把這種配對拆散了（推測）。</p>
+        </div>
+      </article>
+
+      <div class="method-grid">
+        <article class="mcard">
+          <h3>方法上的發現</h3>
+          <ul>
+            <li><b>AI 識讀要有人裁定。</b>兩個識讀任務對「黃乞容」是否「黃遠容」意見相反；並排對照原圖後確認是兩戶，館方標題無誤。</li>
+            <li><b>計算可以校驗識讀。</b>用賦率表回頭核對，找出一張執照的等則與賦額自相矛盾——錯在原件，不在讀法。</li>
+            <li><b>館方元數據的問題。</b>發現十餘處：3 處年號換算錯誤、人名誤讀（雲村→雲邨、國義→同義、陳潮寳→陳朝寳）、角色誤標、年代範圍不符、把納稅戶名著錄為 Owner 等。</li>
+          </ul>
+        </article>
+        <article class="mcard">
+          <h3>局限</h3>
+          <ul>
+            <li>樣本小（234 件），而且是經手人散收的拼湊，不是完整的家藏；結論只作個案與方法示範。</li>
+            <li>建陽劉氏七件不是同一家族；林萬開→林修枝之鏈靠土名、面積推定，缺 1913–1947 年之間的分家、繼承文書。</li>
+            <li>識讀由 AI 完成，關鍵讀數經人工抽查，但尚未用標準答案集系統評測；兩個鄉名仍待核。</li>
+          </ul>
+        </article>
+        <article class="mcard">
+          <h3>下一步</h3>
+          <ul>
+            <li>驗證跨組鏈：查福州、閩侯地方檔案或族譜中 1913–1947 年林氏長房的記錄，確認林修枝與林萬開的關係。</li>
+            <li>為全部 234 件判定文書類型，把「憑證譜系」從八個例子擴展成全館統計。</li>
+            <li>整理成數據質量報告回饋匹茲堡大學圖書館。</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="chapter" id="reader">
+    <h2 class="chapter-title"><span class="num">陸</span>原件對讀</h2>
+    <div class="chapter-body">
+      <div class="reader-bar">
+        <label>文書 <select id="doc-select"></select></label>
+        <div class="pager"><button id="prev" aria-label="上一頁">‹</button><span id="page-label"></span><button id="next" aria-label="下一頁">›</button></div>
+        <button id="toggle-dir" class="ghost">直排</button>
+      </div>
+      <p class="doc-meta" id="doc-meta"></p>
+      <div class="reader">
+        <div class="viewer" id="viewer" title="點擊放大／縮小"><img id="page-img" alt=""></div>
+        <div class="transcript" id="transcript"></div>
+      </div>
+      <p class="fine">〔〕為手寫或戳記填寫，□ 為無法識讀，[?] 為沒有把握。識讀由 AI 完成，關鍵讀數經人工對照原件抽查；引用前請核對原件。</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p>資料：University of Pittsburgh Library System, <em>Chinese Land Records, 1584–1978</em>（EAL.2011.01）。館方標註圖像版權為 Copyright Undetermined：本頁只在本機讀取圖像，請勿公開發布。</p>
+  <p>哈佛數字人文課程黑客松 · 2026</p>
+</footer>
+
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lb-close" id="lb-close" aria-label="關閉">×</button>
+  <img id="lb-img" alt="">
+  <p id="lb-cap"></p>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

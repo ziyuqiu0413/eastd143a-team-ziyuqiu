@@ -1,0 +1,1575 @@
+{
+ "cluster": "A_yongtai_huang",
+ "part": 2,
+ "docs": [
+  {
+   "pid": "pitt:31735066237631",
+   "nid": 83874,
+   "page_count": 7,
+   "doc_type": "串票/納稅收據",
+   "doc_type_evidence": "六張版頭皆印『納戶執照』，正文『今據　都　甲納戶／民國…年地丁銀／合給執照須至照者』『為徵收錢糧事』；第4頁是無印字的手寫小紙條",
+   "form_title": "納戶執照（永泰縣地丁銀完納執照）",
+   "date_original": "納稅年度：中華民國玖年（p5–7）、民國十の（十四）年（p1–3）；發照：中華民國玖年十二[?]月（p5–7）、民國拾伍年七[?]月（p1–3）",
+   "date_gregorian": "納稅年度1920、1925；發照1920年底、1926年",
+   "date_vs_metadata": "館方1920/1925指的是納稅年度，大致一致；但p1–3實際在民國拾伍年（1926）發照，比館方下限晚一年",
+   "parties": [
+    {
+     "name": "黃雲邨",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "p1、p2、p5、p6銀數框旁手寫『黃雲邨』（邨＝村的異體；館方作『黃雲村?』）"
+    },
+    {
+     "name": "黃汝勷",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "p3、p7手寫『黃汝勷』（勷字左下作『襄』省寫，右『力』）"
+    },
+    {
+     "name": "賈[?]（永泰縣知事，姓氏推測）",
+     "role": "官員",
+     "relation_stated": null,
+     "evidence": "1926年版右欄『永泰縣…』末字似『賈』"
+    },
+    {
+     "name": "金[?]（永泰縣知事，姓氏推測）",
+     "role": "官員",
+     "relation_stated": null,
+     "evidence": "1920年版右欄末字似『金』"
+    }
+   ],
+   "property": {
+    "kind": "地丁銀戶（未載地塊）",
+    "toponym": null,
+    "location": "福建永泰縣；都、甲兩欄空白未填",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "黃雲邨：肆錢正＋弍[?]分陸[?]釐壹[?]毫（民9、民14兩年各一對）；黃汝勷：捌分壹釐〇毫（民9、民14）",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": null
+   },
+   "clauses": [
+    "倘有重完錯漏，限十日內赴櫃驗改，如遲自悞"
+   ],
+   "official_marks": "每張中央壓大方朱印（縣印，印文篆書不能識讀）；銀數框壓長方朱印；p1–3左欄朱戳字號『能[?]』（第一部分讀作『龍』）；p5–7左欄墨印『民』字號；左下朱框告示；右緣騎縫半字",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066237631/pitt_31735066237631-0001.jpg",
+     "form_variant": "1926年黑色木刻版（發照年預印『民國拾伍年』）",
+     "hu_ming": "黃雲邨",
+     "tax_year": "民國十の年（草書『十の』，の＝四）",
+     "tax_year_gregorian": "1925",
+     "tax_item": "地丁銀",
+     "amount": "肆錢正（木戳）",
+     "amount_liang": 0.4,
+     "issue_date": "民國拾伍年七[?]月（月份草字似乙/七）",
+     "issue_date_gregorian": "1926",
+     "serial": "能[?]字第十六號（『能』朱戳，『十六』手寫）",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國十の年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）肆錢正\n黃雲邨\n為徵收錢糧事\n（左欄）民國拾伍年七[?]月　日\n能[?]字第十六號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.8,
+     "crops": [
+      "data/households/_crops/pitt_31735066237631/hr_0001_0_14_100_46.jpg",
+      "data/households/_crops/pitt_31735066237631/hr_0001_0_56_100_44.jpg",
+      "data/households/_crops/huang_part2_montages/83874_amt_hr_all.jpg"
+     ]
+    },
+    {
+     "page": 2,
+     "image": "data/images/pitt_31735066237631/pitt_31735066237631-0002.jpg",
+     "form_variant": "1926年黑色木刻版",
+     "hu_ming": "黃雲邨",
+     "tax_year": "民國十の年",
+     "tax_year_gregorian": "1925",
+     "tax_item": "地丁銀",
+     "amount": "弍[?]分陸[?]釐壹[?]毫（首字草書似『丷八』，不能確定）",
+     "amount_liang": 0.0261,
+     "issue_date": "民國拾伍年七月",
+     "issue_date_gregorian": "1926",
+     "serial": "能[?]字第乙百六九號（乙＝一，即一百六十九）",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國十の年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）弍[?]分陸[?]釐壹[?]毫\n黃雲邨\n為徵收錢糧事\n（左欄）民國拾伍年七月　日\n能[?]字第乙百六九號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.6,
+     "notes": "金額三位數字皆草書；與p6（民9）同戶同額式樣，推測同一筆錢糧",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83874_p2p3_hr.jpg",
+      "data/households/_crops/huang_part2_montages/p6p2amt_83880tax.jpg"
+     ]
+    },
+    {
+     "page": 3,
+     "image": "data/images/pitt_31735066237631/pitt_31735066237631-0003.jpg",
+     "form_variant": "1926年黑色木刻版",
+     "hu_ming": "黃汝勷",
+     "tax_year": "民國十の年",
+     "tax_year_gregorian": "1925",
+     "tax_item": "地丁銀",
+     "amount": "捌分壹釐〇毫（捌草作『扨』）",
+     "amount_liang": 0.081,
+     "issue_date": "民國拾伍年七[?]月",
+     "issue_date_gregorian": "1926",
+     "serial": "能[?]字第乙百六[?]□號（紙邊殘缺）",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國十の年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）捌分壹釐〇毫\n黃汝勷\n為徵收錢糧事\n（左欄）民國拾伍年七[?]月　日\n能[?]字第乙百六[?]□號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.75,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83874_p2p3_hr.jpg",
+      "data/households/_crops/huang_part2_montages/amt_p2p3_83880.jpg",
+      "data/households/_crops/huang_part2_montages/rurang_names.jpg"
+     ]
+    },
+    {
+     "page": 4,
+     "image": "data/images/pitt_31735066237631/pitt_31735066237631-0004.jpg",
+     "form_variant": "無印字手寫小紙條（約半張大小）",
+     "hu_ming": null,
+     "tax_year": null,
+     "tax_item": null,
+     "amount": "共卅千[?]（似『共卅千』，即共錢三十千文？）",
+     "amount_liang": null,
+     "issue_date": null,
+     "serial": null,
+     "transcription": "而[?]容\n共卅[?]千[?]",
+     "legibility": "low",
+     "confidence": 0.3,
+     "notes": "右行首字似『而/雨』，不是第一部分讀出的『遠』字，也不同於『乞』；可能是某『□容』的名字或記號。第二行『共』下『卅』作三豎相連，『千』下拖一長豎。性質不明，可能是包紮紙條或記帳條。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83874p4p5.jpg"
+     ]
+    },
+    {
+     "page": 5,
+     "image": "data/images/pitt_31735066237631/pitt_31735066237631-0005.jpg",
+     "form_variant": "1920年黑色木刻版（『中華民國玖年』預印於納稅年與發照年兩處）",
+     "hu_ming": "黃雲邨",
+     "tax_year": "中華民國玖年（預印）",
+     "tax_year_gregorian": "1920",
+     "tax_item": "地丁銀",
+     "amount": "肆錢正（木戳）",
+     "amount_liang": 0.4,
+     "issue_date": "中華民國玖年十二[?]月廿[?]日",
+     "issue_date_gregorian": "1920年12月[?]",
+     "serial": "民字第乙百五[?]九號",
+     "transcription": "納戶執照\n永泰縣□□□□…金[?]（右欄；末字似『金』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n中華民國玖年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）肆錢正\n黃雲邨\n為徵收錢糧事\n中華民國玖年十二[?]月\n縣\n民字第乙百五[?]九號\n（朱框）倘有重完錯漏限十日內赴櫃驗改如遲自悞此諭\n（朱框旁手寫）廿[?]",
+     "legibility": "medium",
+     "confidence": 0.75,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83874p4p5.jpg",
+      "data/households/_crops/huang_part2_montages/1920_serial_zoom.jpg",
+      "data/households/_crops/huang_part2_montages/1920_leftcols.jpg"
+     ]
+    },
+    {
+     "page": 6,
+     "image": "data/images/pitt_31735066237631/pitt_31735066237631-0006.jpg",
+     "form_variant": "1920年黑色木刻版",
+     "hu_ming": "黃雲邨",
+     "tax_year": "中華民國玖年",
+     "tax_year_gregorian": "1920",
+     "tax_item": "地丁銀",
+     "amount": "弍[?]分陸[?]釐壹[?]毫（首字似草書『弍』）",
+     "amount_liang": 0.0261,
+     "issue_date": "中華民國玖年十二月廿七[?]日",
+     "issue_date_gregorian": "1920年12月",
+     "serial": "民字第三千五百廿八號",
+     "transcription": "納戶執照\n永泰縣□□□□…金[?]（右欄；末字似『金』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n中華民國玖年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）弍[?]分陸[?]釐壹[?]毫\n黃雲邨\n為徵收錢糧事\n中華民國玖年十二月\n縣\n民字第三千五百廿八號\n（朱框）倘有重完錯漏限十日內赴櫃驗改如遲自悞此諭\n（朱框旁手寫）廿七[?]",
+     "legibility": "medium",
+     "confidence": 0.65,
+     "notes": "號數3528與p7（黃汝勷）3529相連，說明兩戶同一次在櫃上完納。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/p6p2amt_83880tax.jpg",
+      "data/households/_crops/huang_part2_montages/1920_serial_zoom.jpg"
+     ]
+    },
+    {
+     "page": 7,
+     "image": "data/images/pitt_31735066237631/pitt_31735066237631-0007.jpg",
+     "form_variant": "1920年黑色木刻版",
+     "hu_ming": "黃汝勷",
+     "tax_year": "中華民國玖年",
+     "tax_year_gregorian": "1920",
+     "tax_item": "地丁銀",
+     "amount": "捌分壹釐〇[?]毫（毫前只見一點）",
+     "amount_liang": 0.081,
+     "issue_date": "中華民國玖年十二[?]月□日",
+     "issue_date_gregorian": "1920年12月[?]",
+     "serial": "民字第三千五百廿九[?]號",
+     "transcription": "納戶執照\n永泰縣□□□□…金[?]（右欄；末字似『金』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n中華民國玖年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）捌分壹釐〇[?]毫\n黃汝勷\n為徵收錢糧事\n中華民國玖年十二[?]月\n縣\n民字第三千五百廿九[?]號\n（朱框）倘有重完錯漏限十日內赴櫃驗改如遲自悞此諭\n（朱框旁手寫）廿一[?]",
+     "legibility": "medium",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83874_p567_bot.jpg",
+      "data/households/_crops/huang_part2_montages/1920_serial_zoom.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[].transcription（每頁一張執照）",
+   "legibility": "medium",
+   "confidence": 0.7,
+   "notes": "這一件是兩個戶名的地丁銀執照合裝：黃雲邨兩筆（肆錢正、弍[?]分陸[?]釐壹[?]毫）、黃汝勷一筆（捌分壹釐〇毫），民國9年、14年各繳一次；第4頁是手寫小條。民9年雲邨3528號與汝勷3529號連號，民14年（1926年發照）雲邨一百六九號、汝勷一百六□號也相近，說明兩戶的糧由同一人一起去櫃上完納。原件沒有寫兩人關係。館方『黃雲村?』應作『黃雲邨』。"
+  },
+  {
+   "pid": "pitt:31735066237623",
+   "nid": 83873,
+   "page_count": 5,
+   "doc_type": "串票/納稅收據",
+   "doc_type_evidence": "五張版頭皆印『納戶執照』，『為徵收錢糧事』『民國…年地丁銀』",
+   "form_title": "納戶執照",
+   "date_original": "納稅年度：中華民國玖年（p1）、民國拾叁年（p2）、民國拾伍年（p3–5）；發照：中華民國玖年七月、民國拾伍年、中華民國拾陸年",
+   "date_gregorian": "納稅年度1920、1924、1926；發照1920、1926、1927",
+   "date_vs_metadata": "館方1920–1926與納稅年度一致；p4、p5實際在民國拾陸年（1927）發照，超出館方下限",
+   "parties": [
+    {
+     "name": "黃同華",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "五張銀數框旁皆手寫『黃同華』"
+    }
+   ],
+   "property": {
+    "kind": "地丁銀戶（未載地塊）",
+    "toponym": null,
+    "location": "永泰縣；都、甲未填",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "伍分伍釐柒毫（民9）；壹分捌釐捌毫（民13）；叁分陸釐〇毫（民15）；叁錢正（民15）；壹[?]錢正（民15）",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": null
+   },
+   "clauses": [
+    "倘有重完錯漏，限十日內赴櫃驗改"
+   ],
+   "official_marks": "大方朱印、銀數長方朱印；p2朱戳『能[?]』、p3朱戳『作』、p4朱戳『荒』字號；p1墨書/墨印『維[?]』字號",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066237623/pitt_31735066237623-0001.jpg",
+     "form_variant": "1920年黑色木刻版",
+     "hu_ming": "黃同華",
+     "tax_year": "中華民國玖年（預印）",
+     "tax_year_gregorian": "1920",
+     "tax_item": "地丁銀",
+     "amount": "伍分伍釐柒毫",
+     "amount_liang": 0.0557,
+     "issue_date": "中華民國玖年七月初八[?]日",
+     "issue_date_gregorian": "1920年7月[?]",
+     "serial": "維[?]字第七百八三[?]號",
+     "transcription": "納戶執照\n永泰縣□□□□…金[?]（右欄；末字似『金』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n中華民國玖年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）伍分伍釐柒毫\n黃同華\n為徵收錢糧事\n中華民國玖年七月\n縣\n維[?]字第七百八三[?]號\n（朱框）倘有重完錯漏限十日內赴櫃驗改如遲自悞此諭\n（朱框旁手寫）初八[?]",
+     "legibility": "medium",
+     "confidence": 0.7,
+     "notes": "左緣殘破。同一金額見於83955（民15，黃同華）；第一部分在83869第13、15頁把同額（民11、12）讀作『黃同義』。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83873_p1p2_hr.jpg",
+      "data/households/_crops/huang_part2_montages/1920_serial_zoom.jpg"
+     ]
+    },
+    {
+     "page": 2,
+     "image": "data/images/pitt_31735066237623/pitt_31735066237623-0002.jpg",
+     "form_variant": "1926年黑色木刻版",
+     "hu_ming": "黃同華",
+     "tax_year": "民國拾叁年（手寫）",
+     "tax_year_gregorian": "1924",
+     "tax_item": "地丁銀",
+     "amount": "壹分捌釐捌毫",
+     "amount_liang": 0.0188,
+     "issue_date": "民國拾伍年九[?]月",
+     "issue_date_gregorian": "1926",
+     "serial": "能[?]字第乙百の九號（一百四[?]十九）",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國拾叁年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）壹分捌釐捌毫\n黃同華\n為徵收錢糧事\n（左欄）民國拾伍年九[?]月　日\n能[?]字第乙百の九號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.8,
+     "notes": "同額見於83869第5頁（民12，黃同華，第一部分讀）。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83873_p1p2_hr.jpg",
+      "data/households/_crops/huang_part2_montages/amt_cmp_71_73.jpg"
+     ]
+    },
+    {
+     "page": 3,
+     "image": "data/images/pitt_31735066237623/pitt_31735066237623-0003.jpg",
+     "form_variant": "1926年黑色木刻版（納稅年亦預印『拾伍』）",
+     "hu_ming": "黃同華",
+     "tax_year": "民國拾伍年（預印）",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "叁分陸釐〇毫",
+     "amount_liang": 0.036,
+     "issue_date": "民國拾伍年七[?]月",
+     "issue_date_gregorian": "1926",
+     "serial": "作字第廿六號",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）叁分陸釐〇毫\n黃同華\n為徵收錢糧事\n（左欄）民國拾伍年七[?]月　日\n作字第廿六號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.8,
+     "notes": "同額見於83869第9頁（民12，黃同華）。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83873_p3p4_hr.jpg",
+      "data/households/_crops/huang_part2_montages/amt_cmp_71_73.jpg"
+     ]
+    },
+    {
+     "page": 4,
+     "image": "data/images/pitt_31735066237623/pitt_31735066237623-0004.jpg",
+     "form_variant": "1927年淡墨細字版（『中華民國拾伍年地丁銀』『中華民國拾陸年』皆預印）",
+     "hu_ming": "黃同華",
+     "tax_year": "中華民國拾伍年",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "叁錢正（木戳）",
+     "amount_liang": 0.3,
+     "issue_date": "中華民國拾陸年五[?]月",
+     "issue_date_gregorian": "1927",
+     "serial": "荒字第の三[?]號（草書似『の三』）",
+     "transcription": "納戶執照\n永泰縣知事\n今據　都　甲納戶（都、甲未填）\n中華民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）叁錢正\n黃同華\n為徵收錢糧事\n中華民國拾陸年五[?]月\n縣\n荒字第の三[?]號\n（左下墨框）如有重完錯漏限十日內到櫃驗改如遲自悞\n日\n號",
+     "legibility": "medium",
+     "confidence": 0.75,
+     "notes": "同額見於83869第8頁（民12，黃同華）。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83873_p3p4_hr.jpg",
+      "data/households/_crops/huang_part2_montages/qian_cmp.jpg",
+      "data/households/_crops/huang_part2_montages/light_month_serial.jpg"
+     ]
+    },
+    {
+     "page": 5,
+     "image": "data/images/pitt_31735066237623/pitt_31735066237623-0005.jpg",
+     "form_variant": "1927年淡墨細字版",
+     "hu_ming": "黃同華",
+     "tax_year": "中華民國拾伍年",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "壹[?]錢正（木戳，被朱印壓住）",
+     "amount_liang": 0.1,
+     "issue_date": "中華民國拾陸年五月",
+     "issue_date_gregorian": "1927",
+     "serial": "□字第乙百七[?]號（字號朱戳不見）",
+     "transcription": "納戶執照\n永泰縣知事\n今據　都　甲納戶（都、甲未填）\n中華民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）壹[?]錢正\n黃同華\n為徵收錢糧事\n中華民國拾陸年五月\n縣\n□字第乙百七[?]號\n（左下墨框）如有重完錯漏限十日內到櫃驗改如遲自悞\n日\n號",
+     "legibility": "low",
+     "confidence": 0.55,
+     "notes": "大片朱印暈染。第一部分83869中黃同華另有『弍錢正』（民11、12），此頁數字若是『弍』則同一筆；本頁看來更像『壹』，存疑。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83873p5_83878p1.jpg",
+      "data/households/_crops/huang_part2_montages/qian_cmp.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[].transcription",
+   "legibility": "medium",
+   "confidence": 0.72,
+   "notes": "全部是黃同華一戶不同筆錢糧的納戶執照，金額各不相同（至少5筆戶項），沒有推收、過戶字樣。"
+  },
+  {
+   "pid": "pitt:31735066237680",
+   "nid": 83880,
+   "page_count": 1,
+   "doc_type": "串票/納稅收據",
+   "doc_type_evidence": "版頭『納戶執照』，『民國拾壹年地丁銀』『為徵收錢糧事』",
+   "form_title": "納戶執照（1922年版，用『民國』不用『中華民國』）",
+   "date_original": "納稅：民國拾壹年；發照：民國拾壹[?]年十一[?]月□日",
+   "date_gregorian": "1922",
+   "date_vs_metadata": "一致（館方1922）",
+   "parties": [
+    {
+     "name": "黃汝勷",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "銀數框旁手寫『黃汝勷』"
+    },
+    {
+     "name": "鍾[?]（永泰縣知事，姓氏推測）",
+     "role": "官員",
+     "relation_stated": null,
+     "evidence": "右欄『永泰縣…』末一大字似『鍾』"
+    }
+   ],
+   "property": {
+    "kind": "地丁銀戶",
+    "toponym": null,
+    "location": "永泰縣；都、甲未填",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "捌分壹釐〇毫",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": null
+   },
+   "clauses": [],
+   "official_marks": "淡朱大方印、銀數框朱長方印；左欄墨書『施[?]』字號",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066237680/pitt_31735066237680-0001.jpg",
+     "form_variant": "1922年黑色木刻版",
+     "hu_ming": "黃汝勷",
+     "tax_year": "民國拾壹年（手寫，『拾』草作『合』形）",
+     "tax_year_gregorian": "1922",
+     "tax_item": "地丁銀",
+     "amount": "捌分壹釐〇毫",
+     "amount_liang": 0.081,
+     "issue_date": "民國拾壹[?]年十一[?]月□日",
+     "issue_date_gregorian": "1922",
+     "serial": "施[?]字第二千七百の八號（の或為四或為〇）",
+     "transcription": "納戶執照\n永泰縣□□…鍾[?]\n今據　[都?]　甲納戶\n民國拾壹年地丁銀\n合給執照須至照者\n完\n（銀數框）捌分壹釐〇毫\n黃汝勷\n為徵收錢糧事\n（左欄）民國拾壹[?]年十一[?]月\n施[?]字第二千七百の八號\n日",
+     "legibility": "medium",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/pitt_31735066237680/hr_0001_0_0_100_50.jpg",
+      "data/households/_crops/pitt_31735066237680/hr_0001_0_48_100_52.jpg",
+      "data/households/_crops/huang_part2_montages/amt_p2p3_83880.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[0].transcription",
+   "legibility": "medium",
+   "confidence": 0.7,
+   "notes": "與83874 p7（民9）、p3（民14）同為黃汝勷『捌分壹釐〇毫』一筆，構成民9—民11—民14的連續完糧記錄。"
+  },
+  {
+   "pid": "pitt:31735066237599",
+   "nid": 83870,
+   "page_count": 8,
+   "doc_type": "糧戶執照",
+   "doc_type_evidence": "p1–7版頭印『糧戶執照』，右欄『為征收地丁事』，下有『…下忙完納每兩加價』『…費大洋』『共結收大洋』；p8版頭為『納戶執照』",
+   "form_title": "糧戶執照（p1–7）；納戶執照（p8）",
+   "date_original": "p1–7：中華民國弍拾年發照，納稅年度拾柒至弍拾年；p8：民國拾叁年十二月發照，納稅年度拾弍年",
+   "date_gregorian": "發照1931（p1–7）、1924年12月（p8）；納稅年度1923、1928–1931",
+   "date_vs_metadata": "館方1923–1930：起點1923是p8的納稅年度；但p1、p2納稅年度為弍拾年（1931），且p1–7都在1931年發照，館方下限應為1931",
+   "parties": [
+    {
+     "name": "黃乞容",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "八張皆手寫『黃乞容』，第二字作『𠂉＋乙』帶上挑鉤，楷書清楚，不是『遠』的草寫"
+    }
+   ],
+   "property": {
+    "kind": "地丁戶（未載地塊）",
+    "toponym": null,
+    "location": "永泰縣（都甲未見）",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "每年兩筆：貳錢正、弍分捌釐〇毫",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": "印有『共結收大洋』『每兩加價』『…費大洋』，數額都空白未填"
+   },
+   "clauses": [
+    "上[?]下忙完納每兩加價（印字）"
+   ],
+   "official_marks": "p1–7中央大方朱印、銀數框朱方印；p3、p5、p7左欄朱戳『均[?]』；p3等右上角朱戳似『許[?]』；p8朱戳『賴[?]』字號",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066237599/pitt_31735066237599-0001.jpg",
+     "form_variant": "1931年『糧戶執照』木刻版（發照年預印『中華民國弍拾年』，月日未填）",
+     "hu_ming": "黃乞容",
+     "tax_year": "中華民國弍拾年（預印）",
+     "tax_year_gregorian": "1931",
+     "tax_item": "地丁",
+     "amount": "貳錢正",
+     "amount_liang": 0.2,
+     "issue_date": "中華民國弍拾年（月日空白）",
+     "issue_date_gregorian": "1931",
+     "serial": "□字第の百五九號（四[?]百五十九）",
+     "transcription": "糧戶執照\n（版頭下橫欄小字一行，墨色糊，不能識讀）\n永泰縣□□□大□…（右欄印字漫漶）\n今據□□□□…\n中華民國弍拾年□□地丁□□…（弍拾為預印）\n（中間三行印字墨糊，可辨『…上[?]下忙完納每兩加價』『…□□費大洋』）\n共結收大洋（數額未填）\n（銀數框，壓朱方印）貳錢正\n黃乞容\n為征收地丁事\n（左欄）中華民國弍拾年　月　日（月日未填）\n□字第の百五九號",
+     "legibility": "medium",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83870_taxyr_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_leftcol_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_bot_p1-4.jpg",
+      "data/households/_crops/huang_part2_montages/qirong_names.jpg"
+     ]
+    },
+    {
+     "page": 2,
+     "image": "data/images/pitt_31735066237599/pitt_31735066237599-0002.jpg",
+     "form_variant": "1931年『糧戶執照』木刻版（發照年預印『中華民國弍拾年』，月日未填）",
+     "hu_ming": "黃乞容",
+     "tax_year": "中華民國弍拾年（預印）",
+     "tax_year_gregorian": "1931",
+     "tax_item": "地丁",
+     "amount": "弍分捌釐〇毫",
+     "amount_liang": 0.028,
+     "issue_date": "中華民國弍拾年（月日空白）",
+     "issue_date_gregorian": "1931",
+     "serial": "□字第〣[?]千[?]號（數字似蘇州碼『〣』加『千』，存疑）",
+     "transcription": "糧戶執照\n（版頭下橫欄小字一行，墨色糊，不能識讀）\n永泰縣□□□大□…（右欄印字漫漶）\n今據□□□□…\n中華民國弍拾年□□地丁□□…（弍拾為預印）\n（中間三行印字墨糊，可辨『…上[?]下忙完納每兩加價』『…□□費大洋』）\n共結收大洋（數額未填）\n（銀數框，壓朱方印）弍分捌釐〇毫\n黃乞容\n為征收地丁事\n（左欄）中華民國弍拾年　月　日（月日未填）\n□字第〣[?]千[?]號",
+     "legibility": "medium",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83870_taxyr_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_leftcol_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_bot_p1-4.jpg",
+      "data/households/_crops/huang_part2_montages/qirong_names.jpg"
+     ]
+    },
+    {
+     "page": 3,
+     "image": "data/images/pitt_31735066237599/pitt_31735066237599-0003.jpg",
+     "form_variant": "1931年『糧戶執照』木刻版（發照年預印『中華民國弍拾年』，月日未填）",
+     "hu_ming": "黃乞容",
+     "tax_year": "中華民國拾玖年（手寫）",
+     "tax_year_gregorian": "1930",
+     "tax_item": "地丁",
+     "amount": "貳錢正",
+     "amount_liang": 0.2,
+     "issue_date": "中華民國弍拾年（月日空白）",
+     "issue_date_gregorian": "1931",
+     "serial": "均[?]字第六[?]百□號",
+     "transcription": "糧戶執照\n（版頭下橫欄小字一行，墨色糊，不能識讀）\n永泰縣□□□大□…（右欄印字漫漶）\n今據□□□□…\n中華民國拾玖年□□地丁□□…（拾玖為手寫）\n（中間三行印字墨糊，可辨『…上[?]下忙完納每兩加價』『…□□費大洋』）\n共結收大洋（數額未填）\n（銀數框，壓朱方印）貳錢正\n黃乞容\n為征收地丁事\n（左欄）中華民國弍拾年　月　日（月日未填）\n均[?]字第六[?]百□號",
+     "legibility": "low",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83870_taxyr_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_leftcol_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_bot_p1-4.jpg",
+      "data/households/_crops/huang_part2_montages/qirong_names.jpg"
+     ]
+    },
+    {
+     "page": 4,
+     "image": "data/images/pitt_31735066237599/pitt_31735066237599-0004.jpg",
+     "form_variant": "1931年『糧戶執照』木刻版（發照年預印『中華民國弍拾年』，月日未填）",
+     "hu_ming": "黃乞容",
+     "tax_year": "中華民國拾玖年（手寫）",
+     "tax_year_gregorian": "1930",
+     "tax_item": "地丁",
+     "amount": "弍分捌釐〇毫",
+     "amount_liang": 0.028,
+     "issue_date": "中華民國弍拾年（月日空白）",
+     "issue_date_gregorian": "1931",
+     "serial": "□字第五百の[?]號",
+     "transcription": "糧戶執照\n（版頭下橫欄小字一行，墨色糊，不能識讀）\n永泰縣□□□大□…（右欄印字漫漶）\n今據□□□□…\n中華民國拾玖年□□地丁□□…（拾玖為手寫）\n（中間三行印字墨糊，可辨『…上[?]下忙完納每兩加價』『…□□費大洋』）\n共結收大洋（數額未填）\n（銀數框，壓朱方印）弍分捌釐〇毫\n黃乞容\n為征收地丁事\n（左欄）中華民國弍拾年　月　日（月日未填）\n□字第五百の[?]號",
+     "legibility": "low",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83870_taxyr_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_leftcol_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_bot_p1-4.jpg",
+      "data/households/_crops/huang_part2_montages/qirong_names.jpg"
+     ]
+    },
+    {
+     "page": 5,
+     "image": "data/images/pitt_31735066237599/pitt_31735066237599-0005.jpg",
+     "form_variant": "1931年『糧戶執照』木刻版（發照年預印『中華民國弍拾年』，月日未填）",
+     "hu_ming": "黃乞容",
+     "tax_year": "中華民國拾捌年（手寫）",
+     "tax_year_gregorian": "1929",
+     "tax_item": "地丁",
+     "amount": "貳錢正",
+     "amount_liang": 0.2,
+     "issue_date": "中華民國弍拾年（月日空白）",
+     "issue_date_gregorian": "1931",
+     "serial": "均[?]字第八[?]百の[?]號",
+     "transcription": "糧戶執照\n（版頭下橫欄小字一行，墨色糊，不能識讀）\n永泰縣□□□大□…（右欄印字漫漶）\n今據□□□□…\n中華民國拾捌年□□地丁□□…（拾捌為手寫）\n（中間三行印字墨糊，可辨『…上[?]下忙完納每兩加價』『…□□費大洋』）\n共結收大洋（數額未填）\n（銀數框，壓朱方印）貳錢正\n黃乞容\n為征收地丁事\n（左欄）中華民國弍拾年　月　日（月日未填）\n均[?]字第八[?]百の[?]號",
+     "legibility": "low",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83870_taxyr_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_leftcol_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_bot_p5-8.jpg",
+      "data/households/_crops/huang_part2_montages/qirong_names.jpg"
+     ]
+    },
+    {
+     "page": 6,
+     "image": "data/images/pitt_31735066237599/pitt_31735066237599-0006.jpg",
+     "form_variant": "1931年『糧戶執照』木刻版（發照年預印『中華民國弍拾年』，月日未填）",
+     "hu_ming": "黃乞容",
+     "tax_year": "中華民國拾捌年（手寫）",
+     "tax_year_gregorian": "1929",
+     "tax_item": "地丁",
+     "amount": "弍分捌釐〇毫",
+     "amount_liang": 0.028,
+     "issue_date": "中華民國弍拾年（月日空白）",
+     "issue_date_gregorian": "1931",
+     "serial": "□字第五百五十號",
+     "transcription": "糧戶執照\n（版頭下橫欄小字一行，墨色糊，不能識讀）\n永泰縣□□□大□…（右欄印字漫漶）\n今據□□□□…\n中華民國拾捌年□□地丁□□…（拾捌為手寫）\n（中間三行印字墨糊，可辨『…上[?]下忙完納每兩加價』『…□□費大洋』）\n共結收大洋（數額未填）\n（銀數框，壓朱方印）弍分捌釐〇毫\n黃乞容\n為征收地丁事\n（左欄）中華民國弍拾年　月　日（月日未填）\n□字第五百五十號",
+     "legibility": "low",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83870_taxyr_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_leftcol_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_bot_p5-8.jpg",
+      "data/households/_crops/huang_part2_montages/qirong_names.jpg"
+     ]
+    },
+    {
+     "page": 7,
+     "image": "data/images/pitt_31735066237599/pitt_31735066237599-0007.jpg",
+     "form_variant": "1931年『糧戶執照』木刻版（發照年預印『中華民國弍拾年』，月日未填）",
+     "hu_ming": "黃乞容",
+     "tax_year": "中華民國拾柒年（手寫）",
+     "tax_year_gregorian": "1928",
+     "tax_item": "地丁",
+     "amount": "貳錢正",
+     "amount_liang": 0.2,
+     "issue_date": "中華民國弍拾年（月日空白）",
+     "issue_date_gregorian": "1931",
+     "serial": "均[?]字第□□□號（草書似『レンミ』）",
+     "transcription": "糧戶執照\n（版頭下橫欄小字一行，墨色糊，不能識讀）\n永泰縣□□□大□…（右欄印字漫漶）\n今據□□□□…\n中華民國拾柒年□□地丁□□…（拾柒為手寫）\n（中間三行印字墨糊，可辨『…上[?]下忙完納每兩加價』『…□□費大洋』）\n共結收大洋（數額未填）\n（銀數框，壓朱方印）貳錢正\n黃乞容\n為征收地丁事\n（左欄）中華民國弍拾年　月　日（月日未填）\n均[?]字第□□□號",
+     "legibility": "low",
+     "confidence": 0.7,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83870_taxyr_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_leftcol_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83870_bot_p5-8.jpg",
+      "data/households/_crops/huang_part2_montages/qirong_names.jpg"
+     ]
+    },
+    {
+     "page": 8,
+     "image": "data/images/pitt_31735066237599/pitt_31735066237599-0008.jpg",
+     "form_variant": "1924年黑色木刻『納戶執照』版（發照年預印『民國拾叁年』）",
+     "hu_ming": "黃乞容",
+     "tax_year": "民國拾弍年（手寫）",
+     "tax_year_gregorian": "1923",
+     "tax_item": "地丁銀",
+     "amount": "弍[?]分捌釐〇毫（首字草作『N』形）",
+     "amount_liang": 0.028,
+     "issue_date": "民國拾叁年十二月□日",
+     "issue_date_gregorian": "1924年12月",
+     "serial": "賴[?]字第八百の二號（八百四[?]十二）",
+     "transcription": "納戶執照\n永泰縣…\n今據　[都?]　甲納戶\n民國拾弍年地丁銀\n合給執照須至照者\n完\n（銀數框）弍[?]分捌釐〇毫\n黃乞容\n為徵收錢糧事\n（左欄）民國拾叁年十二月　日\n賴[?]字第八百の二號\n（左下朱框）倘有重完…十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.7,
+     "notes": "左緣朱戳殘存『頁』旁，與第一部分83869所見『賴』字號相合；號數『八百の二』緊接83869的849–860號一批（民國13年12月補完民11、12兩年），說明黃乞容戶也在同一次統一完納中。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83870p8_83951.jpg",
+      "data/households/_crops/huang_part2_montages/zihao_stamps.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[].transcription；1931年版印字墨糊，中段三行附加費說明只能辨認片段",
+   "legibility": "medium",
+   "confidence": 0.7,
+   "notes": "館方『黃乞容等』：八張其實都只寫黃乞容一人，沒有『等』。1931年一次領到民17–20四年的執照，每年兩張（貳錢正、弍分捌釐〇毫），其中民17年的『弍分捌釐』一張單獨編為83952；民16年一張是83951。"
+  },
+  {
+   "pid": "pitt:31735066237664",
+   "nid": 83878,
+   "page_count": 2,
+   "doc_type": "串票/納稅收據",
+   "doc_type_evidence": "兩張版頭皆『納戶執照』，『地丁銀』『為徵收錢糧事』",
+   "form_title": "納戶執照",
+   "date_original": "p1：納稅民國十三年，發照民國拾伍年；p2：納稅中華民國拾伍年，發照中華民國拾陸年",
+   "date_gregorian": "納稅1924、1926；發照1926、1927",
+   "date_vs_metadata": "館方1924、1926是納稅年度，一致；發照年分別晚一年",
+   "parties": [
+    {
+     "name": "黃同德",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "兩張皆手寫『黃同德』"
+    }
+   ],
+   "property": {
+    "kind": "地丁銀戶",
+    "toponym": null,
+    "location": "永泰縣；都甲未填",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "伍錢正（民13、民15）",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": null
+   },
+   "clauses": [],
+   "official_marks": "p1朱戳『能[?]』字號；p2朱戳『荒』字號；大方朱印、銀數框朱印",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066237664/pitt_31735066237664-0001.jpg",
+     "form_variant": "1926年黑色木刻版",
+     "hu_ming": "黃同德",
+     "tax_year": "民國十三年（手寫）",
+     "tax_year_gregorian": "1924",
+     "tax_item": "地丁銀",
+     "amount": "伍錢正（木戳，『伍』字較淡）",
+     "amount_liang": 0.5,
+     "issue_date": "民國拾伍年七[?]月",
+     "issue_date_gregorian": "1926",
+     "serial": "能[?]字第十七號",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國十三年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）伍錢正\n黃同德\n為徵收錢糧事\n（左欄）民國拾伍年七[?]月　日\n能[?]字第十七號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.8,
+     "notes": "號數十七緊接83874 p1黃雲邨的十六號。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83873p5_83878p1.jpg",
+      "data/households/_crops/huang_part2_montages/83878_detail.jpg"
+     ]
+    },
+    {
+     "page": 2,
+     "image": "data/images/pitt_31735066237664/pitt_31735066237664-0002.jpg",
+     "form_variant": "1927年淡墨細字版",
+     "hu_ming": "黃同德",
+     "tax_year": "中華民國拾伍年",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "伍錢正（木戳）",
+     "amount_liang": 0.5,
+     "issue_date": "中華民國拾陸年乙[?]月",
+     "issue_date_gregorian": "1927",
+     "serial": "荒字第十六號",
+     "transcription": "納戶執照\n永泰縣知事\n今據　都　甲納戶（都、甲未填）\n中華民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）伍錢正\n黃同德\n為徵收錢糧事\n中華民國拾陸年乙[?]月\n縣\n荒字第十六號\n（左下墨框）如有重完錯漏限十日內到櫃驗改如遲自悞\n日\n號",
+     "legibility": "high",
+     "confidence": 0.85,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83878p2_83871p1.jpg",
+      "data/households/_crops/huang_part2_montages/83878_detail.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[].transcription",
+   "legibility": "medium",
+   "confidence": 0.8,
+   "notes": "第一部分在83869讀到黃同德民11年為『弍錢正』與『捌分捌釐陸毫』（p6、p7）；本件民13、15年都是『伍錢正』。是新增或併入戶項，還是另一筆錢糧，原件沒有推收字樣，無法判斷。"
+  },
+  {
+   "pid": "pitt:31735066266747",
+   "nid": 83955,
+   "page_count": 1,
+   "doc_type": "串票/納稅收據",
+   "doc_type_evidence": "版頭『納戶執照』，『民國拾伍年地丁銀』『為徵收錢糧事』",
+   "form_title": "納戶執照",
+   "date_original": "納稅民國拾伍年（預印），發照民國拾伍年五[?]月",
+   "date_gregorian": "1926",
+   "date_vs_metadata": "一致",
+   "parties": [
+    {
+     "name": "黃同華",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "手寫『黃同華』"
+    }
+   ],
+   "property": {
+    "kind": "地丁銀戶",
+    "toponym": null,
+    "location": "永泰縣；都甲未填",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "伍分伍釐柒毫",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": null
+   },
+   "clauses": [],
+   "official_marks": "左欄朱戳『作』字號；大方朱印；銀數框朱印；左下朱框告示",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066266747/pitt_31735066266747-0001.jpg",
+     "form_variant": "1926年黑色木刻版（納稅年預印拾伍）",
+     "hu_ming": "黃同華",
+     "tax_year": "民國拾伍年（預印）",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "伍分伍釐柒毫",
+     "amount_liang": 0.0557,
+     "issue_date": "民國拾伍年五[?]月",
+     "issue_date_gregorian": "1926",
+     "serial": "作字第廿九號",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）伍分伍釐柒毫\n黃同華\n為徵收錢糧事\n（左欄）民國拾伍年五[?]月　日\n作字第廿九號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.8,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83955_83871p1.jpg",
+      "data/households/_crops/huang_part2_montages/bold_serials_hr.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[0].transcription",
+   "legibility": "medium",
+   "confidence": 0.8,
+   "notes": "金額『伍分伍釐柒毫』與83873 p1（民9，黃同華）相同；第一部分83869讀作黃同義（民11、12）的兩張也是這個金額，見綜合分析。"
+  },
+  {
+   "pid": "pitt:31735066237607",
+   "nid": 83871,
+   "page_count": 6,
+   "doc_type": "串票/納稅收據",
+   "doc_type_evidence": "六張版頭皆『納戶執照』",
+   "form_title": "納戶執照",
+   "date_original": "納稅年度皆為民國拾伍年；p2–4發照民國拾伍年，p1、p5、p6發照中華民國拾陸年",
+   "date_gregorian": "納稅1926；發照1926、1927",
+   "date_vs_metadata": "一致（館方1926–1927）",
+   "parties": [
+    {
+     "name": "黃國興",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "六張皆手寫『黃國興』（興草作『兴/吳』形）"
+    }
+   ],
+   "property": {
+    "kind": "地丁銀戶",
+    "toponym": null,
+    "location": "永泰縣；都甲未填",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "民15年六筆：肆錢正、壹錢正、壹錢正、叁分叁[?]釐〇毫、玖分伍釐〇毫、捌分陸[?]釐捌毫",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": null
+   },
+   "clauses": [],
+   "official_marks": "p2–4朱戳『作』字號（廿一、廿二、廿三連號）；p1朱戳『荒』字號；p5、p6字號朱戳模糊（似『荒』）",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066237607/pitt_31735066237607-0001.jpg",
+     "form_variant": "1927年淡墨細字版",
+     "hu_ming": "黃國興",
+     "tax_year": "中華民國拾伍年",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "肆錢正（木戳）",
+     "amount_liang": 0.4,
+     "issue_date": "中華民國拾陸年五[?]月",
+     "issue_date_gregorian": "1927",
+     "serial": "荒字第十九號",
+     "transcription": "納戶執照\n永泰縣知事\n今據　都　甲納戶（都、甲未填）\n中華民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）肆錢正\n黃國興\n為徵收錢糧事\n中華民國拾陸年五[?]月\n縣\n荒字第十九號\n（左下墨框）如有重完錯漏限十日內到櫃驗改如遲自悞\n日\n號",
+     "legibility": "high",
+     "confidence": 0.85,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83955_83871p1.jpg",
+      "data/households/_crops/huang_part2_montages/light_month_serial.jpg"
+     ]
+    },
+    {
+     "page": 2,
+     "image": "data/images/pitt_31735066237607/pitt_31735066237607-0002.jpg",
+     "form_variant": "1926年黑色木刻版（納稅年預印拾伍）",
+     "hu_ming": "黃國興",
+     "tax_year": "民國拾伍年（預印）",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "叁分叁[?]釐〇毫（中間一字草書長圈，似『叁』，也可能是『陸』）",
+     "amount_liang": 0.033,
+     "issue_date": "民國拾伍年五[?]月",
+     "issue_date_gregorian": "1926",
+     "serial": "作字第廿一號",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）叁分叁[?]釐〇毫\n黃國興\n為徵收錢糧事\n（左欄）民國拾伍年五[?]月　日\n作字第廿一號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.6,
+     "notes": "若中間字是『陸』，則與黃同華『叁分陸釐〇毫』同額；目前讀不定，不作推論。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83871_p234_hr.jpg",
+      "data/households/_crops/huang_part2_montages/amt_cmp_71_73.jpg",
+      "data/households/_crops/huang_part2_montages/83871_p234_leftcol.jpg"
+     ]
+    },
+    {
+     "page": 3,
+     "image": "data/images/pitt_31735066237607/pitt_31735066237607-0003.jpg",
+     "form_variant": "1926年黑色木刻版",
+     "hu_ming": "黃國興",
+     "tax_year": "民國拾伍年（預印）",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "玖分伍釐〇毫",
+     "amount_liang": 0.095,
+     "issue_date": "民國拾伍年九[?]月",
+     "issue_date_gregorian": "1926",
+     "serial": "作字第廿二號",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）玖分伍釐〇毫\n黃國興\n為徵收錢糧事\n（左欄）民國拾伍年九[?]月　日\n作字第廿二號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.75,
+     "notes": "同額見於83869第11、21頁（民12、民11，黃國興）。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83871_p234_hr.jpg",
+      "data/households/_crops/huang_part2_montages/83871_amt_hr.jpg"
+     ]
+    },
+    {
+     "page": 4,
+     "image": "data/images/pitt_31735066237607/pitt_31735066237607-0004.jpg",
+     "form_variant": "1926年黑色木刻版",
+     "hu_ming": "黃國興",
+     "tax_year": "民國拾伍年（預印）",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "捌分陸[?]釐捌毫（捌草作『拌』形；中間字與83873 p3『陸』同形）",
+     "amount_liang": 0.0868,
+     "issue_date": "民國拾伍年七[?]月",
+     "issue_date_gregorian": "1926",
+     "serial": "作字第廿三號",
+     "transcription": "納戶執照\n永泰縣知事□□…賈[?]（右欄；末字似『賈』，疑為知事姓）\n今據　[都?]　甲納戶（都、甲未填）\n民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）捌分陸[?]釐捌毫\n黃國興\n為徵收錢糧事\n（左欄）民國拾伍年七[?]月　日\n作字第廿三號\n（左下朱框）倘有重完錯漏…限十日內赴櫃驗改如遲自悞此諭",
+     "legibility": "medium",
+     "confidence": 0.65,
+     "notes": "第一部分在83869第17、19頁讀為黃國興『捌分壹釐捌毫』；首尾兩字相同，只差中間一字，推測是同一筆錢糧，其中一邊讀錯，需原件核對。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/amt_cmp_71_73.jpg",
+      "data/households/_crops/huang_part2_montages/83871_amt_hr.jpg"
+     ]
+    },
+    {
+     "page": 5,
+     "image": "data/images/pitt_31735066237607/pitt_31735066237607-0005.jpg",
+     "form_variant": "1927年淡墨細字版",
+     "hu_ming": "黃國興",
+     "tax_year": "中華民國拾伍年",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "壹錢正（木戳）",
+     "amount_liang": 0.1,
+     "issue_date": "中華民國拾陸年五[?]月",
+     "issue_date_gregorian": "1927",
+     "serial": "荒[?]字第二百の五號（の或為〇或為四）",
+     "transcription": "納戶執照\n永泰縣知事\n今據　都　甲納戶（都、甲未填）\n中華民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）壹錢正\n黃國興\n為徵收錢糧事\n中華民國拾陸年五[?]月\n縣\n荒[?]字第二百の五號\n（左下墨框）如有重完錯漏限十日內到櫃驗改如遲自悞\n日\n號",
+     "legibility": "medium",
+     "confidence": 0.75,
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83871p5p6.jpg",
+      "data/households/_crops/huang_part2_montages/light_month_serial.jpg"
+     ]
+    },
+    {
+     "page": 6,
+     "image": "data/images/pitt_31735066237607/pitt_31735066237607-0006.jpg",
+     "form_variant": "1927年淡墨細字版",
+     "hu_ming": "黃國興",
+     "tax_year": "中華民國拾伍年",
+     "tax_year_gregorian": "1926",
+     "tax_item": "地丁銀",
+     "amount": "壹錢正（木戳）",
+     "amount_liang": 0.1,
+     "issue_date": "中華民國拾陸年五[?]月",
+     "issue_date_gregorian": "1927",
+     "serial": "荒[?]字第二百の六號",
+     "transcription": "納戶執照\n永泰縣知事\n今據　都　甲納戶（都、甲未填）\n中華民國拾伍年地丁銀\n合給執照須至照者\n完\n（銀數框，壓朱長方印）壹錢正\n黃國興\n為徵收錢糧事\n中華民國拾陸年五[?]月\n縣\n荒[?]字第二百の六號\n（左下墨框）如有重完錯漏限十日內到櫃驗改如遲自悞\n日\n號",
+     "legibility": "medium",
+     "confidence": 0.75,
+     "notes": "與p5同為壹錢正、連號，說明黃國興名下有兩筆各壹錢的戶項；83869第10、20頁（民12、民11）也各有一張黃國興『壹錢正』（號202、203），號數也相連。",
+     "crops": [
+      "data/households/_crops/huang_part2_montages/83871p5p6.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[].transcription",
+   "legibility": "medium",
+   "confidence": 0.75,
+   "notes": "館方『黃國興等』：六張都只寫黃國興。同一納稅年度（民15）有六張不同金額的執照，說明一個戶名下掛多筆錢糧（多處田產或多個舊戶）。"
+  },
+  {
+   "pid": "pitt:31735066266713",
+   "nid": 83951,
+   "page_count": 1,
+   "doc_type": "串票/納稅收據",
+   "doc_type_evidence": "版頭『納戶執照』；右欄『永泰縣知事黃』；『為徵收錢糧事』；版頭上方加印朱色附加捐告示",
+   "form_title": "納戶執照（1928年版，附朱印附加捐說明）",
+   "date_original": "納稅民國拾陸年（預印）；發照民國拾柒年□月□日",
+   "date_gregorian": "納稅1927；發照1928",
+   "date_vs_metadata": "館方1928是發照年，一致；納稅年度是1927",
+   "parties": [
+    {
+     "name": "黃乞容",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "手寫『黃乞容』"
+    },
+    {
+     "name": "黃（永泰縣知事，名未印）",
+     "role": "官員",
+     "relation_stated": null,
+     "evidence": "右欄印『永泰縣知事黃』"
+    }
+   ],
+   "property": {
+    "kind": "地丁銀戶",
+    "toponym": null,
+    "location": "永泰縣",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "弍分捌釐〇毫",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": null
+   },
+   "clauses": [
+    "朱印附加捐告示（見transcription）"
+   ],
+   "official_marks": "版頭朱印告示框；大方朱印（壓於正文）；銀數框朱印；左上與左欄墨書『實』字（字號）",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066266713/pitt_31735066266713-0001.jpg",
+     "form_variant": "1928年木刻版",
+     "hu_ming": "黃乞容",
+     "tax_year": "民國拾陸年（預印）",
+     "tax_year_gregorian": "1927",
+     "tax_item": "地丁銀",
+     "amount": "弍分捌釐〇毫",
+     "amount_liang": 0.028,
+     "issue_date": "民國拾柒年□月□日",
+     "issue_date_gregorian": "1928",
+     "serial": "實[?]字第五百〇八號",
+     "transcription": "（版頭朱印告示，右起，多字不清）本年上[?]□起[?]／納新[?]□□…／各項附…／大洋下…／弍元叁□伍[?]占[?]／另加一□…貲[?]／又隨糧…／附加捐…／□費叁[?]角…年／費共□…年□／每張□□為文；（小框）另□…錢…占\n納戶執照\n實\n永泰縣知事黃\n今據　都　甲納戶\n民國拾陸年地丁銀\n合給執照須至照者\n完\n（銀數框）弍分捌釐〇毫\n黃乞容\n為徵收錢糧事\n（左欄）民國拾柒年　月　日\n實[?]字第五百〇八號\n（左下小字）倘有…十日內…",
+     "legibility": "medium",
+     "confidence": 0.7,
+     "notes": "朱印告示是附加捐的說明（可辨『大洋』『另加』『又隨糧』『附加捐』等），具體數額讀不清。",
+     "crops": [
+      "data/households/_crops/pitt_31735066266713/hr_0001_8_2_80_22.jpg",
+      "data/households/_crops/huang_part2_montages/83870p8_83951.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[0].transcription",
+   "legibility": "medium",
+   "confidence": 0.7,
+   "notes": "黃乞容民16年的『弍分捌釐〇毫』，正好補上83870（民12、民17–20）中間的一年。"
+  },
+  {
+   "pid": "pitt:31735066266721",
+   "nid": 83952,
+   "page_count": 1,
+   "doc_type": "糧戶執照",
+   "doc_type_evidence": "版頭『糧戶執照』（『糧』字殘半），『為征收地丁事』『共結收大洋』『每兩加價』",
+   "form_title": "糧戶執照",
+   "date_original": "納稅中華民國拾柒年（手寫）；發照中華民國弍拾年",
+   "date_gregorian": "納稅1928；發照1931",
+   "date_vs_metadata": "館方1931是發照年，一致；納稅年度是1928",
+   "parties": [
+    {
+     "name": "黃乞容",
+     "role": "戶名/納戶",
+     "relation_stated": null,
+     "evidence": "手寫『黃乞容』"
+    }
+   ],
+   "property": {
+    "kind": "地丁戶",
+    "toponym": null,
+    "location": "永泰縣",
+    "boundaries": {
+     "東": null,
+     "西": null,
+     "南": null,
+     "北": null
+    },
+    "size": null,
+    "tax_or_rent": "弍分捌釐〇毫",
+    "parcel_ids": null
+   },
+   "title_origin": null,
+   "price": {
+    "amount": null,
+    "unit": null,
+    "currency": null,
+    "original_text": "『共結收大洋』後未填"
+   },
+   "clauses": [],
+   "official_marks": "大方朱印、銀數框朱方印；右上殘缺",
+   "pages": [
+    {
+     "page": 1,
+     "image": "data/images/pitt_31735066266721/pitt_31735066266721-0001.jpg",
+     "form_variant": "1931年『糧戶執照』木刻版",
+     "hu_ming": "黃乞容",
+     "tax_year": "中華民國拾柒年（手寫）",
+     "tax_year_gregorian": "1928",
+     "tax_item": "地丁",
+     "amount": "弍分捌釐〇毫",
+     "amount_liang": 0.028,
+     "issue_date": "中華民國弍拾年（月日空白）",
+     "issue_date_gregorian": "1931",
+     "serial": "□字第五百の九號",
+     "transcription": "糧戶執照\n（版頭下橫欄小字一行，墨色糊，不能識讀）\n永泰縣□□□大□…（右欄印字漫漶）\n今據□□□□…\n中華民國拾柒年□□地丁□□…（拾柒為手寫）\n（中間三行印字墨糊，可辨『…上[?]下忙完納每兩加價』『…□□費大洋』）\n共結收大洋（數額未填）\n（銀數框，壓朱方印）弍分捌釐〇毫\n黃乞容\n為征收地丁事\n（左欄）中華民國弍拾年　月　日（月日未填）\n□字第五百の九號",
+     "legibility": "medium",
+     "confidence": 0.75,
+     "crops": [
+      "data/households/_crops/pitt_31735066266721/hr_0001_0_0_100_100.jpg",
+      "data/households/_crops/pitt_31735066266721/hr_0001_0_64_100_36.jpg"
+     ]
+    }
+   ],
+   "transcription": "見 pages[0].transcription",
+   "legibility": "medium",
+   "confidence": 0.75,
+   "notes": "與83870 p7（民17，貳錢正）是同一年度的一對，同批於1931年發照，館方分開編目。"
+  }
+ ],
+ "synthesis": {
+  "scope": "永泰黃氏組第二部分：nid 83874、83873、83880、83870、83878、83955、83871、83951、83952，共9件32頁（31張執照＋1張手寫紙條）。83869由第一部分處理，本部分只引用其已出的讀法作比對。",
+  "doc_type_summary": "全部是官方完糧憑證，沒有一件買賣契、典契或分關。23張為永泰縣『納戶執照』（地丁銀完納執照，有1920、1922、1924、1926、1927、1928六種版式），8張（83870 p1–7、83952）為1931年『糧戶執照』，另有1張手寫小紙條（83874 p4）。文書只寫戶名和銀數，沒有土名、面積、四至、地號、都甲（都、甲欄全部空白）。",
+  "people": [
+   {
+    "name": "黃雲邨",
+    "pids": [
+     "pitt:31735066237631"
+    ],
+    "roles": [
+     "戶名/納戶"
+    ],
+    "relation_stated": null,
+    "generation_guess": "推測：『雲邨』像字號而不像譜名，無法排字輩",
+    "evidence": "83874 p1、p2、p5、p6；館方作『黃雲村?』，原件作『邨』（村的異體）"
+   },
+   {
+    "name": "黃汝勷",
+    "pids": [
+     "pitt:31735066237631",
+     "pitt:31735066237680"
+    ],
+    "roles": [
+     "戶名/納戶"
+    ],
+    "relation_stated": null,
+    "generation_guess": "推測：『汝』可能是一個字輩，但本組沒有第二個『汝』字名，無法確認",
+    "evidence": "83874 p3、p7；83880"
+   },
+   {
+    "name": "黃同華",
+    "pids": [
+     "pitt:31735066237623",
+     "pitt:31735066266747"
+    ],
+    "roles": [
+     "戶名/納戶"
+    ],
+    "relation_stated": null,
+    "generation_guess": "推測：與黃同德（及第一部分的黃同義）共用『同』字，可能是同一輩",
+    "evidence": "83873 p1–5；83955；第一部分83869也有6張"
+   },
+   {
+    "name": "黃同德",
+    "pids": [
+     "pitt:31735066237664"
+    ],
+    "roles": [
+     "戶名/納戶"
+    ],
+    "relation_stated": null,
+    "generation_guess": "推測：『同』字輩",
+    "evidence": "83878 p1、p2"
+   },
+   {
+    "name": "黃國興",
+    "pids": [
+     "pitt:31735066237607"
+    ],
+    "roles": [
+     "戶名/納戶"
+    ],
+    "relation_stated": null,
+    "generation_guess": "推測：『國』字輩（館方83869另有『國義』，第一部分改讀為『同義』）；『同』『國』誰長誰幼，文書沒有任何依據",
+    "evidence": "83871 p1–6"
+   },
+   {
+    "name": "黃乞容",
+    "pids": [
+     "pitt:31735066237599",
+     "pitt:31735066266713",
+     "pitt:31735066266721"
+    ],
+    "roles": [
+     "戶名/納戶"
+    ],
+    "relation_stated": null,
+    "generation_guess": "推測：與第一部分的黃遠容共用末字『容』，若『容』是排行用字則可能同輩；但也可能只是巧合",
+    "evidence": "83870 p1–8、83951、83952，十張都寫『黃乞容』"
+   },
+   {
+    "name": "永泰縣知事（金[?]、鍾[?]、賈[?]、黃）",
+    "pids": [
+     "pitt:31735066237631",
+     "pitt:31735066237623",
+     "pitt:31735066237680",
+     "pitt:31735066266713"
+    ],
+    "roles": [
+     "官員/發照機關"
+    ],
+    "relation_stated": null,
+    "generation_guess": null,
+    "evidence": "版式右欄『永泰縣知事』下的姓：1920年版似『金』，1922年版似『鍾』，1926年版似『賈』，1928年版清楚印『黃』；前三個只是推測讀法"
+   }
+  ],
+  "huming_check_qirong_vs_yuanrong": {
+   "conclusion": "不同意把『黃乞容』改讀為『黃遠容』。",
+   "evidence": [
+    "十張執照（83870 p1–8、83951、83952）第二字寫法一致：上為『𠂉』，下為『乙』帶上挑鉤，楷書清楚，沒有『辶』旁，也不是『袁』的省形（裁切圖 _crops/huang_part2_montages/qirong_names.jpg）。",
+    "錢糧數額不同：黃乞容每年固定兩筆『貳錢正』『弍分捌釐〇毫』；第一部分讀到的黃遠容是『肆錢正』『玖分肆釐〇毫』。兩個戶名掛的是不同的錢糧。",
+    "同時並存：83870 p8（黃乞容，民12年，賴[?]字第八百の二號）與83869第3頁（黃遠容，民12年，第849號）同屬民國13年12月那一批，同一批次裡兩個戶名各有一張，說明是兩個戶，不是一個名字的兩種寫法。"
+   ],
+   "caveat": "仍可能是同一家族的兩個房分或兩代人；『容』字相同只是線索。"
+  },
+  "parcels": [
+   {
+    "parcel_id": "A_p2_T1",
+    "description": "黃雲邨『肆錢正』地丁銀戶項",
+    "docs": [
+     "pitt:31735066237631 p5（民9）",
+     "pitt:31735066237631 p1（民14）"
+    ],
+    "basis": "同戶名、同金額",
+    "same_parcel_confidence": "中"
+   },
+   {
+    "parcel_id": "A_p2_T2",
+    "description": "黃雲邨『弍[?]分陸[?]釐壹[?]毫』戶項",
+    "docs": [
+     "pitt:31735066237631 p6（民9）",
+     "pitt:31735066237631 p2（民14）"
+    ],
+    "basis": "同戶名、同金額式樣（草書數字有疑）",
+    "same_parcel_confidence": "低–中"
+   },
+   {
+    "parcel_id": "A_p2_T3",
+    "description": "黃汝勷『捌分壹釐〇毫』戶項",
+    "docs": [
+     "pitt:31735066237631 p7（民9）",
+     "pitt:31735066237680（民11）",
+     "pitt:31735066237631 p3（民14）"
+    ],
+    "basis": "同戶名、同金額，三年連續",
+    "same_parcel_confidence": "高"
+   },
+   {
+    "parcel_id": "A_p2_T4",
+    "description": "『伍分伍釐柒毫』戶項",
+    "docs": [
+     "pitt:31735066237623 p1（民9，黃同華）",
+     "pitt:31735066237581 p13、p15（民11、12，第一部分讀作黃同義）",
+     "pitt:31735066266747（民15，黃同華）"
+    ],
+    "basis": "金額完全相同；戶名在中間兩年不同",
+    "same_parcel_confidence": "中",
+    "note": "見『無法確定的問題』第3條"
+   },
+   {
+    "parcel_id": "A_p2_T5",
+    "description": "黃同華『壹分捌釐捌毫』戶項",
+    "docs": [
+     "pitt:31735066237581 p5（民12，第一部分）",
+     "pitt:31735066237623 p2（民13）"
+    ],
+    "basis": "同戶名、同金額",
+    "same_parcel_confidence": "高"
+   },
+   {
+    "parcel_id": "A_p2_T6",
+    "description": "黃同華『叁分陸釐〇毫』戶項",
+    "docs": [
+     "pitt:31735066237581 p9（民12，第一部分）",
+     "pitt:31735066237623 p3（民15）"
+    ],
+    "basis": "同戶名、同金額",
+    "same_parcel_confidence": "高"
+   },
+   {
+    "parcel_id": "A_p2_T7",
+    "description": "黃同華『叁錢正』戶項",
+    "docs": [
+     "pitt:31735066237581 p8（民12，第一部分）",
+     "pitt:31735066237623 p4（民15）"
+    ],
+    "basis": "同戶名、同金額",
+    "same_parcel_confidence": "高"
+   },
+   {
+    "parcel_id": "A_p2_T8",
+    "description": "黃同華『壹[?]錢正』",
+    "docs": [
+     "pitt:31735066237623 p5（民15）"
+    ],
+    "basis": "第一部分同華另有『弍錢正』（民11、12）；本頁數字被朱印壓住，是壹是弍未定",
+    "same_parcel_confidence": "未定"
+   },
+   {
+    "parcel_id": "A_p2_T9",
+    "description": "黃同德『伍錢正』戶項",
+    "docs": [
+     "pitt:31735066237664 p1（民13）",
+     "pitt:31735066237664 p2（民15）"
+    ],
+    "basis": "同戶名、同金額；與第一部分民11年的『弍錢正』不同",
+    "same_parcel_confidence": "高（民13–15之間）"
+   },
+   {
+    "parcel_id": "A_p2_T10",
+    "description": "黃國興『肆錢（正）』戶項",
+    "docs": [
+     "pitt:31735066237581 p16、p18（民11、12，綠色版，第一部分）",
+     "pitt:31735066237607 p1（民15）"
+    ],
+    "basis": "同戶名、同金額",
+    "same_parcel_confidence": "高"
+   },
+   {
+    "parcel_id": "A_p2_T11",
+    "description": "黃國興兩筆『壹錢正』",
+    "docs": [
+     "pitt:31735066237581 p10、p20（民12、11，號202、203）",
+     "pitt:31735066237607 p5、p6（民15，號二百の五、二百の六）"
+    ],
+    "basis": "同戶名、同金額，兩次都是兩張連號",
+    "same_parcel_confidence": "中"
+   },
+   {
+    "parcel_id": "A_p2_T12",
+    "description": "黃國興『玖分伍釐〇毫』戶項",
+    "docs": [
+     "pitt:31735066237581 p11、p21（民12、11，第一部分）",
+     "pitt:31735066237607 p3（民15）"
+    ],
+    "basis": "同戶名、同金額",
+    "same_parcel_confidence": "高"
+   },
+   {
+    "parcel_id": "A_p2_T13",
+    "description": "黃國興『捌分?釐捌毫』戶項",
+    "docs": [
+     "pitt:31735066237581 p17、p19（第一部分讀『捌分壹釐捌毫』）",
+     "pitt:31735066237607 p4（本部分讀『捌分陸[?]釐捌毫』）"
+    ],
+    "basis": "首尾數字相同，中間一字兩邊讀法不同",
+    "same_parcel_confidence": "中"
+   },
+   {
+    "parcel_id": "A_p2_T14",
+    "description": "黃國興『叁分叁[?]釐〇毫』",
+    "docs": [
+     "pitt:31735066237607 p2（民15）"
+    ],
+    "basis": "只此一張",
+    "same_parcel_confidence": null
+   },
+   {
+    "parcel_id": "A_p2_T15",
+    "description": "黃乞容『貳錢正』戶項",
+    "docs": [
+     "pitt:31735066237599 p7、p5、p3、p1（民17–20）"
+    ],
+    "basis": "同戶名、同金額，四年連續",
+    "same_parcel_confidence": "高"
+   },
+   {
+    "parcel_id": "A_p2_T16",
+    "description": "黃乞容『弍分捌釐〇毫』戶項",
+    "docs": [
+     "pitt:31735066237599 p8（民12）",
+     "pitt:31735066266713（民16）",
+     "pitt:31735066266721（民17）",
+     "pitt:31735066237599 p6、p4、p2（民18–20）"
+    ],
+    "basis": "同戶名、同金額，民12、16–20六個年度",
+    "same_parcel_confidence": "高"
+   }
+  ],
+  "parcels_note": "所有執照都沒有土名、面積、四至或地號，以上『地塊』其實是戶名下的錢糧戶項（以完納銀數識別）。一個銀數大體對應一宗或一組田產，但無法落到具體地塊。",
+  "timeline": [
+   {
+    "date": "1920年7月（民國9年）",
+    "event": "黃同華完民9年地丁銀伍分伍釐柒毫",
+    "from": null,
+    "to": "黃同華",
+    "parcel": "A_p2_T4",
+    "mode": "納稅",
+    "price": null,
+    "relation": null,
+    "pid": "pitt:31735066237623 p1"
+   },
+   {
+    "date": "1920年12月",
+    "event": "黃雲邨完民9年肆錢正、弍[?]分陸[?]釐壹[?]毫；黃汝勷完捌分壹釐〇毫（3528、3529號相連）",
+    "from": null,
+    "to": "黃雲邨、黃汝勷",
+    "parcel": "A_p2_T1/T2/T3",
+    "mode": "納稅（同次完納）",
+    "price": null,
+    "relation": null,
+    "pid": "pitt:31735066237631 p5–7"
+   },
+   {
+    "date": "1922年11月[?]",
+    "event": "黃汝勷完民11年捌分壹釐〇毫",
+    "from": null,
+    "to": "黃汝勷",
+    "parcel": "A_p2_T3",
+    "mode": "納稅",
+    "price": null,
+    "relation": null,
+    "pid": "pitt:31735066237680"
+   },
+   {
+    "date": "1924年12月（民國13年）",
+    "event": "黃乞容補完民12年弍[?]分捌釐〇毫（第八百の二號），與第一部分83869黃遠容、同華、同德、同義、國興的849–860號同一批",
+    "from": null,
+    "to": "黃乞容",
+    "parcel": "A_p2_T16",
+    "mode": "補繳欠糧（統一完納）",
+    "price": null,
+    "relation": null,
+    "pid": "pitt:31735066237599 p8"
+   },
+   {
+    "date": "1926年（民國15年，月份草書似五/七/九）",
+    "event": "補完民13年：同華壹分捌釐捌毫、同德伍錢正；補完民14年：雲邨肆錢正及弍[?]分陸[?]釐壹[?]毫、汝勷捌分壹釐〇毫；完民15年：同華叁分陸釐〇毫、伍分伍釐柒毫，國興叁分叁[?]釐、玖分伍釐、捌分陸[?]釐捌毫",
+    "from": null,
+    "to": "雲邨、汝勷、同華、同德、國興",
+    "parcel": "T1–T6、T9、T12–T14",
+    "mode": "納稅/補繳",
+    "price": null,
+    "relation": null,
+    "pid": "83874 p1–3；83873 p2–3；83878 p1；83955；83871 p2–4"
+   },
+   {
+    "date": "1927年（民國16年）",
+    "event": "完民15年主項：同華叁錢正、壹[?]錢正；同德伍錢正；國興肆錢正、壹錢正×2（荒字號）",
+    "from": null,
+    "to": "同華、同德、國興",
+    "parcel": "T7、T8、T9、T10、T11",
+    "mode": "納稅",
+    "price": null,
+    "relation": null,
+    "pid": "83873 p4–5；83878 p2；83871 p1、p5、p6"
+   },
+   {
+    "date": "1928年（民國17年）",
+    "event": "黃乞容完民16年弍分捌釐〇毫（知事黃某）",
+    "from": null,
+    "to": "黃乞容",
+    "parcel": "A_p2_T16",
+    "mode": "納稅",
+    "price": null,
+    "relation": null,
+    "pid": "pitt:31735066266713"
+   },
+   {
+    "date": "1931年（民國20年）",
+    "event": "黃乞容一次領到民17–20四年『糧戶執照』8張（每年貳錢正＋弍分捌釐〇毫）",
+    "from": null,
+    "to": "黃乞容",
+    "parcel": "A_p2_T15、T16",
+    "mode": "補繳欠糧＋當年完納",
+    "price": "『共結收大洋』未填",
+    "relation": null,
+    "pid": "83870 p1–7；83952"
+   }
+  ],
+  "timeline_note": "整組沒有任何一次產權變動的記錄（沒有買賣、典當、分家、推收、過戶字樣）。上表只是納稅事件。",
+  "generational_transfer_conclusion": [
+   "本部分文書不能直接證明代際轉移：只有戶名和銀數，沒有親屬稱謂，也沒有推收、過戶、分戶字樣。",
+   "可以看到的是『一戶多項』：黃國興名下民15年有6筆，黃同華至少5筆，黃乞容2筆，黃雲邨2筆。這通常意味著一個納戶名下掛了多宗田產（或承接了多個舊戶頭）。",
+   "大多數戶項跨年穩定（如黃汝勷捌分壹釐〇毫在民9、11、14三年不變；黃同華叁分陸釐、壹分捌釐捌毫、叁錢正從民12到民15不變；黃國興玖分伍釐、肆錢、兩筆壹錢從民11到民15不變），說明在1920–1931年間這些戶頭沒有分割或轉出。",
+   "可能的變動信號只有三處，都不確定：(1)『伍分伍釐柒毫』一項民9、民15在黃同華名下，第一部分讀民11–12在『黃同義』名下；(2)黃同德民11年是『弍錢正』（第一部分83869 p6），民13、15是『伍錢正』；(3)黃國興『捌分?釐捌毫』兩邊讀法不同。",
+   "多個戶名總是同批完納（1920年3528/3529連號，1924年12月842–860一批，1926年作字廿一至廿九、能字十六至十七，1927年荒字十六至十九），說明這些戶的錢糧由同一人或同一家統一辦理，支持他們同屬一個家族共同體；但誰是父輩、誰是子輩，文書沒有依據。",
+   "時間分布有一個推測性的現象：黃雲邨、黃汝勷只見於1920–1926年；黃同華、同德、國興見於1920–1927年；黃乞容延續到1931年且最後一批只有他一人。可能是後期只有乞容一戶的執照被保存下來，也可能是戶頭歸併到乞容名下，目前沒有證據區分。"
+  ],
+  "uncertainties": [
+   "1. 1926年黑色版的月份字（草書似乙/五/七/九）讀不定；同一批『作』字號廿一、廿二、廿三連號，但月份字讀出來卻不同，說明這一欄的讀法或號數的性質（是收據流水號還是戶冊號）還有問題。",
+   "2. 草書數字『の』：在83874『十の年』中只能讀四（民14，與館方1925相合），但『二百の五』『二百の六』『八百の二』『乙百の九』中，『の』也可能是〇。",
+   "3. 『伍分伍釐柒毫』戶項：本部分兩張都清楚寫『黃同華』（83873 p1、83955）；第一部分在83869讀同額兩張為『黃同義』。若第一部分讀法無誤，就是同一戶項在民11–12年用了另一個『同』字輩的名字，屬於戶名變動；若『義』是『華』的誤讀，則無變動。需要兩邊原圖並排核對。",
+   "4. 83871 p2中間字（叁/陸）、p4中間字（陸/壹）、83874 p2/p6首字（弍?）、83873 p5首字（壹/弍）都是草書或被朱印壓住。",
+   "5. 83874 p4紙條『而[?]容　共卅[?]千[?]』意思不明，首字不像『遠』也不像『乞』。",
+   "6. 知事姓氏（金、鍾、賈）只是根據右欄末字的推測。",
+   "7. 1931年糧戶執照的中段附加費印字、83951的朱印附加捐告示都只能辨認片段，具體稅率讀不出。",
+   "8. 本次只用本地2500px掃描圖，凡標[?]處需原圖核對。"
+  ],
+  "metadata_issues": [
+   "83874：館方『黃雲村?』原件作『黃雲邨』；館方1920/1925是納稅年度，p1–3實際發照於民國15年（1926）。",
+   "83873：p4、p5在民國16年（1927）發照，超出館方1920–1926。",
+   "83870：館方『黃乞容等』，八張其實只有黃乞容一人；館方1923–1930應改為納稅年度1923、1928–1931，發照1924、1931。p8版式是『納戶執照』，p1–7才是『糧戶執照』。",
+   "83871：館方『黃國興等』，六張只有黃國興一人。",
+   "83878：館方1924、1926是納稅年度；發照分別是1926、1927。",
+   "83951：館方1928是發照年；納稅年度1927（民國16年）。",
+   "83952：館方1931是發照年；納稅年度1928（民國17年），與83870 p7是同一年度的一對。",
+   "全組：館方『Owner』實為『納戶/戶名』，這些文書不能證明所有權，只能證明以該戶名完糧。館方未區分『納戶執照』與『糧戶執照』兩種版式。"
+  ],
+  "cross_check_with_part1": {
+   "form": "對得上：本部分23張也是永泰縣知事發的單張『納戶執照』（地丁銀完納執照），只有1931年的8張版頭改為『糧戶執照』。",
+   "huming": "黃同華、黃同德、黃國興與第一部分完全一致。『伍分伍釐柒毫』一項第一部分作黃同義，本部分作黃同華（見uncertainties第3條）。『黃乞容』不同意改讀為『黃遠容』（見 huming_check_qirong_vs_yuanrong）。",
+   "batch_1924_12": "對得上：83870 p8（黃乞容，民12，民國13年12月發照，『賴』字號，第八百の二號）與第一部分849–860號為同一批補繳，說明連黃乞容在內至少六個戶名在1924年12月由同一人統一完納。",
+   "amount_continuity": "第一部分民11–12的多個金額在本部分民13–15重現（同華叁分陸釐、壹分捌釐捌毫、叁錢正；國興肆錢、玖分伍釐、壹錢×2），可以把兩部分的戶項串成1922–1927年的連續序列。"
+  }
+ }
+}

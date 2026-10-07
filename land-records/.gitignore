@@ -1,0 +1,13 @@
+# Images are not published (rights undetermined, >200MB)
+students_documents_export/
+data/images/
+data/samples/
+data/households/_crops/
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+__pycache__/
+*.pyc
