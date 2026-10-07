@@ -1,0 +1,329 @@
+{
+  "id": "31735068223373",
+  "image": "31735068223373_001.jpg",
+  "width": 2109,
+  "height": 2500,
+  "source_url": "https://digital.library.pitt.edu/islandora/object/pitt%3A31735068223373",
+  "title": {
+    "zh": "民國七年陳吳氏湊賣斷墻屋契",
+    "en": "Deed of supplementary-and-final sale (cou mai duan) of a walled house by Widow Chen née Wu, 1918"
+  },
+  "date": {
+    "original": "中華民國柒年玖月吉日",
+    "western": "1918",
+    "zh": "中华民国七年九月吉日",
+    "en": "An auspicious day of the 9th month, 7th year of the Republic of China (1918)"
+  },
+  "type": {
+    "zh": "湊賣斷契（白契；另附民國官版賣契紙一張）",
+    "en": "Deed of supplementary and final sale (private deed, accompanied by an official Republican deed form)"
+  },
+  "place": {
+    "zh": "閩邑（閩縣，今福州）橫街舖□津[?]境茶葉街",
+    "en": "Chaye (Tea-Leaf) Street, Hengjie[?] ward, Min County (Fuzhou)"
+  },
+  "summary": {
+    "zh": "寡妇陈吴氏说明：亡夫在清光绪十三、十四年间从陈必清手中先典后买得一座墙屋；民国六年她的次子灿祥等已把这座屋典给吴家。如今次子欠债被告到地方初级厅、被追债而远避他乡，她无法筹钱，只好把墙屋连同附屋、空地「湊賣斷」给吴右岩，再收大番银三百元，从此永远断卖、不得回赎或再找价。第二页是同一交易的民国官版「賣契」契纸（民国十二年一月八日由闽侯县填发），记录原典价已税七百元、湊断三百元，说明这张私契后来被拿去补办了纳税手续。",
+    "en": "The widow Chen née Wu explains that her late husband acquired a walled house from Chen Biqing by mortgage and then purchase in Guangxu 13–14 (1887–88). In 1917 her second son Canxiang had already pledged (dian) the house to the Wu family. Now that son is in debt, has been sued before the local court of first instance and has fled his creditors, so she makes a supplementary-and-final sale of the house (with an annex and two vacant plots) to Wu Youyan for 300 foreign silver dollars, waiving any right to redeem or demand more. Page 2 is the official printed sale-deed form for the same transaction (issued by Minhou County, dated Republic 12/1/8 = 1923), recording that the earlier dian price of 700 yuan was already taxed and the final top-up was 300 yuan — evidence that the private deed was later brought in for tax registration."
+  },
+  "flow": [
+    "draft",
+    "witness",
+    "payment",
+    "tax",
+    "verify",
+    "keep"
+  ],
+  "regions": [
+    {
+      "id": "r1",
+      "category": "seller",
+      "label": {
+        "zh": "契名、立契人与来历",
+        "en": "Deed title, seller, and how she came to own the house"
+      },
+      "bbox": [
+        0.88,
+        0.15,
+        0.042,
+        0.82
+      ],
+      "original": "立湊賣斷契陳吳氏原承故夫石[?]□□盖[?]於清光緒十三、十四兩年間用價銀先後典斷得",
+      "modern_zh": "立这份「湊賣斷契」的人是陈吴氏。（这座房子）原是她亡夫在清光绪十三、十四年间（1887–1888）花银子先典后买、从卖主手里取得的。",
+      "english": "The person drawing up this deed of supplementary-and-final sale is Chen née Wu. [The property] was originally acquired by her late husband, who in Guangxu 13 and 14 (1887–88) paid silver first to take it on dian (conditional mortgage) and then to buy it outright.",
+      "confidence": "medium",
+      "note": "「陳吳氏」：夫姓陈、本姓吴的已婚/寡居妇女。「湊賣斷」（湊＝凑、找补）：通常指业主先已把产业典出或活卖，之后再向同一承主找补一笔价钱，把交易变成永久「断卖」；本契第3列也说明房子已先典与吴家。这一解释是对闽地契约惯例的一般理解，具体程序因地因时而异。待核：「故夫」后二三字（石□□盖？）被折痕和污渍遮挡，可能是亡夫名字或「在日」等字，不能确认。「十三」与「十四兩年」之间有折痕，读作「十三、十四兩年間」。"
+    },
+    {
+      "id": "r2",
+      "category": "property",
+      "label": {
+        "zh": "标的与坐落",
+        "en": "The property and its location"
+      },
+      "bbox": [
+        0.832,
+        0.15,
+        0.05,
+        0.82
+      ],
+      "original": "陳必清墻屋全座坐產閩邑橫街舖□[?]津[?]境茶葉街地方坐北朝南其墻屋內所有門窗戶槅（次列）屋式四[?]至丈數俱載在原典契內明白",
+      "modern_zh": "（从）陈必清（手中得来的）墙屋整座，坐落在闽县横街铺□津境茶叶街一带，坐北朝南；屋内所有门窗隔扇，以及房屋的样式、四至、丈量尺寸，都已在原来的典契里写清楚了。",
+      "english": "…the entire walled house of Chen Biqing, located at Chaye (Tea-Leaf) Street in the □jin precinct of Hengjie[?] ward, Min County, facing south with its back to the north. All doors, windows and partitions in the house, and the house's layout, boundaries and measurements, are clearly recorded in the original dian deed.",
+      "confidence": "medium",
+      "note": "「墻屋」：福州一带常见的带封火墙的木构房屋。「閩邑」即閩縣（1913年与侯官合并为閩侯縣）。已校对：地名为「橫街舖」（第2页官契纸「坐落」栏的字形应同读为橫街舖）。待核：(1)「□津境」第一字为小字，未能辨认；(2)「屋式四至」的「四」形似「六」，按文义读作「四至」。本框仅覆盖第2列，「屋式…明白」在第3列上半。"
+    },
+    {
+      "id": "r3",
+      "category": "reason",
+      "label": {
+        "zh": "先典与吴家及立契缘由（负债）",
+        "en": "Earlier pledge to the Wu family, and the reason for selling (debts)"
+      },
+      "bbox": [
+        0.73,
+        0.155,
+        0.103,
+        0.815
+      ],
+      "original": "經民國陸年十二月間經次男燦祥等手典與吳家為／業現居[?]年限未滿今因負債甚急被債權者控地方初級廳判決剋[?]日累保追呼次男燦祥遠／避無處措挪情迫無奈復[?]託[?]原中友□將此墻屋全座並[?]高[?]墻外附[?]房又兩空地一併繞[?]",
+      "modern_zh": "民国六年十二月间，已经由次子灿祥等人经手把房子典给吴家管业，现在典期还没满。如今因为欠债十分紧急，被债主告到地方初级厅，判决限期偿还、连累保人，追讨不止，次子灿祥只得远走躲避。（我）无处筹措，情势所迫，只好再托原来的中人，把这座墙屋整座连同墙外附屋、两块空地一并……",
+      "english": "In the 12th month of Republic year 6 (early 1918), the house had already been pledged (dian) to the Wu family through my second son Canxiang and others, and the dian term has not yet expired. Now, the debts being extremely pressing, the creditors have sued before the local court of first instance, which gave judgment with a fixed deadline, involving the guarantors and pressing for payment; my second son Canxiang has fled far away. With no way to raise money and driven by necessity, I again asked the original middleman to take this whole walled house, together with the annex outside the wall and two vacant plots, and…",
+      "confidence": "medium",
+      "note": "「地方初級廳」：民国初年的初级审判厅（基层法院），说明这笔债务已进入司法程序。这一列是全契最能说明「为什么」的地方：先典后断，是急需现金时把典权彻底变成卖断的常见路径。待核：「現居年限」或为「現屆年限」；「剋日」读法不确定；「復託原中友」后一小字不清；「並高墻外附房」一句的「並」「高」「附」均不确定；列末一字形似「繞」，可能是「湊」或「盡」的草写，与下一列「次賣斷與」连读，读法存疑。"
+    },
+    {
+      "id": "r4",
+      "category": "buyer",
+      "label": {
+        "zh": "买主",
+        "en": "Buyer"
+      },
+      "bbox": [
+        0.685,
+        0.128,
+        0.064,
+        0.272
+      ],
+      "original": "次[?]賣斷與／吳右巖處永遠為業",
+      "modern_zh": "……卖断给吴右岩，永远作为他的产业。",
+      "english": "…sold outright to Wu Youyan, to be his property forever.",
+      "confidence": "medium",
+      "note": "「吳右巖」所在一列抬高书写（抬头），以示对买主的尊重。买主即先前的承典人吴家。此人名在本馆藏其他契中也写作「吳右岩」；第2页官契纸的「買主姓名」栏也写「吳右巖」。待核：「次賣斷與」首字读法不确定；「為業」之后右侧有两三个小字（似「十一□」），未能辨认，可能是后加的记号。"
+    },
+    {
+      "id": "r5",
+      "category": "price",
+      "label": {
+        "zh": "湊断价银",
+        "en": "Price of the final top-up"
+      },
+      "bbox": [
+        0.677,
+        0.4,
+        0.043,
+        0.57
+      ],
+      "original": "本日湊賣出墻屋價大番銀叁百員正其銀即日親手仝男孫",
+      "modern_zh": "今天凑卖出墙屋，价钱是大番银三百元整。这笔钱当天由我亲手，同儿子、孙子一起（收下）……",
+      "english": "Today the walled house is sold (as a top-up sale) for exactly 300 large foreign silver dollars; the money was on that same day received in person by me together with my sons and grandsons…",
+      "confidence": "high",
+      "note": "「大番銀」：外国银元（如墨西哥鹰洋），清末民初福州契约常用的计价货币。三百元只是「湊」的找补价，不是房子的全价；第2页官契纸「賣價」栏写「原典已稅柒百元，湊斷叁百元」，可见原典价七百元，合计一千元。价银处盖有大方红印（见 r12）。"
+    },
+    {
+      "id": "r6",
+      "category": "clause",
+      "label": {
+        "zh": "收银与交业",
+        "en": "Receipt of payment and handover"
+      },
+      "bbox": [
+        0.633,
+        0.155,
+        0.045,
+        0.815
+      ],
+      "original": "公親在見中隨契收足其墻屋全座即聽吳家永遠管業收租自湊賣斷之後一筆千秋價足[?]",
+      "modern_zh": "……在公亲见证、中人在场的情况下，随契收足。这座墙屋整座即任凭吴家永远管业、收租。自湊卖断之后，一笔价钱千秋了结，价已收足……",
+      "english": "…with the lineage mediators present and the middleman in attendance, received in full upon signing. The whole house is henceforth left to the Wu family to manage and collect rent forever. After this final sale, one payment settles it for a thousand autumns; the price is fully paid…",
+      "confidence": "medium",
+      "note": "「公親」：宗族或乡里中出面调处、作证的亲族长辈。「一筆千秋」是福州断卖契的套语，意为一次付清、永久了结。待核：列末「價足」二字被遮挡，读法不确定。"
+    },
+    {
+      "id": "r7",
+      "category": "clause",
+      "label": {
+        "zh": "担保条款",
+        "en": "Guarantee clauses"
+      },
+      "bbox": [
+        0.502,
+        0.152,
+        0.132,
+        0.818
+      ],
+      "original": "心愿永斷葛藤向後不得言贖言湊□□以及別生枝節索取花紅之理但此墻屋全座係氏故[?]／夫在日手置物業與親疎別房份伯叔兄弟姪等無干亦未曾重張典當他人財物以及來歷不[?]／明各等情如有此情係氏仝男孫公親在中出頭承當不涉吳家之事兩相允愿各無翻悔今／欲有憑立湊賣斷契壹紙付執永遠為[?]□",
+      "modern_zh": "心甘情愿永远断绝纠葛，以后不得说要回赎、要再找价，也不得另生事端、索取「花红」（额外酬金）。这座墙屋是我亡夫在世时亲手置办的产业，与亲疏各房的伯叔兄弟侄子等人无关，也没有重复典当给他人或抵欠他人财物，来历清楚。如果有这些情况，由我和儿孙、公亲、中人出面承担，不关吴家的事。双方情愿，各不反悔。现在为了有凭据，立湊卖断契一张交给买主收执，永远为证。",
+      "english": "Of my own free will I sever all entanglements forever: hereafter no one may speak of redeeming it or of demanding a further top-up, nor raise other complications to demand 'red-silk' gratuities. This house was acquired by my late husband in his lifetime; it has nothing to do with relatives near or distant, other branches, uncles, brothers or nephews, has not been pledged twice or used as security for anyone's goods, and its provenance is clear. Should any such problem arise, I, my sons and grandsons, the lineage mediators and the middleman will come forward and bear it, with no involvement of the Wu family. Both parties consent and neither will go back on it. Lest there be no proof, this deed of supplementary-and-final sale is drawn up in one copy and handed over to be kept forever as evidence.",
+      "confidence": "medium",
+      "note": "「不得言贖言湊」是断卖契的核心：卖断之后不能回赎，也不能再「找」钱——这正是「湊賣斷」要了结的问题。强调产业为「故夫在日手置」并与「別房」「伯叔兄弟姪」无干，是为了排除夫家族人的优先购买或分产主张。寡妇以「氏」自称立契，并由儿孙、夫家侄子作见证，可能是因为夫亡后寡妇作为家长可代表家产出卖，但通常需要儿子和夫家亲属到场认可；这是一般性推测，具体法律依据需进一步查证。待核：「言湊」后两字不清；第12列「為」以下有一行小字批注（约「……載在原典契內毋庸再叙標照」），大部分模糊，未转录完整。"
+    },
+    {
+      "id": "r8",
+      "category": "other",
+      "label": {
+        "zh": "后加批注（房屋尺寸与转卖林家？）",
+        "en": "Later annotation (dimensions; later resale to the Lin family?)"
+      },
+      "bbox": [
+        0.396,
+        0.128,
+        0.106,
+        0.448
+      ],
+      "original": "本屋由民國□[?]年[?]（旁小字：拾[?]弍[?]門樓□□□□□□□□□也□□）／弍丈四尺零橫闊四丈柒尺零湊接連前進向東墻壹[?]盡[?]後墻後／倒朝三櫚[?]排全樓前進該屋由民國拾弍年□[?]□[?]拾□閱[?]賣斷／與林處為業特此標照",
+      "modern_zh": "（批注大意，读法很不确定）这座房屋……深二丈四尺多，横宽四丈七尺多，与前进相连，向东墙……后墙后面倒朝三间排列，全楼前进。该屋于民国十二年……卖断给林家为业，特此注明。",
+      "english": "(Gist only; reading very uncertain) This house … depth 2 zhang 4 chi odd, width 4 zhang 7 chi odd, joined to the front section, towards the east wall … behind the rear wall, three bays facing backwards, the whole building's front section. This house was, in Republic year 12 [1923] …, sold outright to the Lin family as their property; noted here for the record.",
+      "confidence": "low",
+      "note": "笔迹、行款与正文不同，是后来添写的批注。待核：如果「賣斷與林處為業」读法正确，说明吴家后来（民国十二年前后？）又把房子卖给林家，这张契随之作为「上手契」转交新业主——这与上方红色长方印似有「上手契」字样相合，但两者都未能确认。另，第2页官契纸正是民国十二年一月八日填发，二者关系待查。"
+    },
+    {
+      "id": "r9",
+      "category": "date",
+      "label": {
+        "zh": "立契日期与立契人落款",
+        "en": "Date and seller's signature"
+      },
+      "bbox": [
+        0.263,
+        0.136,
+        0.035,
+        0.616
+      ],
+      "original": "中華民國柒年玖月吉日立湊賣斷契陳吳氏（押）",
+      "modern_zh": "中华民国七年九月吉日，立湊卖断契人陈吴氏（画押）。",
+      "english": "On an auspicious day of the 9th month, 7th year of the Republic of China (1918), the maker of this deed of supplementary-and-final sale, Chen née Wu (her mark).",
+      "confidence": "high",
+      "note": "「吉日」是契约常用的不写具体日子的写法。「月」与「吉」之间有较大空白，再接「日立湊賣斷契陳吳氏」。陈吴氏名下的墨押（花押符号）在本列下端。"
+    },
+    {
+      "id": "r10",
+      "category": "middleman",
+      "label": {
+        "zh": "家属见证（在見、命見）",
+        "en": "Family witnesses"
+      },
+      "bbox": [
+        0.298,
+        0.592,
+        0.178,
+        0.194
+      ],
+      "original": "在見夫胞姪 兆祥（押） 友祥（押）／孫男 大焜（押）／命見男 賡祥（押）／男 燦祥（係遠避母代押）",
+      "modern_zh": "在场见证：丈夫的亲侄兆祥、友祥（画押）；孙子大焜（画押）；奉命见证：儿子赓祥（画押）；儿子灿祥（因远走躲避，由母亲代为画押）。",
+      "english": "Witnesses present: the late husband's nephews Zhaoxiang and Youxiang (marks); grandson Dakun (mark). Witnessing by instruction: son Gengxiang (mark); son Canxiang (as he has fled far away, his mother signed for him).",
+      "confidence": "medium",
+      "note": "「命見」：受（母）命作见证。灿祥名旁小字「係遠避母代押」与正文「次男燦祥遠避」相呼应，显示负债的次子不在场，由母亲替他画押——这也解释了为何由寡母出面立契。夫家侄子到场，可视为夫家族人对出卖的认可（推测）。待核：「大焜」「賡祥」二名的字形请复核。"
+    },
+    {
+      "id": "r11",
+      "category": "middleman",
+      "label": {
+        "zh": "公亲与中友",
+        "en": "Lineage mediators and middleman"
+      },
+      "bbox": [
+        0.142,
+        0.6,
+        0.124,
+        0.192
+      ],
+      "original": "公親 顏德和（押） 陳細弟（押）／中友 吳維清（押）",
+      "modern_zh": "公亲：颜德和、陈细弟（画押）；中人（中友）：吴维清（画押）。",
+      "english": "Lineage/community mediators: Yan Dehe and Chen Xidi (marks). Middleman (friend acting as go-between): Wu Weiqing (mark).",
+      "confidence": "medium",
+      "note": "「中友」即中人，撮合并担保交易；第2页官契纸「中人」栏也写「吳維清」，可互证。中人与买主同姓吴，是否同族不详。吴维清名下一字形似「青」，可能是花押。待核：「陳細弟」读法。"
+    },
+    {
+      "id": "r12",
+      "category": "scribe",
+      "label": {
+        "zh": "代笔",
+        "en": "Scribe"
+      },
+      "bbox": [
+        0.097,
+        0.604,
+        0.046,
+        0.148
+      ],
+      "original": "代筆 陳九齡",
+      "modern_zh": "代笔人：陈九龄。",
+      "english": "Written on her behalf by Chen Jiuling.",
+      "confidence": "high",
+      "note": "寡妇未必识字，契文由代笔人书写，她只画押。代笔与卖主夫家同姓陈，是否族人不详。代笔左侧压有一方斜盖的大红印。"
+    },
+    {
+      "id": "r13",
+      "category": "seal",
+      "label": {
+        "zh": "官印（红色大方印）",
+        "en": "Official red seals"
+      },
+      "bbox": [
+        0.583,
+        0.604,
+        0.195,
+        0.176
+      ],
+      "original": "（篆文印，疑含「閩侯縣」等字[?]，其余未能识读）",
+      "modern_zh": "价银处斜盖一方大红篆文方印，正文上还有好几方同类红印（右下角、正文上部「吳右巖」一带、左下代笔处等），以及第3列「屋式」旁一方小方印。印文是篆书，未能完整识读，推测是闽侯县税契机关在纳税时加盖的官印。",
+      "english": "A large square red seal in seal script is stamped diagonally over the price; similar seals appear elsewhere (lower right, over the buyer's name at top centre, over the scribe at lower left), plus a small square seal beside column 3. The legend is not fully legible; it is probably the seal of the Minhou County deed-tax office, applied when the deed was taxed.",
+      "confidence": "low",
+      "note": "待核：印文只隐约看到类似「閩侯縣」的笔画，请对照第2页契纸上较清楚的「閩侯縣稅契…」印。官印压在价银和骑缝处，是为了防止事后改价、拼接。左上「長發其祥」旁和最左边还有两方较淡的红印，未识读。"
+    },
+    {
+      "id": "r14",
+      "category": "other",
+      "label": {
+        "zh": "吉语「長發其祥」",
+        "en": "Auspicious phrase"
+      },
+      "bbox": [
+        0.081,
+        0.068,
+        0.185,
+        0.28
+      ],
+      "original": "長發其祥",
+      "modern_zh": "「长发其祥」：愿（这份产业给买主）长久带来吉祥。",
+      "english": "'May its good fortune long flourish' — an auspicious blessing for the buyer's new property.",
+      "confidence": "high",
+      "note": "语出《诗经·商颂·长发》「濬哲維商，長發其祥」。大字吉语写在契末空白处，是福州一带契纸的常见做法，也有防止在空白处添字的作用（推测）。"
+    },
+    {
+      "id": "r15",
+      "category": "tax",
+      "label": {
+        "zh": "登记印与编号（后加）",
+        "en": "Registration stamp and numbers (later addition)"
+      },
+      "bbox": [
+        0.307,
+        0.092,
+        0.085,
+        0.368
+      ],
+      "original": "（上方淡红长方印）□□□□…□[?]上手契[?]　（墨书）□[?]弄 柚[?]□軒[?]／（下方红长方印）閩侯地方法院不動產登記處　登記第□冊第□頁第□號　中華民國□年□月□日收件第□號　（墨书数字）21 12 9　49 79　2545[?]1465[?]元[?]",
+      "modern_zh": "下方是「闽侯地方法院不动产登记处」的红色登记戳，戳中空格用阿拉伯数字填写：21、12、9 可能是收件日期（民国二十一年十二月九日？），49、79 可能是登记册号和页号，下面一串数字带「元」字，或是登记价额。上方另有一方淡红长方印，末字似「上手契」，旁有墨书「□弄 柚□轩」，或为后来的门牌、地址记号。",
+      "english": "The lower stamp is that of the Real-Estate Registration Office of the Minhou District Court, with blanks filled in Arabic numerals: 21 / 12 / 9 perhaps the date received (Republic 21.12.9 = Dec 1932?), 49 and 79 perhaps register volume and page, and a long figure ending in 'yuan', perhaps a registered value. Above it is a faint red rectangular stamp whose last characters may read 'previous-owner deed' (shangshou qi), with an ink note '□ Lane, You[?]… Pavilion', perhaps a later address mark.",
+      "confidence": "low",
+      "note": "这说明此契在民国时期又被拿到法院登记处办理不动产登记（因此 flow 中标了 verify）。待核：数字对应哪个空格、21/12/9 是否为日期、长串数字（可能是 2545 与 1465 两组，或是收件号）均不确定；上方印文和墨书「□弄 柚□軒」基本读不出。"
+    }
+  ],
+  "full_text": "立湊賣斷契陳吳氏原承故夫石[?]□□盖[?]於清光緒十三、十四兩年間用價銀先後典斷得 / 陳必清墻屋全座坐產閩邑橫街舖□[?]津[?]境茶葉街地方坐北朝南其墻屋內所有門窗戶槅 / 屋式四[?]至丈數俱載在原典契內明白經民國陸年十二月間經次男燦祥等手典與吳家為 / 業現居[?]年限未滿今因負債甚急被債權者控地方初級廳判決剋[?]日累保追呼次男燦祥遠 / 避無處措挪情迫無奈復[?]託[?]原中友□將此墻屋全座並[?]高[?]墻外附[?]房又兩空地一併繞[?] / 次[?]賣斷與 / 吳右巖處永遠為業（旁小字□□□）本日湊賣出墻屋價大番銀叁百員正其銀即日親手仝男孫 / 公親在見中隨契收足其墻屋全座即聽吳家永遠管業收租自湊賣斷之後一筆千秋價足[?] / 心愿永斷葛藤向後不得言贖言湊□□以及別生枝節索取花紅之理但此墻屋全座係氏故[?] / 夫在日手置物業與親疎別房份伯叔兄弟姪等無干亦未曾重張典當他人財物以及來歷不[?] / 明各等情如有此情係氏仝男孫公親在中出頭承當不涉吳家之事兩相允愿各無翻悔今 / 欲有憑立湊賣斷契壹紙付執永遠為[?]□（下接小字批：□□□□□□□□□□載[?]在原典契內毋庸再叙標照） / （後批）本屋由民國□[?]年[?]（旁小字：拾[?]弍[?]門樓□□□□□□□□□也□□） / 弍丈四尺零橫闊四丈柒尺零湊接連前進向東墻壹[?]盡[?]後墻後 / 倒朝三櫚[?]排全樓前進該屋由民國拾弍年□[?]□[?]拾□閱[?]賣斷 / 與林處為業特此標照 / （印及墨書）□[?]上手契[?] □[?]弄 柚[?]□軒[?]　閩侯地方法院不動產登記處… 21 12 9 49 79 2545[?]1465[?]元[?] / 中華民國柒年玖月吉日立湊賣斷契陳吳氏（押） / 在見夫胞姪 兆祥（押） 友祥（押） / 孫男 大焜（押） / 命見男 賡祥（押） / 男 燦祥（係遠避母代押） / 公親 顏德和（押） 陳細弟（押） / 中友 吳維清（押） / 代筆 陳九齡 / 長發其祥",
+  "review": {
+    "status": "ai-draft",
+    "notes": "AI 初稿，待人工校对。第2页（31735068223373_002.jpg）为民国官版印刷「賣契」契纸，附「例則摘要」（契税章程摘要），由閩侯縣填发，日期「中華民國十二年一月八日」；填写栏：買主姓名 吳右巖；不動產種類 墻屋；坐落 橫街舖茶葉街；面積 壹座；賣價「原典已稅柒百元，湊斷叁百元」；應納稅額 似「叁拾玖元」；立契年月日「民國七年九月」；賣主 陳吳氏；中人 吳維清；盖有「新領契紙」及閩侯縣稅契红印。第2页未标注区域。最没把握处：第1列「故夫」后数字；第5–6列「並高墻外附房…一併繞／次賣斷與」；第12列下小字批；左侧后加批注（是否转卖林家）；登记印上的数字含义；各官印印文。"
+  }
+}

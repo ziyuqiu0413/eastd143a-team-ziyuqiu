@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>读契 · Reading Land Deeds</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="seal-mark" aria-hidden="true">契</span>
+      <div>
+        <h1><span data-zh>读契</span><span data-en>Reading the Deed</span></h1>
+        <p class="tagline">
+          <span data-zh>点开一张福建地契，看懂它的每一个部分</span>
+          <span data-en>Click through a Fujian land deed, part by part</span>
+        </p>
+      </div>
+    </div>
+    <div class="lang-switch" role="group" aria-label="Language">
+      <button data-lang="zh">中文</button>
+      <button data-lang="both">双语</button>
+      <button data-lang="en">EN</button>
+    </div>
+  </header>
+
+  <nav class="timeline" id="timeline" aria-label="Deeds"></nav>
+
+  <section class="story" id="story" hidden></section>
+
+  <main class="workspace">
+    <section class="viewer-wrap">
+      <div class="draft-banner" id="draft-banner">
+        <span data-zh>AI 初稿 · 待人工校对：转录和解释可能有误</span>
+        <span data-en>AI draft · awaiting human review: transcription and notes may contain errors</span>
+      </div>
+      <div id="viewer" class="viewer"></div>
+      <div class="viewer-tools">
+        <button id="btn-home" title="Reset view">⤢ <span data-zh>全图</span><span data-en>Fit</span></button>
+        <button id="btn-boxes" aria-pressed="true">▢ <span data-zh>显示标注</span><span data-en>Show boxes</span></button>
+        <button id="btn-prev" title="Previous region (←)">‹</button>
+        <button id="btn-next" title="Next region (→)">›</button>
+        <a id="src-link" target="_blank" rel="noopener"><span data-zh>图书馆原件</span><span data-en>Library record</span> ↗</a>
+      </div>
+      <div class="legend" id="legend"></div>
+    </section>
+
+    <aside class="panel">
+      <div class="deed-info" id="deed-info"></div>
+      <div class="region-card" id="region-card"></div>
+      <details class="regions-list">
+        <summary><span data-zh>全部标注区域</span><span data-en>All regions</span></summary>
+        <ol id="region-list"></ol>
+      </details>
+      <details class="full-text">
+        <summary><span data-zh>全文转录</span><span data-en>Full transcription</span></summary>
+        <p id="full-text"></p>
+      </details>
+    </aside>
+  </main>
+
+  <section class="flow" id="flow">
+    <div class="flow-head">
+      <h2><span data-zh>这张契纸是怎么流转的</span><span data-en>How a deed travels</span></h2>
+      <button id="btn-play">▶ <span data-zh>播放</span><span data-en>Play</span></button>
+    </div>
+    <div class="flow-track" id="flow-track">
+      <div class="flow-paper" id="flow-paper" aria-hidden="true"></div>
+    </div>
+    <p class="flow-caption" id="flow-caption"></p>
+  </section>
+
+  <footer class="site-footer">
+    <p>
+      <span data-zh>图片：University of Pittsburgh Library System, Chinese Land Records（版权状态：Copyright Undetermined）。标注与翻译为 AI 初稿，经人工校对后会标记为「已校对」。</span>
+      <span data-en>Images: University of Pittsburgh Library System, Chinese Land Records (rights: Copyright Undetermined). Annotations and translations are AI drafts until marked “reviewed”.</span>
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

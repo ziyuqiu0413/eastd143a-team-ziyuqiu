@@ -1,0 +1,327 @@
+{
+  "id": "31735064607470",
+  "image": "31735064607470_001.jpg",
+  "width": 2500,
+  "height": 1132,
+  "source_url": "https://digital.library.pitt.edu/islandora/object/pitt%3A31735064607470",
+  "title": {
+    "zh": "光緒十三年王錦發賣斷店屋契",
+    "en": "Deed of absolute sale of a shop-house by Wang Jinfa, 1887"
+  },
+  "date": {
+    "original": "光緒拾叁年叁月拾捌日",
+    "western": "1887",
+    "zh": "光绪十三年三月十八日",
+    "en": "18th day, 3rd month, 13th year of Guangxu (1887)"
+  },
+  "type": {
+    "zh": "賣斷契（白契）",
+    "en": "Deed of absolute sale (unstamped private deed)"
+  },
+  "place": {
+    "zh": "閩邑（閩縣）橫山鋪秋龍社",
+    "en": "Qiulong community, Hengshan ward, Min County (Fuzhou)"
+  },
+  "summary": {
+    "zh": "1887年，福州闽县的王锦发因需用钱，将分家所得的祖遗四柱店面右半爿，经中人林细弟，以锭银七十五两卖断给堂兄王锦枝（锦枝本已拥有左半爿）。契中写明四至、当日收清价银、永不赎回找价、产权清白等条款，并由母亲、兄弟画押，同时缴交以前的上手契。契纸无官印，是一张未经纳税的白契。",
+    "en": "In 1887 Wang Jinfa of Min County (Fuzhou), needing money, sold outright the right half of a four-pillar shop front he had inherited in a family division to his cousin Wang Jinzhi (who already held the left half) for 75 taels of silver, through the middleman Lin Xidi. The deed states the boundaries, full payment on the day, a ban on redemption or extra payments, and a clear-title guarantee; his mother and brothers signed, and earlier deeds were handed over. It bears no official seal: an untaxed 'white deed'."
+  },
+  "flow": [
+    "draft",
+    "witness",
+    "payment",
+    "keep"
+  ],
+  "regions": [
+    {
+      "id": "r1",
+      "category": "seller",
+      "label": {
+        "zh": "契名与立契人（卖主）",
+        "en": "Deed title & seller"
+      },
+      "bbox": [
+        0.95,
+        0.084,
+        0.03,
+        0.356
+      ],
+      "original": "立賣斷契王錦發",
+      "modern_zh": "立这份“卖断契”的人是王锦发。“卖断”指一次性永久卖绝，卖主以后不能再赎回，区别于可以回赎的“典”或“活卖”。",
+      "english": "Deed of absolute sale drawn up by Wang Jinfa. \"Absolute sale\" (maiduan) means the property is sold outright and permanently, with no right of redemption, unlike a conditional sale or pawn (dian).",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r2",
+      "category": "property",
+      "label": {
+        "zh": "标的：祖遗店屋及坐落",
+        "en": "Property: inherited shop-house and its location"
+      },
+      "bbox": [
+        0.903,
+        0.1,
+        0.051,
+        0.875
+      ],
+      "original": "原祖遺鬮分份下有肆柱店面右半爿內門窓[?]戶槅[?]前搨[?]板地棚一切俱全坐產閩邑橫山鋪秋龍社地方",
+      "modern_zh": "这处房产原是祖上留下、经兄弟“鬮分”（抓阄分家）分到王锦发名下的：一座四柱店面的右半边（“半爿”即半边），连同里面的门、窗户、隔扇、前面的板、地板棚架等一应俱全。坐落在闽县（福州）横山铺秋龙社一带。",
+      "english": "The property came to Wang Jinfa from his ancestors through jiufen (division of family property among brothers by drawing lots): the right half of a four-pillar shop front, complete with inner doors, windows and lattice panels, front boards, floor and loft. It is located in Qiulong community, Hengshan ward (pu), Min County (Fuzhou).",
+      "confidence": "medium",
+      "note": "此区域框住第2–3列；“原祖遺鬮分份下有肆柱店”一句起于第1列下半。待核：“窓戶槅前搨板”中“槅”“搨”二字字形不确定；“肆柱”指四根柱子的店面（四开间？）亦待核。"
+    },
+    {
+      "id": "r3",
+      "category": "boundary",
+      "label": {
+        "zh": "四至",
+        "en": "Boundaries"
+      },
+      "bbox": [
+        0.84,
+        0.11,
+        0.054,
+        0.87
+      ],
+      "original": "前至官街後王清官屋在左邊錦枝半爿店右至何家店上至椽桁磚瓦下至廊石磉石地基地陸[?]至俱載明白",
+      "modern_zh": "四至：前面到官街，后面到王清官家的房屋，左边是（买主）锦枝的那半边店，右边到何家的店；上面包括椽子、桁条、砖瓦，下面包括廊石、柱础石（磉石）和地基。四至都已写清楚。",
+      "english": "Boundaries: front to the public street, back to the house of Wang Qingguan, left adjoining Jinzhi's own half of the shop, right to the He family's shop. Upward it includes rafters, purlins, bricks and tiles; downward the corridor stones, column-base stones and foundation. All boundaries are clearly stated.",
+      "confidence": "medium",
+      "note": "“前至官街後王”在第3列下部，框主要覆盖第4–5列。待核：“地陸至”之“陸”字形近“陆/陸”，或为“四至”之异写，不确定。注意左邻正是买主锦枝的半爿店——买主是在买下同一店面的另一半。"
+    },
+    {
+      "id": "r4",
+      "category": "buyer",
+      "label": {
+        "zh": "立契缘由与买主",
+        "en": "Reason for sale & buyer"
+      },
+      "bbox": [
+        0.738,
+        0.08,
+        0.092,
+        0.88
+      ],
+      "original": "今因要用情願將此右邊店面半爿託中友賣斷與堂兄錦枝處永遠為業",
+      "modern_zh": "现在因为需要用钱，自愿把这右边半爿店面，托“中友”（中人，介绍并见证交易的人）卖断给堂兄王锦枝，永远作为他的产业。",
+      "english": "Now, because he needs money, he willingly entrusts a middleman to sell this right half of the shop front outright to his paternal cousin (tangxiong) Jinzhi, to be his property forever.",
+      "confidence": "high",
+      "note": "“錦枝”另起一列抬头书写，以示对买主的尊敬。“今因要用”是契约中常见的套话，未必反映真实原因。"
+    },
+    {
+      "id": "r5",
+      "category": "price",
+      "label": {
+        "zh": "价银",
+        "en": "Price"
+      },
+      "bbox": [
+        0.712,
+        0.12,
+        0.025,
+        0.86
+      ],
+      "original": "三面言議本日賣斷得店屋價錠銀柒拾伍兩正庫砝大錠白足色足兌其銀",
+      "modern_zh": "“三面言议”：买方、卖方、中人三方当面议定。当天卖断，得到店屋价款：锭银七十五两整，按“库砝”（官库的砝码标准）称量的大锭白银，成色十足、分量十足。",
+      "english": "Agreed face to face among the three parties (seller, buyer, middleman): on this day the shop-house is sold outright for 75 taels of silver ingots, large ingots weighed by the treasury standard (kufa), of full fineness and full weight.",
+      "confidence": "high",
+      "note": "“三面言議本日賣斷得店屋”位于第8列下部，框只覆盖第9列。“柒拾伍兩”（75两）字迹清晰。"
+    },
+    {
+      "id": "r6",
+      "category": "clause",
+      "label": {
+        "zh": "交银交业",
+        "en": "Payment & handover"
+      },
+      "bbox": [
+        0.618,
+        0.12,
+        0.095,
+        0.86
+      ],
+      "original": "即日隨契親手收足其右邊半爿店屋即听堂兄錦枝永遠管業千秋或自己居住或召租他人或折毀改式起蓋聽從其便",
+      "modern_zh": "银两在立契当天随契亲手收足。这右边半爿店屋即交由堂兄锦枝永远管业：他可以自己住、招租给别人，或者拆掉改建，都随他方便。",
+      "english": "The silver was received in full by hand on the same day the deed was made. The right half of the shop-house is handed over to cousin Jinzhi to manage as his property forever: he may live in it, rent it out, or tear it down and rebuild as he pleases.",
+      "confidence": "high",
+      "note": "“听”为“聽”的俗写，原文如此。"
+    },
+    {
+      "id": "r7",
+      "category": "clause",
+      "label": {
+        "zh": "担保条款：永不言赎、不得找价",
+        "en": "Guarantee: no redemption, no extra payment"
+      },
+      "bbox": [
+        0.556,
+        0.12,
+        0.054,
+        0.86
+      ],
+      "original": "係錦發自斷之後價足心願永斷葛藤向後永不敢言贖言湊言盡亦不敢別生枝節索取花紅之理",
+      "modern_zh": "这是锦发自己卖断的，价钱足够、心甘情愿，永远断绝纠葛。今后永远不敢提“赎”（赎回）、“凑”（要求补价）、“尽”（再要一笔“尽价”），也不敢另生枝节索要“花红”（额外的酬金、红包）。清代福建常见卖主事后反复“找价”，这一条就是为了杜绝这种情况。",
+      "english": "Jinfa sold it of his own accord; the price is sufficient and he is willing, so all entanglements are cut forever. Hereafter he will never dare to ask to redeem it (shu), to demand a top-up (cou) or a final supplement (jin), nor raise other complications to claim bonus money (huahong). This blocks the common Qing practice of sellers coming back for additional payments (zhaojia).",
+      "confidence": "high",
+      "note": "“係錦發自斷”在第12列下部，框主要覆盖第13–14列。"
+    },
+    {
+      "id": "r8",
+      "category": "clause",
+      "label": {
+        "zh": "担保条款：产权清白与立契为凭",
+        "en": "Guarantee: clear title & closing formula"
+      },
+      "bbox": [
+        0.374,
+        0.12,
+        0.18,
+        0.86
+      ],
+      "original": "但此店屋右爿[?]半爿係錦發祖遺鬮分份下物業與親疎房份伯叔兄弟侄等無干亦未曾重張典當他人財物以及來歷不明各等情如有此情係錦發出頭抵當不涉堂兄之事兩相允愿各無翻悔今欲有憑立賣斷契乙[?]紙付執永遠為照[?]",
+      "modern_zh": "此店屋右半爿确是锦发分家所得的祖产，与远近亲属、各房的伯叔兄弟侄子都无关；也没有重复典当给别人，没有来历不明等情况。如果出现这类问题，由锦发出面承担，与堂兄（买主）无关。双方都同意，各不反悔。为了有凭据，立这张卖断契交给买主收执，永远作为凭证。",
+      "english": "This right half of the shop-house is truly Jinfa's ancestral share from the family division; it has nothing to do with near or distant kin, uncles, brothers or nephews of any branch; it has not been pledged twice or mortgaged for others' money, and its origin is not unclear. Should any such problem arise, Jinfa will step forward to answer for it, and it will not concern his cousin. Both parties agree and neither will go back on it. To have proof, this deed of absolute sale is drawn up and given to the buyer to keep forever as evidence.",
+      "confidence": "high",
+      "note": "“不明不干”式条款（来历不明由卖主承担，不干买主之事）。待核：“乙紙”的“乙”字及末尾“為照”的“照”字为草写简笔，识读不完全确定；“右爿半爿”第一个“爿”字形可疑，或为“邊”的简写。"
+    },
+    {
+      "id": "r9",
+      "category": "other",
+      "label": {
+        "zh": "批注：缴付上手契",
+        "en": "Note: earlier deeds handed over"
+      },
+      "bbox": [
+        0.314,
+        0.17,
+        0.024,
+        0.72
+      ],
+      "original": "內併繳林春源典斷契司單下半[?]屯[?]相連標照[?]",
+      "modern_zh": "批注：契内一并缴交林春源的典断契、司单等（与本产业相连的旧契据），作为凭证。这类“上手契”是本产业以前转手时的旧契，卖出时交给新买主，用来证明产权来历清楚。“司单”可能是官府（或税务）发给的单据。说明这处店屋以前可能曾由林春源典、卖过。",
+      "english": "Note: also handed over with this deed are Lin Chunyuan's earlier dian/absolute-sale deed and the official slip (sidan), which are linked [to this property]. Such earlier deeds (shangshou qi, 'upper-hand deeds') record previous transfers and were passed to the new buyer as proof of a clean chain of title.",
+      "confidence": "low",
+      "note": "待核：“下半屯”三字（尤其“半”“屯”）字形难辨，含义不明，可能是“下手”或某种单据称谓；“司單”具体指何种官方单据待考。“標照”末字为草写简笔。"
+    },
+    {
+      "id": "r10",
+      "category": "date",
+      "label": {
+        "zh": "立契日期",
+        "en": "Date"
+      },
+      "bbox": [
+        0.23,
+        0.035,
+        0.026,
+        0.8
+      ],
+      "original": "光緒拾叁年叁月拾捌日立賣斷契王錦發",
+      "modern_zh": "光绪十三年三月十八日（农历），王锦发立此卖断契。光绪十三年即公元1887年。",
+      "english": "Made by Wang Jinfa on the 18th day of the 3rd month, 13th year of the Guangxu reign (1887).",
+      "confidence": "high",
+      "note": "“叁”写作近似“冬”的俗字。"
+    },
+    {
+      "id": "r11",
+      "category": "middleman",
+      "label": {
+        "zh": "知契：母亲林氏",
+        "en": "Consenting: mother, née Lin"
+      },
+      "bbox": [
+        0.254,
+        0.53,
+        0.026,
+        0.36
+      ],
+      "original": "知契母林氏",
+      "modern_zh": "“知契”：知情并同意这次买卖的人——卖主的母亲林氏。家产出卖须得尊长同意，母亲签押可防止日后家属以不知情为由反悔。下方有画押记号。",
+      "english": "Acknowledging the deed: the seller's mother, née Lin. Senior family members signed to show consent, so relatives could not later challenge the sale. Her mark appears below.",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r12",
+      "category": "middleman",
+      "label": {
+        "zh": "胞弟与在见人",
+        "en": "Brothers & witness"
+      },
+      "bbox": [
+        0.14,
+        0.46,
+        0.09,
+        0.43
+      ],
+      "original": "胞弟森發 / 俊發 / 在見堂兄 / 永發",
+      "modern_zh": "“胞弟”是同父母的弟弟：森发、俊发（可能还有永发）。“在见”指在场见证的人，这里写“在见堂兄”。兄弟们签押，表示这份分到的祖产出卖他们不会争执。下方一排“十”字形画押。",
+      "english": "Full younger brothers (paodi) Senfa and Junfa (and possibly Yongfa), and a witness present, described as a paternal cousin (zaijian tangxiong). The brothers' marks show they will not dispute the sale of this inherited share. A row of cross-shaped signature marks runs below.",
+      "confidence": "medium",
+      "note": "待核：“永發”写在“在見堂兄”之下，究竟是在见人（堂兄）的名字，还是第三位胞弟，版面不易判断；“俊發”亦可能属胞弟或另列。"
+    },
+    {
+      "id": "r13",
+      "category": "middleman",
+      "label": {
+        "zh": "中友（中人）",
+        "en": "Middleman"
+      },
+      "bbox": [
+        0.112,
+        0.555,
+        0.026,
+        0.34
+      ],
+      "original": "中友林細弟",
+      "modern_zh": "“中友”即中人：介绍买卖、议价并作证的人，日后发生纠纷也由他作证调解。此处中人为林细弟，名下有圆形画押。",
+      "english": "The middleman (zhongyou, 'go-between friend') was Lin Xidi, who brokered the deal, helped set the price and served as guarantor-witness if disputes arose. A circular signature mark is below his name.",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r14",
+      "category": "scribe",
+      "label": {
+        "zh": "代笔",
+        "en": "Scribe"
+      },
+      "bbox": [
+        0.08,
+        0.575,
+        0.03,
+        0.33
+      ],
+      "original": "代筆李逢銓□",
+      "modern_zh": "“代笔”：替卖主书写契约的人——李逢铨。许多卖主不识字或依惯例请人代写。名后是他的花押。",
+      "english": "Scribe: Li Fengquan, who wrote the deed on the seller's behalf. The character-like sign after his name is his personal signature mark (huaya).",
+      "confidence": "medium",
+      "note": "名后一字为花押，不作文字转录（以□表示）。“銓”字较清楚但仍请核对。"
+    },
+    {
+      "id": "r15",
+      "category": "other",
+      "label": {
+        "zh": "吉语：為永保千秋",
+        "en": "Auspicious phrase"
+      },
+      "bbox": [
+        0.038,
+        0.105,
+        0.138,
+        0.3
+      ],
+      "original": "為永保千秋",
+      "modern_zh": "契尾的大字吉祥语，斜写：“为永保千秋”，意思是愿此产业永保千秋万代。这类吉语常见于福建契约。整张契纸没有官府红印、也没有粘连契尾，属于“白契”——即买卖双方私下订立、未到官府纳税盖印的契约；相对的是缴过契税、钤有官印的“红契”。白契在民间同样被普遍承认，但在官府诉讼中证明力较弱。",
+      "english": "Large auspicious phrase written diagonally: 'May it be kept forever for a thousand autumns.' The whole deed carries no official seal or attached tax receipt (qiwei), so it is a 'white deed' (baiqi): a private contract never registered or taxed at the county office, as opposed to a 'red deed' (hongqi) bearing the official red seal. White deeds were widely accepted among the people but carried less weight in official litigation.",
+      "confidence": "high",
+      "note": "图中几处淡红色斑点似为褪色或污渍，并非官印；待核原件。"
+    }
+  ],
+  "full_text": "立賣斷契王錦發原祖遺鬮分份下有肆柱店 / 面右半爿內門窓[?]戶槅[?]前搨[?]板地棚一切俱全 / 坐產閩邑橫山鋪秋龍社地方前至官街後王 / 清官屋在左邊錦枝半爿店右至何家店上 / 至椽桁磚瓦下至廊石磉石地基地陸[?]至俱載 / 明白今因要用情願將此右邊店面半爿託中友 / 賣斷與堂兄 / 錦枝處永遠為業三面言議本日賣斷得店屋 / 價錠銀柒拾伍兩正庫砝大錠白足色足兌其銀 / 即日隨契親手收足其右邊半爿店屋即听堂 / 兄錦枝永遠管業千秋或自己居住或召租 / 他人或折毀改式起蓋聽從其便係錦發自斷 / 之後價足心願永斷葛藤向後永不敢言贖 / 言湊言盡亦不敢別生枝節索取花紅之理但 / 此店屋右爿[?]半爿係錦發祖遺鬮分份下物業 / 與親疎房份伯叔兄弟侄等無干亦未曾重 / 張典當他人財物以及來歷不明各等情如有 / 此情係錦發出頭抵當不涉堂兄之事兩相允 / 愿各無翻悔今欲有憑立賣斷契乙[?]紙付執 / 永遠為照[?] / 內併繳林春源典斷契司單下半[?]屯[?]相連標照[?] / 知契母林氏 / 光緒拾叁年叁月拾捌日立賣斷契王錦發 / 胞弟森發 / 俊發 / 在見堂兄 / 永發 / 中友林細弟 / 代筆李逢銓□ / 為永保千秋",
+  "review": {
+    "status": "ai-draft",
+    "notes": "AI 初稿：bbox 按裁切图核对过列位置；带 [?] 的字及各 region note 中“待核”事项需人工校对。区域数为15，“胞弟/在見”合为一区，“缘由/买主”合为一区。"
+  }
+}

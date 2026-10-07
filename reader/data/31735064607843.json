@@ -1,0 +1,310 @@
+{
+  "id": "31735064607843",
+  "image": "31735064607843_001.jpg",
+  "width": 1976,
+  "height": 2500,
+  "source_url": "https://digital.library.pitt.edu/islandora/object/pitt%3A31735064607843",
+  "title": {
+    "zh": "嘉慶十年趙守藻轉典田面契",
+    "en": "Deed of re-pledge of field-surface rights by Zhao Shouzao, 1805"
+  },
+  "date": {
+    "original": "嘉慶拾年伍月",
+    "western": "1805",
+    "zh": "嘉庆十年五月",
+    "en": "5th month, 10th year of Jiaqing (1805)"
+  },
+  "type": {
+    "zh": "轉典契（紅契，鈐官印；民國驗契）",
+    "en": "Deed of re-pledge (red deed with official seals; re-verified in the Republican era)"
+  },
+  "place": {
+    "zh": "侯官縣草市都馬坑地方（土名坑口）",
+    "en": "Kengkou, Makeng, Caoshi ward, Houguan County (Fuzhou)"
+  },
+  "summary": {
+    "zh": "嘉庆十年（1805）五月，赵守藻把一个月前从陶天翰买来的侯官县草市都马坑的田面，以银十四两转典给林姓（应即林有柱），约三年后可按原价赎回。中见人杨海武，代笔林标。契上有清代官印，民国初年又加盖验契戳记；关联契纸31735064607884（1913年典按契单）登记的正是林有柱自嘉庆十年五月典受赵守藻的这份田面。",
+    "en": "In the 5th month of 1805, Zhao Shouzao re-pledged to a Mr Lin (most likely Lin Youzhu) the field-surface rights at Makeng, Caoshi ward, Houguan County, which he had bought from Tao Tianhan a month earlier, for 14 taels of silver, redeemable after three years. Yang Haiwu witnessed and Lin Biao wrote the deed. It bears Qing official seals and early-Republican verification stamps; the linked deed 31735064607884 (a 1913 registration slip) records Lin Youzhu's holding of this same pledge from Jiaqing 10/5."
+  },
+  "flow": [
+    "draft",
+    "witness",
+    "payment",
+    "tax",
+    "verify",
+    "keep"
+  ],
+  "regions": [
+    {
+      "id": "r1",
+      "category": "title",
+      "label": {
+        "zh": "契名",
+        "en": "Deed title"
+      },
+      "bbox": [
+        0.9033,
+        0.172,
+        0.0481,
+        0.112
+      ],
+      "original": "立轉典契",
+      "modern_zh": "「立转典契」：这是一份转典契。典是一种附回赎权的让渡：出典人把田交给承典人使用收益，换取一笔典价，约定期满可按原价赎回。「转典」指自己原先典（或买）来的田面，再典给第三人。",
+      "english": "\"Deed of re-pledge (zhuan dian)\". Dian is a conditional conveyance: the holder hands over use and income of land for a lump sum and keeps the right to redeem it later at the same price. Zhuan dian means passing on to a third party land rights one had acquired earlier.",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r2",
+      "category": "seller",
+      "label": {
+        "zh": "立契人（转典人）及田面来历",
+        "en": "Grantor and origin of the land rights"
+      },
+      "bbox": [
+        0.9033,
+        0.282,
+        0.0481,
+        0.716
+      ],
+      "original": "趙守藻于嘉慶拾年肆月間買得陶天翰民田面數號坐產侯官縣草市都",
+      "modern_zh": "立契人赵守藻。他在嘉庆十年四月间从陶天翰手里买得民田的「田面」若干号，田坐落在侯官县草市都。「田面」是福建一带「一田两主」习惯中的耕作/收租权（与负担钱粮的「田底」相对），可以单独买卖、典当。",
+      "english": "The grantor is Zhao Shouzao. In the 4th month of Jiaqing 10 (1805) he had bought the 'surface rights' (tianmian) to several plots of commoner land from Tao Tianhan; the land lies in Caoshi ward (du), Houguan County. Tianmian is the cultivation/rent-collecting layer of the 'one field, two owners' custom of Fujian, which could be sold or pledged separately from the subsoil.",
+      "confidence": "high",
+      "note": "趙守藻也在左下方落款「立轉典契趙守藻（押）」（约 x 0.17–0.22, y 0.64–0.86），因区域数量限制未单独框出。待核：「買得」后为「陶天翰」，「數號」後一字讀作「號」的異寫。"
+    },
+    {
+      "id": "r3",
+      "category": "property",
+      "label": {
+        "zh": "标的：坐落、佃户、租额与粮额",
+        "en": "Property: location, tenant, rent and tax quota"
+      },
+      "bbox": [
+        0.8274,
+        0.172,
+        0.0759,
+        0.826
+      ],
+      "original": "馬坑地方土名坑口佃林有棟耕作逐年栽早晚祖谷壹百柒拾觔乾淨祖秤[?]送家交納 / 其粮色掛在草市都五甲陶孔鏞戶下應粮陸分伍厘色壹升歷[?]年收祖無異今因別用托",
+      "modern_zh": "田在马坑地方，土名「坑口」，由佃户林有栋耕种，每年早晚两季交租谷一百七十斤，要用干净的租谷、按租秤称量送到家中交纳。这块田的钱粮登记在草市都五甲陶孔镛户名下，应纳粮（税额）六分五厘、米（粮色）一升，历年收租都没有问题。（列末「今因別用，托」是立契缘由的开头，接下一列。）",
+      "english": "The land is at Makeng, locally called Kengkou, cultivated by the tenant Lin Youdong, who each year delivers 170 jin of clean early- and late-crop rent grain, weighed on the rent steelyard, to the owner's house. Its tax is registered under the household of Tao Kongyong in the 5th jia of Caoshi ward: 0.065 (tael) of land tax plus 1 sheng of tax grain; rent has been collected without trouble every year. (The end of the column, 'now because of other needs, through...', begins the reason clause.)",
+      "confidence": "medium",
+      "note": "契中写「祖」实为「租」的同音借字。待核：「祖秤」一字；「歷年」的「歷」为草写，把握一般；「壹百柒拾觔」中「柒」字。"
+    },
+    {
+      "id": "r4",
+      "category": "reason",
+      "label": {
+        "zh": "立契缘由",
+        "en": "Reason for the deed"
+      },
+      "bbox": [
+        0.7885,
+        0.172,
+        0.039,
+        0.1
+      ],
+      "original": "（今因別用托）中轉典與",
+      "modern_zh": "（上列末尾：「今因别用，托」）中人说合，转典给……。缘由只是笼统的「别用」（另有用途、需要用钱）。「托中」即请中间人出面。",
+      "english": "(Continuing from the previous column: 'Now, because the money is needed for other purposes, through') a middleman the land is re-pledged to ... The stated reason is the formulaic 'other needs'.",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r5",
+      "category": "buyer",
+      "label": {
+        "zh": "承典人（银主）",
+        "en": "Recipient of the pledge (money-lender)"
+      },
+      "bbox": [
+        0.7515,
+        0.138,
+        0.0405,
+        0.034
+      ],
+      "original": "林",
+      "modern_zh": "承典人姓林，名字未写全，只写「林」字并抬头（高出其他字）以示尊敬。据关联契纸（31735064607884，民国二年典按契单），此人应是林有柱。下文称他为「银主」。",
+      "english": "The recipient is surnamed Lin; only the surname is written, raised above the line as a mark of respect. The linked 1913 registration slip (31735064607884) records Lin Youzhu as the one who took this field surface in pledge, so 'Lin' is very likely Lin Youzhu. The text later calls him the 'silver-master' (yinzhu).",
+      "confidence": "medium",
+      "note": "待核：林有柱之名來自關聯契紙，本契未寫全名。"
+    },
+    {
+      "id": "r6",
+      "category": "price",
+      "label": {
+        "zh": "典价及交割",
+        "en": "Pledge price and handover"
+      },
+      "bbox": [
+        0.753,
+        0.182,
+        0.039,
+        0.816
+      ],
+      "original": "處為業三面言議本日得訖價銀壹拾肆[?]兩正其銀即日收足其田即聽銀主前去會佃收祖其粮",
+      "modern_zh": "（转典给林）处管业。三方当面议定，本日已收到典价银十四两整，银子当天收足；田即由银主（承典人林某）去会见佃户、收租。「三面」指出典人、承典人、中人三方。",
+      "english": "...for him to manage. Agreed face-to-face by the three parties, the price of 14 taels of silver was received in full today; the land is immediately handed over, and the silver-master may go meet the tenant and collect the rent. 'Three parties' = grantor, recipient and middleman.",
+      "confidence": "medium",
+      "note": "价银处被官印压盖。待核：「壹拾肆兩」的「肆」字。"
+    },
+    {
+      "id": "r7",
+      "category": "clause",
+      "label": {
+        "zh": "税粮、回赎期限与担保条款",
+        "en": "Tax transfer, redemption term and guarantee clauses"
+      },
+      "bbox": [
+        0.5567,
+        0.176,
+        0.1964,
+        0.82
+      ],
+      "original": "色照縣例料派過割入戶了納粮色言[?]約叁年為限俟限滿之日聽藻備價照契面銀兩每兩扣[?] / 錢[?]捌□伍拾文義[?]取贖銀主不得挽[?]留異[?]求[?]取贖仍聽管業倘限內原主取贖聽其贖回此田係藻 / 手置物業與別房伯叔兄弟侄無干亦未曾重張典當他人財物如有來歷不明係藻出頭 / 承當與銀主無涉兩家允愿各無反悔今欲有憑立轉典契壹紙併繳原典壹紙共成貳紙統 / 付為照（押） 併陶君良原契壹紙再照",
+      "modern_zh": "钱粮按县里惯例过户到承典人户下交纳。约定三年为期：期满之日，听凭赵守藻按契面银两（每两折算若干文钱）备价赎回，银主不得留难；（不赎）仍由银主管业；若限内原主要赎，也听其赎回。此田是守藻自己置的产业，与别房叔伯兄弟侄无关，也没有重复典当给他人；若来历不明，由守藻出面承担，与银主无关。双方情愿，不得反悔。为有凭据，立转典契一纸，并缴出原来的典契一纸，共两纸一并交付为证；另附陶君良原契一纸。",
+      "english": "The tax is to be transferred to the recipient's household per county custom. The term is three years: when it ends, Zhao Shouzao may redeem by paying back the face-value silver (converted at a stated number of copper cash per tael), and the silver-master may not obstruct; if not redeemed, the silver-master keeps managing it; if the original owner redeems within the term, that is also allowed. The land is Zhao's own acquisition, unrelated to other branches of his kin, and has not been pledged twice; any dispute over its origin is his responsibility, not the silver-master's. Both sides consent without regret. As proof he makes this re-pledge deed and hands over the earlier pledge deed, two papers in all, plus Tao Junliang's original deed.",
+      "confidence": "low",
+      "note": "待核：第二列开头「錢捌□伍拾文」（每两折钱数）及「義取贖」「挽留異求」几字辨认很没把握；「言約」的「言」被印遮。「併繳原典壹紙」說明趙守藻手中的田面本身也有更早的典契。"
+    },
+    {
+      "id": "r8",
+      "category": "other",
+      "label": {
+        "zh": "计开田号亩数（地块清单）",
+        "en": "List of plot numbers and areas"
+      },
+      "bbox": [
+        0.3543,
+        0.184,
+        0.1999,
+        0.536
+      ],
+      "original": "計開田號畝數 / 一田第六區地字五百八十六號土名塔[?]下則園丈[?]捌厘　柳[?]奈[?]園八笪[?]田 / 五百八十七號土名坑口下則園肆分零叁毫柒絲伍忽 / 五百八十八號土名荒[?]地下則地弍分弍厘叁毫柒絲五忽 / 五百八十九號土名坑裡下則園丈[?]伍厘 / 內改藻字壹字再照",
+      "modern_zh": "列出田的地号和面积：第六区「地」字586号（土名塔下，下则园，八厘？）、587号（土名坑口，下则园，四分零三毫七丝五忽）、588号（下则地，二分二厘三毫七丝五忽）、589号（土名坑里，下则园，五厘？）。「下则」是田地等级（下等）。分、厘、毫、丝、忽是亩以下的面积单位。最后一列小字「内改藻字一字再照」：契内改动过一个「藻」字，特此注明。",
+      "english": "Plot list: District 6, 'Di' series nos. 586 (place-name Taxia, low-grade garden, ~0.008 mu?), 587 (Kengkou, low-grade garden, 0.04375 mu), 588 (low-grade land, 0.02375 mu) and 589 (Kengli, low-grade garden, ~0.005 mu). Fen/li/hao/si/hu are decimal fractions of a mu. The small last line notes that one character 'Zao' in the deed was corrected.",
+      "confidence": "low",
+      "note": "待核：「第六區」的區號編法像是後來（清末/民國）的地號，或為後補；「丈」字含義不明（或為「一」的異寫）；586號旁小字「柳奈園八笪田」辨認很沒把握。"
+    },
+    {
+      "id": "r9",
+      "category": "date",
+      "label": {
+        "zh": "立契日期",
+        "en": "Date"
+      },
+      "bbox": [
+        0.1797,
+        0.092,
+        0.0557,
+        0.4
+      ],
+      "original": "嘉慶拾年伍月　吉[?]□",
+      "modern_zh": "嘉庆十年五月吉日（公元1805年）。日期写在大红官印上。「吉」下纸有破洞，「日」字可能缺失。",
+      "english": "An auspicious day of the 5th month, 10th year of Jiaqing (1805). The date is written over a large red official seal; the paper is torn below 吉, so 日 is probably lost.",
+      "confidence": "high",
+      "note": "買入田面在同年四月，一個月後即轉典。"
+    },
+    {
+      "id": "r10",
+      "category": "middleman",
+      "label": {
+        "zh": "中见人",
+        "en": "Middleman / witness"
+      },
+      "bbox": [
+        0.1255,
+        0.676,
+        0.0466,
+        0.176
+      ],
+      "original": "中見友楊海武（押）",
+      "modern_zh": "中见人（作中证的朋友）杨海武，并画押。中人负责说合交易、见证付款，日后有纠纷要出来作证。",
+      "english": "Witness and go-between: friend Yang Haiwu, with his signature mark. The middleman arranged the deal, witnessed payment, and could be called to testify later.",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r11",
+      "category": "scribe",
+      "label": {
+        "zh": "代笔人",
+        "en": "Scribe"
+      },
+      "bbox": [
+        0.081,
+        0.676,
+        0.0481,
+        0.192
+      ],
+      "original": "代筆林標人[?]（押）",
+      "modern_zh": "代笔人林标，替立契人书写契文并画押。",
+      "english": "Scribe: Lin Biao, who wrote the deed on the grantor's behalf, with his mark.",
+      "confidence": "medium",
+      "note": "待核：「林標」後一字似「人」，或為名字一部分。"
+    },
+    {
+      "id": "r12",
+      "category": "seal",
+      "label": {
+        "zh": "官印（嘉庆年间）",
+        "en": "Official seal (Qing)"
+      },
+      "bbox": [
+        0.1341,
+        0.184,
+        0.1493,
+        0.122
+      ],
+      "original": "（篆文官印，印文未能识读）",
+      "modern_zh": "盖在日期上的大方形朱红官印，篆书（左半可能是满文篆字），应是县衙在纳税（税契）时加盖的官印。正文价银处还有一方同样形制的官印（约 x 0.66–0.81, y 0.38–0.54），斜盖在价银数字上，防止涂改。",
+      "english": "Large square red official seal in seal script (left half possibly Manchu seal script) stamped over the date, probably applied by the county yamen when the deed was taxed. A second, similar seal is stamped diagonally over the price in the main text (approx. x 0.66–0.81, y 0.38–0.54) to prevent tampering.",
+      "confidence": "low",
+      "note": "待核：印文未識讀，可能為「侯官縣印」滿漢合璧印，需專人核對。"
+    },
+    {
+      "id": "r13",
+      "category": "seal",
+      "label": {
+        "zh": "民国验契戳记",
+        "en": "Republican-era deed-verification stamps"
+      },
+      "bbox": [
+        0.2505,
+        0.048,
+        0.1088,
+        0.12
+      ],
+      "original": "西湖區驗[?]稅[?]契分[?]事務所　（框內）勸[?]□　陳[?]　□　驗訖",
+      "modern_zh": "左上角长方形红框戳记，旁边印有「西湖区验契……事务所」字样，框内印「验讫」，并有墨笔批写。这是民国初年政府要求旧契重新登记查验（验契）时盖的。右上角另有一方红色「验」字戳，旁有苏州码子式的墨笔编号（约 x 0.83–0.92, y 0.11–0.17）。与关联契纸（1913年典按契单）时间一致。",
+      "english": "Rectangular red stamp at top left with printed text roughly 'Xihu District Deed-Verification (Tax) Branch Office' and 'verified' (yanqi) inside the frame, plus ink annotations. It was applied when the early Republican government required old deeds to be re-registered. A separate red 'Yan' (verified) stamp with an ink number in Suzhou numerals appears at top right (approx. x 0.83–0.92, y 0.11–0.17). This fits the linked 1913 registration slip.",
+      "confidence": "low",
+      "note": "待核：印刷字逐字辨認不確定；框內墨筆字無法識讀；右上角墨筆數碼未讀出。"
+    },
+    {
+      "id": "r14",
+      "category": "other",
+      "label": {
+        "zh": "契尾吉语「大进益」",
+        "en": "Auspicious phrase 'Great progress and gain'"
+      },
+      "bbox": [
+        0.0658,
+        0.156,
+        0.0734,
+        0.154
+      ],
+      "original": "大進益",
+      "modern_zh": "「大进益」是写在契纸上的吉祥语，祝愿承典人财运大进、获益。",
+      "english": "'Da jin yi' – an auspicious phrase wishing the holder great progress and profit.",
+      "confidence": "high",
+      "note": "左下邊另有幾方小紅印及半圓形騎縫印（約 x 0.06–0.11, y 0.59–0.72），旁有殘缺字跡，可能與原來相連的契紙騎縫，待核。"
+    }
+  ],
+  "full_text": "立轉典契趙守藻于嘉慶拾年肆月間買得陶天翰民田面數號坐產侯官縣草市都 / 馬坑地方土名坑口佃林有棟耕作逐年栽早晚祖谷壹百柒拾觔乾淨祖秤[?]送家交納 / 其粮色掛在草市都五甲陶孔鏞戶下應粮陸分伍厘色壹升歷[?]年收祖無異今因別用托 / 中轉典與 / 林 / 處為業三面言議本日得訖價銀壹拾肆[?]兩正其銀即日收足其田即聽銀主前去會佃收祖其粮 / 色照縣例料派過割入戶了納粮色言[?]約叁年為限俟限滿之日聽藻備價照契面銀兩每兩扣[?] / 錢[?]捌□伍拾文義[?]取贖銀主不得挽[?]留異[?]求[?]取贖仍聽管業倘限內原主取贖聽其贖回此田係藻 / 手置物業與別房伯叔兄弟侄無干亦未曾重張典當他人財物如有來歷不明係藻出頭 / 承當與銀主無涉兩家允愿各無反悔今欲有憑立轉典契壹紙併繳原典壹紙共成貳紙統 / 付為照（押）　併陶君良原契壹紙再照 / 計開田號畝數 / 內改藻字壹字再照 / 一田第六區地字五百八十六號土名塔[?]下則園丈[?]捌厘　柳[?]奈[?]園八笪[?]田 / 五百八十七號土名坑口下則園肆分零叁毫柒絲伍忽 / 五百八十八號土名荒[?]地下則地弍分弍厘叁毫柒絲五忽 / 五百八十九號土名坑裡下則園丈[?]伍厘 / 嘉慶拾年伍月　吉[?]□ / 立轉典契趙守藻（押） / 中見友楊海武（押） / 代筆林標人[?]（押） / 大進益",
+  "review": {
+    "status": "ai-draft",
+    "notes": "AI 初稿，待人工校對。關聯契紙：31735064607884（民國二年典按契單，登記林有柱典受趙守藻田面，嘉慶十年伍月）。最沒把握：條款第二列每兩折錢數及「義取贖」「挽留異求」；地塊清單面積與土名；兩方官印及驗契戳記印文。中央價銀處官印未單獨框出（區域數限制）。"
+  }
+}

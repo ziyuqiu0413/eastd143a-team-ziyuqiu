@@ -1,0 +1,307 @@
+{
+  "id": "31735064607884",
+  "image": "31735064607884_001.jpg",
+  "width": 2258,
+  "height": 2500,
+  "source_url": "https://digital.library.pitt.edu/islandora/object/pitt%3A31735064607884",
+  "title": {
+    "zh": "民國二年福建國稅廳籌備處發給林有柱典按契單（驗契）",
+    "en": "Republican deed-verification certificate for a pledge deed, issued to Lin Youzhu by the Fujian State Tax Office Preparatory Bureau, 1913"
+  },
+  "date": {
+    "original": "中華民國貳年拾壹月叁拾日",
+    "western": "1913",
+    "zh": "中华民国二年十一月三十日",
+    "en": "30th day, 11th month, 2nd year of the Republic of China (1913)"
+  },
+  "type": {
+    "zh": "典按契單（官印契單，驗契用）",
+    "en": "Official deed certificate for pledge/mortgage deeds (Republican re-verification)"
+  },
+  "place": {
+    "zh": "閩侯縣草市都馬坑",
+    "en": "Makeng, Caoshi ward, Minhou County (Fuzhou), Fujian"
+  },
+  "summary": {
+    "zh": "这是1913年福建国税厅筹备处按财政部《划一契纸章程》发给业户林有柱的验契凭单。林有柱把他家在清嘉庆十年（1805）从赵守藻处典受田面租谷170斤的旧契（即本馆藏 31735064607843）呈交官府查验，缴纳纸价后，官府填写此单、粘连原契盖印发还。民国政府要求旧契限期验契，一方面收取纸价、补征契税以增加财政收入，另一方面重新登记产权；不验契的旧契在诉讼中不被承认。",
+    "en": "This certificate was issued in 1913 by the Fujian State Tax Office Preparatory Bureau under the Ministry of Finance’s uniform deed-paper regulations to Lin Youzhu, who presented his family’s 1805 deed by which they took in pledge, from Zhao Shouzao, a field-surface rent of 170 jin of grain (the deed held as 31735064607843). After the paper fee was paid, the office filled in this form, pasted it to the old deed and sealed it. The young Republic required old Qing deeds to be verified both to raise revenue (fees and back taxes) and to re-register property rights; unverified deeds would not count as evidence in court."
+  },
+  "flow": [
+    "tax",
+    "verify",
+    "keep"
+  ],
+  "regions": [
+    {
+      "id": "r1",
+      "category": "title",
+      "label": {
+        "zh": "契名：典按契單",
+        "en": "Title: Certificate for a pledge/mortgage deed"
+      },
+      "bbox": [
+        0.159,
+        0.112,
+        0.669,
+        0.072
+      ],
+      "original": "典按契單",
+      "modern_zh": "“典按契单”：民国初年官方统一印制的契据凭单。“典”指典当（出典人把田产交给承典人使用收益，换取一笔典价，日后可原价赎回），“按”指抵押。这一种契单专门用于典、按类的旧契，与“卖契契单”相区别。",
+      "english": "“Dian-an qidan”: a standardized, government-printed deed certificate of the early Republic, used for conditional-sale (dian, a redeemable pledge of land in exchange for a lump sum) and mortgage (an) deeds, as distinct from the form used for outright sales.",
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "id": "r2",
+      "category": "official",
+      "label": {
+        "zh": "官方印刷章程（福建國稅廳籌備處）",
+        "en": "Printed regulations of the Fujian State Tax Office (Preparatory Bureau)"
+      },
+      "bbox": [
+        0.666,
+        0.196,
+        0.256,
+        0.705
+      ],
+      "original": "福建國稅廳籌備處　為給發契單事案奉財政部電行劃一契紙章程內開本章程施行以前成立之不動產舊契無論已稅契未稅契均應一律限期呈驗逾限不呈驗者於訴訟時不能作為憑據一併函知司法機關認真辦理以為匿驗者戒等因奉此當經擬定分別徵收方法已稅之舊契每張收紙價壹元未稅之舊契每產價百元收紙價壹元其光復後新契已稅者不收紙價酌定正限三個月餘限兩個月逾期呈驗者分別加徵嚴罰經已電奉財政部核准照辦並通飭遵照在案",
+      "modern_zh": "福建国税厅筹备处为发给契单一事：接财政部电令推行《划一契纸章程》，规定章程实施以前订立的不动产旧契，不论是否已纳过契税，都必须在限期内呈交官府查验（验契）；过期不呈验的，日后打官司时不能当作凭据，并已通知司法机关严格执行，以警告隐匿不验的人。本处据此拟定收费办法：已纳税的旧契每张收纸价（契单工本费）1元；未纳税的旧契按产价每100元收纸价1元；辛亥光复以后已纳税的新契不收纸价。正式期限3个月，宽限2个月，逾期呈验的分别加征、严罚。此办法已电报财政部核准，并通令各地遵照。",
+      "english": "The Fujian State Tax Office Preparatory Bureau issues this certificate as follows. By telegraphic order of the Ministry of Finance implementing the Regulations for Uniform Deed Paper: all old real-estate deeds made before these regulations, whether or not tax was paid on them, must be presented for verification within a time limit; deeds not presented in time will not be accepted as evidence in lawsuits, and the judicial authorities have been notified, as a warning to those who conceal deeds. The bureau set the fees: an old deed already taxed pays a paper fee of 1 yuan per sheet; an untaxed old deed pays 1 yuan per 100 yuan of property value; new deeds made and taxed after the 1911 Restoration pay nothing. The regular period is three months with two more months' grace; late presentation incurs surcharges and penalties. The Ministry approved this by telegram and ordered compliance.",
+      "confidence": "high",
+      "note": "Key sentence: 本章程施行以前成立之不動產舊契無論已稅契未稅契均應一律限期呈驗逾限不呈驗者於訴訟時不能作為憑據。背景：民国政府通过验契既增加财政收入（纸价、补税），又重新登记产权、把清代旧契纳入新政权的产权体系。"
+    },
+    {
+      "id": "r3",
+      "category": "buyer",
+      "label": {
+        "zh": "業戶（承典人）及原契年月",
+        "en": "Holder (pledgee) and date of the original deed"
+      },
+      "bbox": [
+        0.632,
+        0.528,
+        0.035,
+        0.377
+      ],
+      "original": "今據閩侯縣業戶林有柱於清嘉慶拾年伍月",
+      "modern_zh": "现据闽侯县业户林有柱（呈报），他在清嘉庆十年五月……。“业户”指产业的持有人，这里就是当年的承典人林有柱。嘉庆十年即1805年。文末另有一行“右给业户林有柱准此”（本单发给业户林有柱收执），位于中下部、红印上方。",
+      "english": "Now, according to Lin Youzhu, property holder (yehu) of Minhou County, who in the 5th month of the 10th year of Jiaqing of the Qing (1805)… The yehu is the person holding the property rights — here Lin Youzhu, the pledgee of the old deed. A separate line near the bottom centre reads 右給業戶林有柱准此, “the above is issued to the holder Lin Youzhu”.",
+      "confidence": "high",
+      "note": "「林有柱」「拾」「伍」为手写填入。「右給業戶林有柱准此」位置约 bbox [0.432,0.67,0.031,0.202]。"
+    },
+    {
+      "id": "r4",
+      "category": "seller",
+      "label": {
+        "zh": "原出典人",
+        "en": "Original grantor of the pledge"
+      },
+      "bbox": [
+        0.601,
+        0.25,
+        0.028,
+        0.114
+      ],
+      "original": "日典受趙守藻",
+      "modern_zh": "（嘉庆十年五月某）日，从赵守藻处典受（承典）。“典受”就是作为承典人接受典当的产业，所以赵守藻是当年的出典人。日期的“日”字前未填具体日子。",
+      "english": "…on the [unspecified] day, took in pledge (dianshou) from Zhao Shouzao. Zhao Shouzao is thus the original grantor (the one who pledged the property); the day of the month was left blank.",
+      "confidence": "high",
+      "note": "「趙守藻」小字手写。与本馆藏 31735064607843（嘉慶十年趙守藻轉典契）对应：林有柱所呈验的旧契应即该契。待核：该契为「轉典」，即趙守藻本人可能也是典进后再转典给林家，需对照原契。"
+    },
+    {
+      "id": "r5",
+      "category": "property",
+      "label": {
+        "zh": "标的及坐落",
+        "en": "Property and location"
+      },
+      "bbox": [
+        0.601,
+        0.362,
+        0.029,
+        0.358
+      ],
+      "original": "田面租谷壹百柒拾斤　坐落閩侯縣草市都馬坑地方",
+      "modern_zh": "标的是“田面租谷一百七十斤”——即每年可收取的田面租谷170斤的权利（福建常见“一田二主”，田面权与田根/田骨权分开买卖、典当）。产业坐落在闽侯县草市都马坑地方。",
+      "english": "The property is the right to 170 jin of grain rent from the ‘field surface’ (tianmian) — in Fujian’s ‘one field, two owners’ system, surface rights and subsoil rights were held and transferred separately. It lies at Makeng, Caoshi ward (du), Minhou County.",
+      "confidence": "medium",
+      "note": "待核：「柒」字手写，略似「柒」亦可能为其他数字；「草市都」「馬坑」小字手写，「坑」字较清楚。「田面租」的确切含义（田面权本身或田面所出租谷）需对照原契。"
+    },
+    {
+      "id": "r6",
+      "category": "boundary",
+      "label": {
+        "zh": "四至、坐向（空白）",
+        "en": "Boundaries and orientation (left blank)"
+      },
+      "bbox": [
+        0.569,
+        0.25,
+        0.032,
+        0.655
+      ],
+      "original": "西至　北至　坐向　橫　丈　尺　直　丈　尺　中",
+      "modern_zh": "表格预印了四至（东、南、西、北各到哪里）和坐向、横直丈尺等栏目，但都没有填写。东至、南至两栏在左侧相邻的坐落一列下方，也是空白。对于“租谷”类标的，原契往往不写四至，所以这里留空。",
+      "english": "The printed form provides fields for the four boundaries (east, south, west, north), orientation, and dimensions (breadth and length in zhang and chi), but none is filled in. The east and south fields at the foot of the neighbouring column are also blank — common when the property is a grain-rent right rather than a measured plot.",
+      "confidence": "high",
+      "note": "东至在 [0.605,0.716] 附近、南至在 [0.611,0.83] 附近，均空白。"
+    },
+    {
+      "id": "r7",
+      "category": "middleman",
+      "label": {
+        "zh": "證（证人）",
+        "en": "Witness/guarantor"
+      },
+      "bbox": [
+        0.534,
+        0.202,
+        0.035,
+        0.092
+      ],
+      "original": "證楊海武",
+      "modern_zh": "证（证明人）：杨海武。可能是验契时出面担保旧契真实、业户无误的保证人，也可能是照抄原契中的中人。",
+      "english": "Witness (zheng): Yang Haiwu — probably the person vouching for the old deed and the holder at verification, or possibly a middleman copied from the original deed.",
+      "confidence": "medium",
+      "note": "待核：楊海武 是否出现在 1805 年原契中？「武」字手写尚清楚。"
+    },
+    {
+      "id": "r8",
+      "category": "price",
+      "label": {
+        "zh": "原價銀及折合銀元；原契已稅",
+        "en": "Original price and its conversion; original deed already taxed"
+      },
+      "bbox": [
+        0.534,
+        0.294,
+        0.036,
+        0.612
+      ],
+      "original": "原價銀拾肆兩申銀貳拾元原契已稅遵章依限呈驗應納",
+      "modern_zh": "原契典价银十四两，折合（“申”即换算）银元二十元。原契已经纳过契税，依照章程在限期内呈验，应缴纳（纸价，见左一列）。",
+      "english": "Original price: 14 taels of silver, converted (shen) to 20 silver dollars (yuan). The original deed was already taxed and has been presented for verification within the time limit as required, and the fee due is… (continued in the next column: the paper fee).",
+      "confidence": "medium",
+      "note": "待核：哪些数字是印刷、哪些是手写（「肆」「貳」似手写，「拾」似印刷或手写难辨）。两边骑缝印文也写「產價銀貳拾元」，可互证。"
+    },
+    {
+      "id": "r9",
+      "category": "tax",
+      "label": {
+        "zh": "紙價（验契费）",
+        "en": "Paper fee (verification fee)"
+      },
+      "bbox": [
+        0.5,
+        0.202,
+        0.034,
+        0.654
+      ],
+      "original": "紙價　業已如數收訖合塡契單粘連原契印給收執管業須至契單者",
+      "modern_zh": "纸价（契单工本费，即验契费）已经如数收讫。填写这张契单，粘连在原契上，盖印后发给业户收执，作为管业（管理产业）的凭证。按章程，已税旧契每张收纸价1元。",
+      "english": "The paper fee (the charge for this certificate, in effect the verification fee) has been received in full. This certificate is filled in, pasted to the original deed, sealed, and given to the holder to keep as proof of his right to manage the property. Under the rules, an already-taxed old deed paid 1 yuan.",
+      "confidence": "medium",
+      "note": "待核：「紙價」后金额栏似未填写（或字迹极淡），推测应为壹元。"
+    },
+    {
+      "id": "r10",
+      "category": "date",
+      "label": {
+        "zh": "发给日期",
+        "en": "Date of issue"
+      },
+      "bbox": [
+        0.141,
+        0.22,
+        0.045,
+        0.608
+      ],
+      "original": "中華民國貳年拾壹月叁拾日給",
+      "modern_zh": "中华民国二年十一月三十日发给（1913年）。“贰”“拾壹”“叁拾”为手写。日期上钤福建国税厅筹备处大印。",
+      "english": "Issued on the 30th day of the 11th month of the 2nd year of the Republic of China (1913). The year, month and day numerals are handwritten, and the date is overlaid with the official seal.",
+      "confidence": "high",
+      "note": "待核：「叁拾」写在「月」与「日」之间较远处，读作「叁拾日」。"
+    },
+    {
+      "id": "r11",
+      "category": "tax",
+      "label": {
+        "zh": "驗字编号",
+        "en": "Verification serial number"
+      },
+      "bbox": [
+        0.084,
+        0.712,
+        0.04,
+        0.17
+      ],
+      "original": "驗字第四萬五千七百七十二號",
+      "modern_zh": "验字第45772号：验契登记的流水号，与契单骑缝处的编号对应，便于官府存根核查。",
+      "english": "Verification (yan) serial no. 45,772 — the registration number of this verification, matching the number on the stub along the seam.",
+      "confidence": "medium",
+      "note": "待核：编号小字手写，「四」（写作罒形）、「五」「七」「七」「二」需复核。"
+    },
+    {
+      "id": "r12",
+      "category": "seal",
+      "label": {
+        "zh": "官印：福建國稅廳籌備處關防",
+        "en": "Seal of the Fujian State Tax Office Preparatory Bureau"
+      },
+      "bbox": [
+        0.073,
+        0.338,
+        0.155,
+        0.218
+      ],
+      "original": "福建國稅[?]廳[?]籌[?]備處[?]關防[?]",
+      "modern_zh": "钤在日期上的长方形朱红篆书大印，右列可读出“福建国□”，推测印文为“福建国税厅筹备处关防”。“关防”是长方形官印，多用于临时或筹备机构。",
+      "english": "A large rectangular red seal in seal script stamped over the date. The right column reads 福建國□; the full legend is probably “Seal (guanfang) of the Fujian State Tax Office Preparatory Bureau”. Guanfang were rectangular seals typically used by temporary or preparatory offices.",
+      "confidence": "low",
+      "note": "待核：仅「福建國」较有把握，其余据印文布局与发单机关推测。"
+    },
+    {
+      "id": "r13",
+      "category": "seal",
+      "label": {
+        "zh": "官印：閩侯縣（验契）印",
+        "en": "Minhou County seal"
+      },
+      "bbox": [
+        0.463,
+        0.422,
+        0.145,
+        0.198
+      ],
+      "original": "閩侯縣□□契□局[?]□",
+      "modern_zh": "契单正中、坐落栏旁的方形朱印，右列“闽侯县”，左列可见“契”“局”等字，可能是闽侯县验契（或契税）机构的印。下方“右给业户林有柱准此”处还有一方相同的印。",
+      "english": "A square red seal in the centre beside the location column; the right column reads 閩侯縣 (Minhou County) and the left column seems to contain 契 (deed) and 局 (bureau) — probably the seal of the Minhou County deed-verification or deed-tax office. An identical seal is stamped again at lower centre over 右給業戶林有柱准此 (bbox ≈ [0.352,0.698,0.144,0.194]).",
+      "confidence": "low",
+      "note": "待核：印文中间一列无法辨认，「契」「局」均不确定。"
+    },
+    {
+      "id": "r14",
+      "category": "tax",
+      "label": {
+        "zh": "骑缝验字号及产价",
+        "en": "Seam stamps with serial number and property value"
+      },
+      "bbox": [
+        0.013,
+        0.1,
+        0.049,
+        0.88
+      ],
+      "original": "驗字第□□□□號　產價銀貳拾元[?]",
+      "modern_zh": "契单左右两边都有被裁开的骑缝字和骑缝印：原本契单与存根（或另一联）相连，官府在接缝处写上“验字第……号 产价银……元”并盖印，然后裁开，一半留官府存根，一半随契单发给业户，日后可对缝核验真伪。这里只剩半边字。",
+      "english": "Both the left and right edges carry half-characters and half-seals cut through when the certificate was separated from its counterfoil: the seam was inscribed “verification no. … / property value … yuan” and stamped, then cut, so the office stub and the holder’s copy could later be matched. Only half of each character survives here.",
+      "confidence": "low",
+      "note": "待核：左边缘较清楚，可见「驗字第」「號」「產價銀貳拾元」的半字；号码被骑缝印覆盖读不出。右边缘（bbox ≈ [0.948,0.06,0.052,0.84]）亦有「驗字第」及半边印文（印文顶部似「閩侯」）。"
+    }
+  ],
+  "full_text": "福建國稅廳籌備處　為 / 給發契單事案奉 / 財政部電行劃一契紙章程內開本章程施行以前成立之不動產舊契無論已稅契 / 未稅契均應一律限期呈驗逾限不呈驗者於訴訟時不能作為憑據一併函知司法 / 機關認真辦理以為匿驗者戒等因奉此當經擬定分別徵收方法已稅之舊契每張 / 收紙價壹元未稅之舊契每產價百元收紙價壹元其光復後新契已稅者不收紙價 / 酌定正限三個月餘限兩個月逾期呈驗者分別加徵嚴罰經已電奉 / 財政部核准照辦並通飭遵照在案今據閩侯縣業戶林有柱於清嘉慶拾年伍月 / 日典受趙守藻田面租谷壹百柒拾斤坐落閩侯縣草市都馬坑地方東至　南至 / 西至　北至　坐向橫　丈　尺直　丈　尺中 / 證楊海武　原價銀拾肆兩申銀貳拾元原契已稅遵章依限呈驗應納 / 紙價　業已如數收訖合塡契單粘連原契印給收執管業須至契單者 / 右給業戶林有柱准此 / 中華民國貳年拾壹月叁拾日給 / 驗字第四萬五千七百七十二號",
+  "review": {
+    "status": "ai-draft",
+    "notes": "AI 初稿。印文（福建國稅廳籌備處關防、閩侯縣□□契□局）、驗字號碼、田面租谷數量「柒」、紙價金額是否空白、楊海武身份均待人工核對。邊緣騎縫字只存半邊。"
+  }
+}
