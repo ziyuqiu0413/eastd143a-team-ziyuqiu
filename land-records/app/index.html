@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>契紙流年</title>
+<meta name="description" content="匹茲堡大學中國土地文書（1584–1978）的識讀與歸戶：從紅契到土改證。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC:wght@400;700&family=Noto+Serif+TC:wght@400;600;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+
+<nav class="topnav" aria-label="章節">
+  <a class="brand" href="#top"><span class="seal-mini">契</span>契紙流年</a>
+  <a href="#overview">館藏</a>
+  <a href="#genealogy">譜系</a>
+  <a href="#households">歸戶</a>
+  <a href="#parcels">九坵</a>
+  <a href="#reader">對讀</a>
+</nav>
+
+<header class="hero" id="top">
+  <div class="hero-text">
+    <p class="kicker">匹茲堡大學 · Chinese Land Records · EAL.2011.01</p>
+    <h1 class="sr-only">契紙流年：從紅契到土改證</h1>
+    <p class="hero-lede">兩百三十四件土地文書，跨越明萬曆到一九七八年。我們把它們逐件讀出來，<br>看一塊地如何在親族之間轉手，看國家如何一次次重寫產權的憑證。</p>
+    <dl class="stats" id="stats"></dl>
+  </div>
+  <div class="hero-title" aria-hidden="true">
+    <span class="v-title">從紅契到土改證</span>
+    <span class="hero-seal"><span>契紙<br>流年</span></span>
+  </div>
+</header>
+
+<main>
+  <section class="chapter" id="overview">
+    <h2 class="chapter-title"><span class="num">壹</span>館藏概覽</h2>
+    <div class="chapter-body">
+      <p class="lead">朱色是有官印的文書（館方標作 Government，大致相當紅契與官發執照），墨色是無官印的民間白契。時代越晚，官印越多。</p>
+      <figure class="chart-wrap">
+        <div id="chart-quarter" class="chart"></div>
+        <figcaption>按每二十五年統計的件數（以文書最早年份計；10 件無日期未計入）</figcaption>
+      </figure>
+      <div class="two-col">
+        <div>
+          <h3 class="sub">四個時期</h3>
+          <div id="periods" class="periods"></div>
+        </div>
+        <div>
+          <h3 class="sub">地域</h3>
+          <div id="places" class="places"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="chapter" id="genealogy">
+    <h2 class="chapter-title"><span class="num">貳</span>憑證譜系</h2>
+    <div class="chapter-body">
+      <p class="lead">同一個問題——「這塊地是誰的」——在三百多年裡換過八種紙。每一張都取自館藏原件，點擊可放大。</p>
+      <div class="strip" id="strip" tabindex="0" aria-label="憑證譜系，可橫向捲動"></div>
+    </div>
+  </section>
+
+  <section class="chapter" id="households">
+    <h2 class="chapter-title"><span class="num">參</span>家戶歸戶</h2>
+    <div class="chapter-body">
+      <p class="lead">把散落的單件重新歸到各戶，追蹤產業如何一代代轉移。<span class="tag tag-stated">原文</span>是文書上寫明的，<span class="tag tag-inferred">推測</span>是我們的判斷，兩者嚴格分開。</p>
+      <div class="tabs" role="tablist" id="hh-tabs"></div>
+      <div id="hh-panel" class="hh-panel" role="tabpanel"></div>
+    </div>
+  </section>
+
+  <section class="chapter" id="parcels">
+    <h2 class="chapter-title"><span class="num">肆</span>林修枝的九坵地</h2>
+    <div class="chapter-body">
+      <p class="lead">民國三十六年四月，林森縣政府一口氣發給林修枝九張《土地管業執照》，一坵一照。以下是每張執照上手繪的「圖略」，按執照號排列；各圖比例不同，只示形狀。</p>
+      <div class="land-mix" id="land-mix"></div>
+      <div class="parcel-grid" id="parcel-grid"></div>
+      <aside class="note-card">
+        <h3>從賦額反推的稅率</h3>
+        <table class="rates">
+          <thead><tr><th>地目・等則</th><th>每畝賦額</th><th>依據</th></tr></thead>
+          <tbody>
+            <tr><td>田・壹等中則</td><td>0.65 元</td><td>黃生官 5.20 畝 → 3.38 元</td></tr>
+            <tr><td>田・壹等下則</td><td>0.60 元</td><td>林修枝三坵</td></tr>
+            <tr><td>田／農地・貳等上則</td><td>0.50 元</td><td>林修枝、王鐘鈞</td></tr>
+          </tbody>
+        </table>
+        <p>用這張表回頭核對，「白龍厝前」那一坵等則寫「下則」，賦額 1.27 元卻正好是 1.95 畝 × 0.65，按「中則」計——矛盾出在原件本身。</p>
+      </aside>
+    </div>
+  </section>
+
+  <section class="chapter" id="reader">
+    <h2 class="chapter-title"><span class="num">伍</span>原件對讀</h2>
+    <div class="chapter-body">
+      <div class="reader-bar">
+        <label>文書 <select id="doc-select"></select></label>
+        <div class="pager"><button id="prev" aria-label="上一頁">‹</button><span id="page-label"></span><button id="next" aria-label="下一頁">›</button></div>
+        <button id="toggle-dir" class="ghost">直排</button>
+      </div>
+      <p class="doc-meta" id="doc-meta"></p>
+      <div class="reader">
+        <div class="viewer" id="viewer" title="點擊放大／縮小"><img id="page-img" alt=""></div>
+        <div class="transcript" id="transcript"></div>
+      </div>
+      <p class="fine">〔〕為手寫或戳記填寫，□ 為無法識讀，[?] 為沒有把握。識讀由 AI 完成，關鍵讀數經人工對照原件抽查；引用前請核對原件。</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p>資料：University of Pittsburgh Library System, <em>Chinese Land Records, 1584–1978</em>（EAL.2011.01）。館方標註圖像版權為 Copyright Undetermined：本頁只在本機讀取圖像，請勿公開發布。</p>
+  <p>哈佛數字人文課程黑客松 · 2026</p>
+</footer>
+
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lb-close" id="lb-close" aria-label="關閉">×</button>
+  <img id="lb-img" alt="">
+  <p id="lb-cap"></p>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
